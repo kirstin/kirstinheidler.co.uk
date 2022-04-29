@@ -25,9 +25,9 @@ bundle install
 
 To run it:
 
-´´´
+```
 bundle exec jekyll serve --trace --config _config.yml,_config_dev.yml
-´´´
+```
 
 Then, you can open the website at [localhost:4000](http://localhost:4000/).
 
