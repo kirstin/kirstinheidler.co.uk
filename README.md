@@ -33,11 +33,19 @@ Then, you can open the website at [localhost:4000](http://localhost:4000/).
 
 ![](images/readme-console.png)
 
+
+## Structure
+
+You can find the images and other big static files in 
+[kirstinheidler.co.uk-data](https://github.com/kirstin/kirstinheidler.co.uk-data).
+
+
+
+
 ## License and Trademark
 
 The MIT License applies to the theme, not to this website's content.
 The copy right does not give the right of branding.
-
 
 
  [1]: http://phlow.github.io/feeling-responsive/documentation/
