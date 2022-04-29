@@ -31,7 +31,7 @@ bundle exec jekyll serve --trace --config _config.yml,_config_dev.yml
 
 Then, you can open the website at [localhost:4000](http://localhost:4000/).
 
-
+![](images/readme-console.png)
 
 
 
