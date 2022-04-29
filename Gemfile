@@ -10,4 +10,4 @@ end
 
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
-
+gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?

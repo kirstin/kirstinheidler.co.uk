@@ -12,10 +12,24 @@ To get to know *Feeling Responsive* check out all the features explained in the 
 
 And what license is *Feeling Responsive* released under? [This one][2].
 
+## Development Setup
 
+Install [Ruby and Jekyll](https://jekyllrb.com/docs/installation/windows/).
+Open a console with Ruby.
 
+```
+cd kirstinheidler.co.uk
+gem install bundler
+bundle install
+```
 
+To run it:
 
+´´´
+bundle exec jekyll serve --trace --config _config.yml,_config_dev.yml
+´´´
+
+Then, you can open the website at [localhost:4000](http://localhost:4000/).
 
 
 
