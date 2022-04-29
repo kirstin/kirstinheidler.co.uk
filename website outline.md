@@ -3,6 +3,7 @@
 ! Building a Culture of Peace
 
 ## Vision
+<!-- CHECK SECTION -->
 Our world is rapidly changing and we need to find ways of engaging uncertainty and fear.   
 As we face finitude and crisis, I want us to be able to retain our ability to cooperate.  
 I want us to be able to hold love for one another, not succumbing to fear, othering, hatred and violence.
@@ -31,6 +32,7 @@ With this NVC has a radical potential to bring about change, as it questions cur
 [_Contact me to find out more_](#contact)
 
 ## practice groups and workshops
+<!-- CHECK SECTION -->
 
 _Peace starts with each and everyone of us right now._  
 
