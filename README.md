@@ -33,6 +33,10 @@ Then, you can open the website at [localhost:4000](http://localhost:4000/).
 
 ![](images/readme-console.png)
 
+## License and Trademark
+
+The MIT License applies to the theme, not to this website's content.
+The copy right does not give the right of branding.
 
 
 
