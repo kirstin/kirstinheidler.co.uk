@@ -1,5 +1,7 @@
 # Kirstin Heidler
 
+! Building a Culture of Peace
+
 ## Vision
 Our world is rapidly changing and we need to find ways of engaging uncertainty and fear.   
 As we face finitude and crisis, I want us to be able to retain our ability to cooperate.  
