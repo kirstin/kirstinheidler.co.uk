@@ -6,22 +6,26 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Conflict Facilitation Practice Group"
+  image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
+widgets:
+- title: "Conflict Facilitation Practice Group"
   url: 'https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/'
-  image: widget-1-302x182.jpg
+  image: melissa-askew-tSlvoSZK77c-unsplash.jpg
   text: '<!-- CHECK --><i>Peace starts with each and everyone of us right now.</i> <br/>Practice groups are a way of practicing and integrating what we know on a cognitive level. Together with others we can face the things we find challenging and be held in presence and compassion.<br/>Every first Saturday of the month. More information and sign up <a href="https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/">here</a>.'
-widget2:
-  title: "Upcoming open workshops"
+- title: "Upcoming open workshops"
   url: '/contact'
   text: '<!-- CHECK --><a href="/contact">Register or arrange for a private workshop</a>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  image: jason-goodman-6awfTPLGaCE-unsplash.jpg
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+- title: "Sessions for Individuals"
+  url: '#individuals'
+  image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
+  text: 'I am happy to offer a compassionate and safe space for exploring the difficult and sometimes painful matters of life.'
+widget4:
+  title: "Sessions for Individuals"
+  url: '#individuals'
+  image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
+  text: 'I am happy to offer a compassionate and safe space for exploring the difficult and sometimes painful matters of life.'
 #
 # Use the call for action to show a button on the frontpage
 #
