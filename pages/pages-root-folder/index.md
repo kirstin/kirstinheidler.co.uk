@@ -147,6 +147,11 @@ You can also find NVC events by me and other NVC trainers here: [nvc-uk.com](htt
 
 
 ## about me
+{% endcapture %}{{ index_markdown | markdownify }}
+<div class="row t30">
+  <div class="medium-8 columns">
+{% capture index_markdown %}
+
 I have been studying and teaching about NVC since 2014, just before my daughter was born. Now, I'm living in a yurt in rural Wales together with my partner Nicco and our two children. In 2020 we moved here from Germany.
 
 I have a Master of Science in IT-Systems Engineering, which means I have learned how to develop software. As I was doing that, I discovered for myself the vanity of writing software, because software does not touch on the deep emotional and social problems we struggle with. At best it utilizes human psychology to capitalize on us, or streamlines buerocratic processes.
@@ -162,8 +167,28 @@ Social justice is a topic that has always been dear to me and equality of worth 
 Since 2020 I'm living in rural Wales together with my family. I have two wonderful children who are 7 and 4 years old and I have my amazing partner Nicco, with whom I have been for over 10 years now.
 We live off-grid in a yurt and enjoy a very simple lifestyle, which has taught me a lot.
 
-{% endcapture %}
-{{ index_markdown | markdownify }}
+{% endcapture %}{{ index_markdown | markdownify }}
+  </div><!-- /.medium-8.columns -->
+	<div class="medium-4 columns">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+{% capture index_markdown %}
+
+
+## Testimonials
+> I really appreciate what I experience as your relaxed, confident clarity with attention to detail. 
+> I’m remembering your conflict transformation skills, persistence and courage as I see it from when we were together at camp in the summer. 
+> I’m also seeing you as incredibly resourceful [...] <cite>_Annie Scott, NVC Trainer_</cite>
+
+
+{% endcapture %}{{ index_markdown | markdownify }}
+
+
+
+
+
 
 <!--
 <div id="videoModal" class="reveal-modal large" data-reveal="">

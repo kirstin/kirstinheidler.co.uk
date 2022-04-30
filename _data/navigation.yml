@@ -6,6 +6,14 @@
   url: "/packages-and-prizes"
   side: left
 
+- title: Upcoming Events
+  url: "/#upcoming-events"
+  side: left
+
+- title: Testimonials
+  url: "/#testimonials"
+  side: left
+
 # - title: Getting Started
 #   url: "/getting-started/"
 #   side: left
@@ -70,8 +78,8 @@
 #   - title: "Blog Archive"
 #     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
+- title: "About Me"
+  url: "/#about-me"
   side: right
 
 - title: "Contact"
@@ -80,4 +88,8 @@
 
 - title: "Complaints"
   url: "/complaints-procedure/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
   side: right
