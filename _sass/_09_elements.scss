@@ -113,6 +113,19 @@
     width: 100%;/* height will follow within image ratio */
     height:auto;/* to overrride attribute height set in tag */
     vertical-align:middle;/* finalise vertical centering on baseline*/
+    
+    animation-fill-mode: both;
+    animation-duration: 3s;
+    animation-name: fadeIn;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 /* Button
