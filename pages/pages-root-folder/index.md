@@ -23,7 +23,7 @@ widgets:
   text: 'I am happy to offer a compassionate and safe space for exploring the difficult and sometimes painful matters of life.'
 - title: "Sessions for People in Relationships"
   url: '#relationship'
-  image: daniel-j-schwarz-YtY724tdl7Y-unsplash.jpg
+  image: ian-schneider-TamMbr4okv4-unsplash.jpg
   text: 'I can help restore connection, understanding and trust. If both (all) of you want it, I can facilitate the dialogue between you.'
 - title: "Sessions for Groups Working or Living Together"
   url: '#groups'
