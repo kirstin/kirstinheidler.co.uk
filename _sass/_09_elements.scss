@@ -97,7 +97,12 @@
     border-radius: 0.2em;
 }
 
-.frontpage-widget .image-container {
+.image-container, #masthead .backstretch {
+    /* color while loading */
+    background-color: $grey-1;
+}
+
+.image-container {
     /* from https://stackoverflow.com/a/25455976 */
     display:block;
     height:200px;/*set an height */
@@ -105,7 +110,7 @@
     overflow:hidden;/* crops/cut off */
 }
 
-.frontpage-widget .image-container .image {
+.image-container .image {
     position: relative;
     margin: -50% auto;/* virtualy height needed turn don to zero */
     width: 100%;/* height will follow within image ratio */
