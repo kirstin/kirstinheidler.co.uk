@@ -28,8 +28,8 @@ Llandeilo,
 Carmarthenshire,  
 SA19 7EE
 
-Phone and WhatsApp: +447782810507  
-Telegram and Signal (and phone from Germany): +491636834491
+Phone and WhatsApp: [+44-778-281-0507](tel:+447782810507)  
+Telegram and Signal (and phone from Germany): [+49&nbsp;163&nbsp;683&nbsp;4491](tel:+491636834491)
 
 Email: <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
