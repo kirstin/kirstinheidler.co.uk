@@ -90,6 +90,28 @@
   }
 
 
+/* Frontpage widget
+------------------------------------------------------------------- */
+
+.bordered, .frontpage-widget .image-container {
+    border-radius: 0.2em;
+}
+
+.frontpage-widget .image-container {
+    /* from https://stackoverflow.com/a/25455976 */
+    display:block;
+    height:200px;/*set an height */
+    line-height:200px;/* set the baseline at 100px from top*/
+    overflow:hidden;/* crops/cut off */
+}
+
+.frontpage-widget .image-container .image {
+    position: relative;
+    margin: -50% auto;/* virtualy height needed turn don to zero */
+    width: 100%;/* height will follow within image ratio */
+    height:auto;/* to overrride attribute height set in tag */
+    vertical-align:middle;/* finalise vertical centering on baseline*/
+}
 
 /* Button
 ------------------------------------------------------------------- */
