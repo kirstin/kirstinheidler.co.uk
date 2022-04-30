@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Packages
+  url: "/packages-and-prizes"
+  side: left
+
 # - title: Getting Started
 #   url: "/getting-started/"
 #   side: left
@@ -72,4 +76,8 @@
 
 - title: "Contact"
   url: "/contact/"
+  side: right
+
+- title: "Complaints"
+  url: "/complaints-procedure/"
   side: right
