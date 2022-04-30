@@ -27,7 +27,7 @@ widgets:
   text: 'I can help restore connection, understanding and trust. If both (all) of you want it, I can facilitate the dialogue between you.'
 - title: "Sessions for Groups Working or Living Together"
   url: '#groups'
-  image: brooke-cagle--uHVRvDr7pg-unsplash.jpg
+  image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
   text: 'For groups who are working or living together (or intending to do so), I offer different packages depending on what you need. '
 - title: "Offers for Businesses"
   url: '#businesses'
