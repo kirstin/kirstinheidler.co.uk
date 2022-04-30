@@ -18,6 +18,10 @@ format: frontpage
 <div class="row t60">
   {% for widget in page.widgets %}
 		{% include _frontpage-widget.html widget=widget %}
+    {% assign circularIndex = forloop.index | modulo: 3 %}
+    {% if circularIndex == 0 %}
+      <hr class="widget-divider"/>
+    {% endif %}
 	{% endfor %}
 </div><!-- /.row -->
 

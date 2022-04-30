@@ -12,7 +12,7 @@ widgets:
   url: 'https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/'
   image: melissa-askew-tSlvoSZK77c-unsplash.jpg
   text: '<!-- CHECK --><i>Peace starts with each and everyone of us right now.</i> <br/>Practice groups are a way of practicing and integrating what we know on a cognitive level. Together with others we can face the things we find challenging and be held in presence and compassion.<br/>Every first Saturday of the month. More information and sign up <a href="https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/">here</a>.'
-- title: "Upcoming open workshops"
+- title: "Upcoming Open Workshops"
   url: '/contact'
   text: '<!-- CHECK --><a href="/contact">Register or arrange for a private workshop</a>'
   image: jason-goodman-6awfTPLGaCE-unsplash.jpg
@@ -21,10 +21,17 @@ widgets:
   url: '#individuals'
   image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
   text: 'I am happy to offer a compassionate and safe space for exploring the difficult and sometimes painful matters of life.'
-widget4:
-  title: "Sessions for Individuals"
-  url: '#individuals'
-  image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
+- title: "Sessions for People in Relationships"
+  url: '#relationship'
+  image: daniel-j-schwarz-YtY724tdl7Y-unsplash.jpg
+  text: 'I can help restore connection, understanding and trust. If both (all) of you want it, I can facilitate the dialogue between you.'
+- title: "Sessions for Groups Working or Living Together"
+  url: '#groups'
+  image: brooke-cagle--uHVRvDr7pg-unsplash.jpg
+  text: 'For groups who are working or living together (or intending to do so), I offer different packages depending on what you need. '
+- title: "Offers for Businesses"
+  url: '#businesses'
+  image: jason-goodman-Oalh2MojUuk-unsplash.jpg
   text: 'I am happy to offer a compassionate and safe space for exploring the difficult and sometimes painful matters of life.'
 #
 # Use the call for action to show a button on the frontpage
