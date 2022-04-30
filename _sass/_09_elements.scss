@@ -93,10 +93,6 @@
 /* Frontpage widget
 ------------------------------------------------------------------- */
 
-.bordered, .frontpage-widget .image-container {
-    border-radius: 0.2em;
-}
-
 .image-container, #masthead .backstretch {
     /* color while loading */
     background-color: $grey-1;
@@ -108,6 +104,7 @@
     height:200px;/*set an height */
     line-height:200px;/* set the baseline at 100px from top*/
     overflow:hidden;/* crops/cut off */
+    border-radius: $global-radius;
 }
 
 .image-container .image {
