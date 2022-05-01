@@ -1,6 +1,6 @@
-- title: HOME
-  url: "/"
-  side: left
+# - title: HOME
+#  url: "/"
+#  side: left
 
 - title: Services and Prices
   url: "/services"
