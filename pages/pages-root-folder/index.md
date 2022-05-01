@@ -32,7 +32,7 @@ widgets:
 - title: "Offers for Businesses"
   url: '#businesses'
   image: jason-goodman-Oalh2MojUuk-unsplash.jpg
-  text: 'I am happy to offer a compassionate and safe space for exploring the difficult and sometimes painful matters of life.'
+  text: 'I offer workshops and support for developing leadership skills, improving social skills, sharpening your vision and purpose and building systems that serve your business.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -133,7 +133,10 @@ For groups who are working or living together (or intending to do so), I offer d
 - Do you want to find out what is hindering the progress you have been longing to see with your project?
 - Would you like to create an environment in which your employees enjoy working?
 - Have you wondered why feedback within your organisation is not following the way you think would be good?
-- Would you like professional facilitation for your meeting(s)?
+- Would you like professional facilitation for your meeting(s)?  
+
+Running a business brings with it the collaboration and coordination between potentially many human beings. Blockages in relationships or unclear or missing agreements for feedback, decision making or distribution of resources can become blockages to success for the whole organisation.  
+Therefore, I offer workshops and support for developing leadership skills, improving social skills, sharpening your vision and purpose and building systems that serve your business. I can lend you my eyes and ears to compile for you my perspective on what I see working well and areas of potential.
 
 
 [_Take a look at the packages I offer_](#packages-and-prices)  
