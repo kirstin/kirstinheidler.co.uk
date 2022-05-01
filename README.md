@@ -2,6 +2,25 @@
 
 This is the source code for Kirstin Heidler.
 
+## Editing
+
+Iy you want to edit the content, look at these files:
+
+- [index.md](pages/pages-root-folder/index.md)
+- [vision.md](_includes/vision.md)
+- [contact.md](pages/contact.md)
+- [prizes-and-packages.md](pages/prizes-and-packages.md)
+
+Others also contain:
+
+- [_sidebar.html](_data/_sitebar.html)
+  for the image of Kirstin on the side
+- [_navigation.yml](_data/_navigation.yml)
+- [search.md](pages/search.yml)
+- [socialmedia.yml](_data/socialmedia.yml)
+- [language.yml](_data/language.yml)
+
+
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
 This website uses the 
