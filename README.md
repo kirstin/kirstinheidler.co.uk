@@ -4,7 +4,7 @@ This is the source code for Kirstin Heidler.
 
 ## Editing
 
-Iy you want to edit the content, look at these files:
+If you want to edit the content, look at these files:
 
 - [index.md](pages/pages-root-folder/index.md)
 - [vision.md](_includes/vision.md)
