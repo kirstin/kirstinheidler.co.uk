@@ -1,8 +1,8 @@
 ---
 layout              : page
 sidebar             : right
-title               : "Services"
-meta_title          : "Services"
+title               : "Services and Prices"
+meta_title          : "Services and Prices"
 teaser              : "Here is an overview of the costs and your gifting invitations."
 permalink           : "/services/"
 breadcrumb: true
