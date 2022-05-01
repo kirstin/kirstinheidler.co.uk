@@ -9,6 +9,10 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+<div class="vision">
+  {% include vision.md %}
+</div>
+
 
 {% comment %}
 *
@@ -16,20 +20,14 @@ format: frontpage
 *
 {% endcomment %}
 <div class="row t60">
-	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
-
-	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
-
-	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
+  {% for widget in page.widgets %}
+		{% include _frontpage-widget.html widget=widget %}
+    {% assign circularIndex = forloop.index | modulo: 3 %}
+    {% if circularIndex == 0 %}
+      <hr class="widget-divider"/>
+    {% endif %}
+	{% endfor %}
 </div><!-- /.row -->
-
-
 
 {% comment %}
 *
@@ -57,7 +55,7 @@ format: frontpage
 *
 {% endcomment %}
 
-{% unless site.posts == empty %}
+{% unless site.posts != empty %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
@@ -104,8 +102,7 @@ format: frontpage
 *
 * Finally, if there is content, spit it out.
 *
+* see https://github.com/jekyll/jekyll-archives/issues/28#issuecomment-101282909
 {% endcomment %}
 
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
+{{ content }}

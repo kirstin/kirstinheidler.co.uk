@@ -90,6 +90,43 @@
   }
 
 
+/* Frontpage widget
+------------------------------------------------------------------- */
+
+.image-container, #masthead .backstretch {
+    /* color while loading */
+    background-color: $grey-1;
+}
+
+.image-container {
+    /* from https://stackoverflow.com/a/25455976 */
+    display:block;
+    overflow:hidden;/* crops/cut off */
+    border-radius: $global-radius;
+    aspect-ratio: 1.614;
+}
+
+.image-container .image {
+    position: relative;
+    top: 50%;
+    width: 100%;/* height will follow within image ratio */
+    height:auto;/* to overrride attribute height set in tag */
+    transform: translate(0,-50%);
+    vertical-align:middle;/* finalise vertical centering on baseline*/
+    
+    animation-fill-mode: both;
+    animation-duration: 3s;
+    animation-name: fadeIn;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 
 /* Button
 ------------------------------------------------------------------- */
