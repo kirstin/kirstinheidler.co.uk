@@ -71,7 +71,7 @@ With this NVC has a radical potential to bring about change, as it questions cur
 ## practice groups and workshops
 <!-- CHECK SECTION -->
 
-_Peace starts with each and everyone of us right now._  
+>_Peace starts with each and everyone of us right now._  
 
 Practice groups are a way of practicing and integrating what we know on a cognitive level. Together with others we can face the things we find challenging and be held in presence and compassion.
 
