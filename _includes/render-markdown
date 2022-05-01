@@ -2,5 +2,8 @@
 see https://github.com/jekyll/jekyll-archives/issues/28#issuecomment-101282909
 see https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548
 {% endcomment %}
-{% capture my_include %}{{ include.content }}{% endcapture %}
-{{ my_include | markdownify }}
+<div class="row t30">
+  <div class="medium-8 columns">
+    {{ include.content | markdownify }}
+  </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->

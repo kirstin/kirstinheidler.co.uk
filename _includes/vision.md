@@ -1,4 +1,4 @@
-
+{% capture vision %}
 
 
 ## Vision
@@ -10,3 +10,8 @@ I want us to be able to hold love for one another, not succumbing to fear, other
 For this we need a culture which supports peace.
 
 [_Let's work together_](/contact)
+
+
+
+{% endcapture %}
+{% include render-markdown content=vision %}

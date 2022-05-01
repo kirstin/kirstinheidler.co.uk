@@ -147,9 +147,7 @@ You can also find NVC events by me and other NVC trainers here: [nvc-uk.com](htt
 
 ## about me
 {% endcapture %}
-<div class="row t30">
-{{ index_markdown | markdownify }}
-</div><!-- /.row -->
+{% include render-markdown content=index_markdown %}
 
 {% capture index_markdown %}
 I have been studying and teaching about NVC since 2014, just before my daughter was born. Now, I'm living in a yurt in rural Wales together with my partner Nicco and our two children. In 2020 we moved here from Germany.
@@ -187,9 +185,7 @@ We live off-grid in a yurt and enjoy a very simple lifestyle, which has taught m
 
 
 {% endcapture %}
-<div class="row t30">
-{{ index_markdown | markdownify }}
-</div><!-- /.row -->
+{% include render-markdown content=index_markdown %}
 
 
 

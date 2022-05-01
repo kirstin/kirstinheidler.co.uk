@@ -2152,7 +2152,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
       var self = this,
           topbar;
 
-      if (toggleEl) {
+      if (toggleEl && ! toggleEl.classList.contains("toggle-topbar-click")) {
         topbar = self.S(toggleEl).closest('[' + this.attr_name() + ']');
       } else {
         topbar = self.S('[' + this.attr_name() + ']');
@@ -2192,7 +2192,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
             topbar.addClass('fixed');
             self.S('body').removeClass('f-topbar-fixed');
 
-            window.scrollTo(0,0);
+            window.scrollTo(0,0); // I do not like this
           } else {
             topbar.parent().removeClass('expanded');
           }
@@ -2224,8 +2224,8 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
 
       S(this.scope)
         .off('.topbar')
-        .on('click.fndtn.topbar', '[' + this.attr_name() + '] .toggle-topbar', function (e) {
-          e.preventDefault();
+        .on('click.fndtn.topbar', '[' + this.attr_name() + '] .toggle-topbar-click', function (e) {
+          //e.preventDefault();
           self.toggle(this);
         })
         .on('click.fndtn.topbar','.top-bar .top-bar-section li a[href^="#"],[' + this.attr_name() + '] .top-bar-section li a[href^="#"]',function (e) {

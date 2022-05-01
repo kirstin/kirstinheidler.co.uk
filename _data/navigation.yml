@@ -9,10 +9,12 @@
 - title: Upcoming Events
   url: "/#upcoming-events"
   side: left
+  class: toggle-topbar-click
 
 - title: Testimonials
   url: "/#testimonials"
   side: left
+  class: toggle-topbar-click
 
 # - title: Getting Started
 #   url: "/getting-started/"
@@ -81,6 +83,7 @@
 - title: "About Me"
   url: "/#about-me"
   side: right
+  class: toggle-topbar-click
 
 - title: "Contact"
   url: "/contact/"

@@ -9,10 +9,10 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-<div class="row t60">
-{% capture vision %}{% include vision.md %}{% endcapture %}
-{{ vision | markdownify }}
+<div class="vision">
+  {% include vision.md %}
 </div>
+
 
 {% comment %}
 *
@@ -105,6 +105,4 @@ format: frontpage
 * see https://github.com/jekyll/jekyll-archives/issues/28#issuecomment-101282909
 {% endcomment %}
 
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
+{{ content }}
