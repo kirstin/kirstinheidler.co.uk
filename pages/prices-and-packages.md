@@ -1,10 +1,10 @@
 ---
 layout              : page
 sidebar             : right
-title               : "Packages and Prizes"
-meta_title          : "Packages and prizes offered by Kirstin Heidler"
+title               : "Services"
+meta_title          : "Services"
 teaser              : "Here is an overview of the costs and your gifting invitations."
-permalink           : "/packages-and-prizes/"
+permalink           : "/services/"
 breadcrumb: true
 #image:
 #    thumb: gallery-example-2-thumb.jpg
@@ -13,14 +13,14 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-## packages and prices
+# Packages and Prices
 
 What  | Description   | Price
 -----------|-----------------------|----------
 One-to-one session | 60 minutes  | £60
-Block of 5 | same as above | £275
+Block of 5 | 5 x 60 minutes | £275
 Two-to-one session | 90 minutes. facilitated conversation for intimate, friendship, neighbor or family relationships |  £80
-Block of 3 | same as above | £225
+Block of 3 | 3 x 90 | £225
 Facilitation | I facilitate your meeting(s) with the content that you bring | £40/hour meeting time
 
 ### Restoring Connection Package
@@ -55,7 +55,9 @@ I am happy and able to accommodate you.
 
 [_Schedule a free consultation_](#contact)
 
-## financial transparency and gift economy
+---
+
+# Financial Transparency and Gift Economy
 I love what I do and I love helping people. At the same time I need to feed my family, pay our living expenses and the expenses for running my business. That is why I'm asking for money.
 
 This section is meant to make transparent the money I need each month as well as how much I have received. When I receive more than I need to meet immediate needs, I can give more of my work for lower prices or free, to those who have little financial resources.
