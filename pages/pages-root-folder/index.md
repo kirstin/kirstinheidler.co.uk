@@ -66,7 +66,9 @@ Nonviolent Communication is a spiritual practice, as meditation can be called a 
 NVC puts connection first. This allows people to understand each other at the heart level, making the flow of gifts, of giving and receiving, natural.  
 With this NVC has a radical potential to bring about change, as it questions currently dominant cultural norms.
 
-[_Contact me to find out more_](/contact)
+[_Contact me to find out more_](/contact)  
+
+---
 
 # practice groups and workshops
 <!-- CHECK SECTION -->
@@ -82,7 +84,9 @@ I offer regular open practice groups:
 
 Upcoming open workshops:
 
-[_Register or arrange for a private workshop_](#contact)
+[_Register or arrange for a private workshop_](#contact)  
+
+---
 
 # individuals
 
@@ -104,8 +108,9 @@ _I can be present with you and offer guidance in your process._
 Being in a position of leadership or taking leadership in a specific area comes with its own set of challenges. While taking that position, many eyes are on you and continuously holding the whole can become challenging. I can help you communicate more clearly, oriented towards vision and purpose. I can help you meet those you lead or are aiming to lead with enough curiosity and acceptance so that magic can happen. Being connected and approachable while at the same time being focused on purpose and having clear discernment are not mutually exclusive and I can help you embody that.
 
 
-[_Schedule a free consultation_](#contact)
+[_Schedule a free consultation_](#contact)  
 
+---
 
 # relationship
 - Do you long for togetherness with another person, but again and again you end up in arguments or disconnection?
@@ -118,6 +123,8 @@ I have personal experience with being in polyamorous relationships and can offer
 
 [_Schedule a free consultation_](#contact)
 
+---
+
 # groups
 - Do you anticipate that conflict might tear you apart or are you already experiencing conflict?
 - Would you like to find ways of supporting togetherness and engaging conflict effectively?
@@ -127,6 +134,8 @@ I have personal experience with being in polyamorous relationships and can offer
 For groups who are working or living together (or intending to do so), I offer different packages depending on what you need. 
 
 [_Take a look at the packages I offer_](#packages-and-prices)  
+
+---
 
 # businesses
 - Would you like to resolve tensions within a team?
@@ -141,12 +150,16 @@ Therefore, I offer workshops and support for developing leadership skills, impro
 
 [_Take a look at the packages I offer_](#packages-and-prices)  
 
+---
+
 # upcoming events
 Would you like to meet me to get to know me?  
 I will be at these upcoming events:. 
 - Braziers Community Conference. 8th - 10th of July
 
 You can also find NVC events by me and other NVC trainers here: [nvc-uk.com](https://nvc-uk.com)
+
+---
 
 # about me
 {% endcapture %}
@@ -180,6 +193,7 @@ We live off-grid in a yurt and enjoy a very simple lifestyle, which has taught m
 
 {% capture index_markdown %}
 
+---
 
 # Testimonials
 > I really appreciate what I experience as your relaxed, confident clarity with attention to detail. 
