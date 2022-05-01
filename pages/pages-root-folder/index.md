@@ -57,7 +57,7 @@ homepage: true
 <!-- captiure all of the markdown and convert it to html. -->
 {% capture index_markdown %}
 
-## why I do what I do
+# why I do what I do
 
 I believe in order to make anything we do in the direction of change sustainable (whether it is action to stop wrongs or constructive action to build the future we want to see), we need a supportive culture. The culture we are currently living in is supporting the destruction and depletion of our planet. It also supports violent ways of relating with ourselves and each other, perpetuating pain and suffering.
   **Therefore, we need cultural change and that is what I am working towards.**
@@ -68,7 +68,7 @@ With this NVC has a radical potential to bring about change, as it questions cur
 
 [_Contact me to find out more_](/contact)
 
-## practice groups and workshops
+# practice groups and workshops
 <!-- CHECK SECTION -->
 
 >_Peace starts with each and everyone of us right now._  
@@ -84,7 +84,7 @@ Upcoming open workshops:
 
 [_Register or arrange for a private workshop_](#contact)
 
-## individuals
+# individuals
 
 ### Life matters:
 - Do you feel overwhelmed or just need someone to talk to?
@@ -107,7 +107,7 @@ Being in a position of leadership or taking leadership in a specific area comes 
 [_Schedule a free consultation_](#contact)
 
 
-## relationship
+# relationship
 - Do you long for togetherness with another person, but again and again you end up in arguments or disconnection?
 - Would you like the pain that's in you to be heard and understood by the other person?
 - Do you feel desperate and sometimes think it's impossible to agree on something together?
@@ -118,7 +118,7 @@ I have personal experience with being in polyamorous relationships and can offer
 
 [_Schedule a free consultation_](#contact)
 
-## groups
+# groups
 - Do you anticipate that conflict might tear you apart or are you already experiencing conflict?
 - Would you like to find ways of supporting togetherness and engaging conflict effectively?
 - Do you want to find ways of leaving society's disfunctional default solutions behind and creating ways of being and working together that support your vision?
@@ -128,7 +128,7 @@ For groups who are working or living together (or intending to do so), I offer d
 
 [_Take a look at the packages I offer_](#packages-and-prices)  
 
-## businesses
+# businesses
 - Would you like to resolve tensions within a team?
 - Do you want to find out what is hindering the progress you have been longing to see with your project?
 - Would you like to create an environment in which your employees enjoy working?
@@ -141,14 +141,14 @@ Therefore, I offer workshops and support for developing leadership skills, impro
 
 [_Take a look at the packages I offer_](#packages-and-prices)  
 
-## upcoming events
+# upcoming events
 Would you like to meet me to get to know me?  
 I will be at these upcoming events:. 
 - Braziers Community Conference. 8th - 10th of July
 
 You can also find NVC events by me and other NVC trainers here: [nvc-uk.com](https://nvc-uk.com)
 
-## about me
+# about me
 {% endcapture %}
 {% include render-markdown content=index_markdown %}
 
@@ -181,7 +181,7 @@ We live off-grid in a yurt and enjoy a very simple lifestyle, which has taught m
 {% capture index_markdown %}
 
 
-## Testimonials
+# Testimonials
 > I really appreciate what I experience as your relaxed, confident clarity with attention to detail. 
 > I’m remembering your conflict transformation skills, persistence and courage as I see it from when we were together at camp in the summer. 
 > I’m also seeing you as incredibly resourceful [...] <cite>_Annie Scott, NVC Trainer_</cite>
