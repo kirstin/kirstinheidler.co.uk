@@ -179,6 +179,13 @@ dd.accordion-navigation.active span:before { content: "\F105" }
   background-color: $section-even-background;
 }
 
+/* Lazy Load XT
+------------------------------------------------------------------- */
+
+.navigation-logo {
+  height: 2em;
+}
+
 
 /* Lazy Load XT
 ------------------------------------------------------------------- */
