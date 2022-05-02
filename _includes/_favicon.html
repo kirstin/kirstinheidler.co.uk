@@ -5,6 +5,9 @@
 {% endcomment %}
 {% comment %} Regular Old-Skool Favicon: {% endcomment %}
 	{% if site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
+{% comment %} SVG Favicon (https://stackoverflow.com/a/34458817/1320237): {% endcomment %}
+	{% if site.favicon-svg %}<link rel="icon" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-svg }}" sizes="any" type="image/svg+xml">
+{% endif %}
 {% comment %} For Chrome for Android: {% endcomment %}
 	{% if site.touch-icon-192x192 %}<link rel="icon" sizes="192x192" href="{{ "/assets/img/" | absolute_url }}{{ site.touch-icon-192x192 }}">{% endif %}
 {% comment %} For iPhone 6 Plus with @3× display: {% endcomment %}
