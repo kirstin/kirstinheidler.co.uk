@@ -9,6 +9,7 @@
 - Button
 - Side-Nav
 - Accordion
+- Section
 - Lazy Load XT
 - Frontpage Widget
 
@@ -162,6 +163,21 @@ dd.accordion-navigation span:before { content: "\F107" }
 dd.accordion-navigation.active span:before { content: "\F105" }
 dd.accordion-navigation.active span:before { content: "\F105" }
 
+/* Section
+------------------------------------------------------------------- */
+
+.section .row {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.section.odd {
+  background-color: $section-odd-background;
+}
+
+.section.even {
+  background-color: $section-even-background;
+}
 
 
 /* Lazy Load XT

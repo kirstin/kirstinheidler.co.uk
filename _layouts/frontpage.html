@@ -9,25 +9,41 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-<div class="vision">
-  {% include vision.md %}
-</div>
+{% for section in page.sections %}
+  {% comment %}
+  We itereate over everz section and
+  give it a special index-color.
+  {% endcomment %}
+  {% assign odd = forloop.index | modulo: 2 %}
+  <div class="section {% if odd == 1 %}odd{% else %}even{% endif %}">
+  {% if section.widgets %}
+    {% comment %}
+    *
+    * First check, if widget is empty or not by checking if there is a title
+    *
+    {% endcomment %}
+    <div class="row t60">
+      {% for widget in section.widgets %}
+        {% include _frontpage-widget.html widget=widget %}
+        {% assign circularIndex = forloop.index | modulo: 3 %}
+        {% unless circularIndex != 0 or forloop.last %}
+          <hr class="widget-divider"/>
+        {% endunless %}
+      {% endfor %}
+    </div><!-- /.row -->
+  {% endif %}
 
-
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
-<div class="row t60">
-  {% for widget in page.widgets %}
-		{% include _frontpage-widget.html widget=widget %}
-    {% assign circularIndex = forloop.index | modulo: 3 %}
-    {% if circularIndex == 0 %}
-      <hr class="widget-divider"/>
-    {% endif %}
-	{% endfor %}
-</div><!-- /.row -->
+  {% if section.markdown %}
+     <!-- {{section.markdown}} -->
+     {% capture index_markdown %}{% include {{section.markdown}}%}{% endcapture %}
+     {% include render-markdown content=index_markdown %}
+  {% endif %}
+  {% if section.html %}
+    <!-- {{section.html}} -->
+    {% include {{section.html}}%}
+  {% endif %}
+  </div><!-- /.section -->
+{% endfor %}
 
 {% comment %}
 *
@@ -55,7 +71,7 @@ format: frontpage
 *
 {% endcomment %}
 
-{% unless site.posts != empty %}
+{% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
