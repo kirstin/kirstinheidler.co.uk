@@ -20,6 +20,20 @@ Others also contain:
 - [socialmedia.yml](_data/socialmedia.yml)
 - [language.yml](_data/language.yml)
 
+## Design
+
+### Colors
+- `#a8b747` 
+![image](https://user-images.githubusercontent.com/564768/166297682-ebb5d3a2-0795-499c-8eb0-af31095a09c4.png)
+- `#6f8822` 
+![image](https://user-images.githubusercontent.com/564768/166297800-ca8ff07c-0070-45d2-a64a-0192da1ea14b.png)
+- `#448f78` 
+![image](https://user-images.githubusercontent.com/564768/166297907-ec7243ab-0de0-4558-aacb-b43cfecc0cbe.png)
+- `#335b15` 
+![image](https://user-images.githubusercontent.com/564768/166298105-2ee85269-09cb-4343-b799-9dc8553b7084.png)
+- `#bc6e85` 
+![image](https://user-images.githubusercontent.com/564768/166298242-dcb39ee4-df48-477c-8476-0fbffbdd96f7.png)
+
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
@@ -60,9 +74,6 @@ Then, you can open the website at [localhost:4000](http://localhost:4000/).
 
 You can find the images and other big static files in 
 [kirstinheidler.co.uk-data](https://github.com/kirstin/kirstinheidler.co.uk-data).
-
-
-
 
 ## License and Trademark
 
