@@ -30,6 +30,8 @@
 
 	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
 
+{% comment %}
+#  remove google loading the font!
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
 		WebFont.load({
@@ -42,7 +44,8 @@
 	<noscript>
 		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
 	</noscript>
-
+{% endcomment %}
+  <link href='{{ url }}/assets/css/fonts.css' rel='stylesheet' type='text/css'>
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="{{ description }}">
@@ -89,12 +92,4 @@
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
 
-	{% if site.google_analytics_tracking_id %}
-	<script>
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
-	ga('send', 'pageview');
-	</script>
-	<script async src='https://www.google-analytics.com/analytics.js'></script>
-	{% endif %}
 
