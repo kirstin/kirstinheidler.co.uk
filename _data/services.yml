@@ -12,10 +12,6 @@
   url: "/atom.xml"
   title: "Subscribe to Atom Feed"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
-
 - name: "Privacy Policy"
   url: "/privacy/"
   title: "Privacy Policy for kirstinheidler.co.uk"
