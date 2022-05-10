@@ -15,3 +15,7 @@
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
+
+- name: "Privay Policy"
+  url: "/privacy/"
+  title: "Privacy Policy for kirstinheidler.co.uk"
