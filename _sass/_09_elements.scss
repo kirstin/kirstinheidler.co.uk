@@ -109,11 +109,8 @@
 
 .image-container .image {
     position: relative;
-    top: 50%;
     width: 100%;/* height will follow within image ratio */
     height:auto;/* to overrride attribute height set in tag */
-    transform: translate(0,-50%);
-    vertical-align:middle;/* finalise vertical centering on baseline*/
     
     animation-fill-mode: both;
     animation-duration: 3s;
