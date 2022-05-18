@@ -35,7 +35,7 @@ Email: <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
 Where I live, I have poor mobile reception. Therefore, please use one of the other ways (than calling my phone) to contact me to schedule a time to talk with me.
 
-
+If you would like to file a complaint, please see the [complaints procedure]({{ site.baseurl }}/complaints-procedure).
 
 
 
