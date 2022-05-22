@@ -1,5 +1,16 @@
+
+- name: CTW
+  url: https://ctw-uk.com
+  class: icon-browser
+  title: Conflict Transformation Weave
+
+- name: NVC UK
+  url: https://nvc-uk.com
+  class: icon-browser
+  title: NVC UK
+
 - name: GitHub
-  url: http://github.com/kirstin/kirstinheidler.co.uk/#readme
+  url: https://github.com/kirstin/kirstinheidler.co.uk/#readme
   class: icon-github
   title: Code und mehr...
 
