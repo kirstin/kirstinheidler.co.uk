@@ -38,6 +38,17 @@ Where I live, I have poor mobile reception. Therefore, please use one of the oth
 If you would like to file a complaint, please see the [complaints procedure]({{ site.baseurl }}/complaints-procedure).
 
 
+Have a look at this to pay me via bank transfer:
+
+<p><details>
+  <summary>UK payment information</summary>
+  <img src="{{ site.urlimg }}/BankDetails/UKBankAccountDetails.jpg" />
+</details></p>
+<p><details>
+  <summary>EU payment information</summary>
+  <img src="{{ site.urlimg }}/BankDetails/EUBankAccountDetails.jpg" />
+</details></p>
+
 
 
 
