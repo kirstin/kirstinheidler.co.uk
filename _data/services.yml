@@ -8,6 +8,10 @@
   url: "/complaints-procedure/"
   title: "Complaints Procedure"
 
+- name: "Copyright"
+  url: "/license/"
+  title: "Copyright and Licensing"
+
 - name: "Privacy Policy"
   url: "/privacy/"
   title: "Privacy Policy for kirstinheidler.co.uk"
