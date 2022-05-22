@@ -22,6 +22,10 @@ and distribute it, please note the following:
   trade mark. Ask me if you want to use my logo.
 - Keep the links intact or use the text version
   of the license below.
+- If you change or use the parts of my material,
+  I am grateful to hear from you.
+- If you improve a substantial portion of the content,
+  consider adding your name next to mine.
 
 ## Web Version
 
@@ -41,4 +45,10 @@ If you print it and cannot have the links working:
 
 > {% include cc-by-sa.txt %}
 
+## Markdown
 
+You can copy this into Markdown documents:
+
+```
+This work © 2022 by [Kirstin Heidler](https://kirstinheidler.co.uk) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+```

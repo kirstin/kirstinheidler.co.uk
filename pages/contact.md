@@ -37,6 +37,7 @@ Where I live, I have poor mobile reception. Therefore, please use one of the oth
 
 If you would like to file a complaint, please see the [complaints procedure]({{ site.baseurl }}/complaints-procedure).
 
+## Payments
 
 Have a look at this to pay me via bank transfer:
 
@@ -49,8 +50,11 @@ Have a look at this to pay me via bank transfer:
   <img src="{{ site.urlimg }}/BankDetails/EUBankAccountDetails.jpg" />
 </details></p>
 
+## Contents and Material
 
-
+I share contents of my work freely.
+You can pay or donate for the work it took and
+obtain them under a [free license]({{ site.baseurl }}/license/).
 
 
 <!-- obfuscated email -->
