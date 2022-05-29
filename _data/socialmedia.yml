@@ -1,12 +1,14 @@
 
 - name: CTW
   url: https://ctw-uk.com
-  class: icon-browser
+  class: ""
+  img: CTWLOGO-icon.png
   title: Conflict Transformation Weave
 
 - name: NVC UK
   url: https://nvc-uk.com
-  class: icon-browser
+  class: ""
+  img: nvc-matters-logo.png
   title: NVC UK
 
 - name: GitHub
