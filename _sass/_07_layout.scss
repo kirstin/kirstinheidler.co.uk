@@ -323,6 +323,7 @@ body.video cite { color: #fff; }
 
 .social-icons {
     margin-bottom: 10px !important;
+    display: inline-block;
 
 // Beware of SCSS-Syntax here
   li {
@@ -344,7 +345,18 @@ body.video cite { color: #fff; }
   }
 }
 
+#subfooter-right {
+  height: 5em;
+  margin-bottom: 1em;
+}
 
+#subfooter-right, #subfooter-middle {
+  text-align: center;
+}
+
+.subfooter-logo {
+  height: 100%;
+}
 
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */
