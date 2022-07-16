@@ -23,6 +23,14 @@ Two-to-one session | 90 minutes. facilitated conversation for intimate, friendsh
 Block of 3 | 3 x 90 | £225
 Facilitation | I facilitate your meeting(s) with the content that you bring | £40/hour meeting time
 
+### A Tailored Workshop
+Do you have something specific in mind that you'd like to work on with a group of people?  
+And do you think my skillset with NVC, Interpersonal Neurobiology, Restorative Circles and Systems Building would be a good match to work on the topic(s)?  
+I am happy and able to accommodate you.  
+**Guide price: £300-600 per workshop day of 7 hours.**
+
+[_Schedule a free consultation_](#contact)
+
 ### Restoring Connection Package
 Get support with the tensions or conflicts within your group or business.  
 For **£540** this package includes:
@@ -46,12 +54,6 @@ For **£300** this package includes:
 - Survey design and analysis, surveying all who are affected/are affecting the field
 - Written report of what is working well, what is not working well and suggestions for what could be done, also including survey results and interpretation
 - Consultation with people in leadership/who hired me about the report and discussion about possible next steps
-
-### A Tailored Workshop
-Do you have something specific in mind that you'd like to work on with a group of people?  
-And do you think my skillset with NVC, Interpersonal Neurobiology, Restorative Circles and Systems Building would be a good match to work on the topic(s)?  
-I am happy and able to accommodate you.  
-**Guide price: £300 per workshop day of 7 hours.**
 
 [_Schedule a free consultation_](#contact)
 
