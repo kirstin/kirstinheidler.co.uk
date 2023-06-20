@@ -40,7 +40,7 @@ We are the owner or the licensee of all intellectual property rights in our site
 The contents of our site (including links to other sites and resources provided by third parties) are for information only, and we shall not be liable for any use of, or reliance on, such materials. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
 
 ## Information about you and your visits to our site
-We process information about you in accordance with our Privacy Policy. By using our site, you consent to such processing and you warrant that all data provided by you is accurate.
+We process information about you in accordance with our [Privacy Policy](/privacy-policy/). By using our site, you consent to such processing and you warrant that all data provided by you is accurate.
 
 ## Linking to our site
 
@@ -78,3 +78,6 @@ Please refer to my [Complaints Procedure](/complaints-procedure/).
 ## Centre for Nonviolent Communication 
 
 As I am an NVC trainer not currently certified with the International Centre for Nonviolent Communication (CNVC) I follow the agreements laid out for sharing NVC without being certified. Their website is: www.cnvc.org. 
+
+## Cancellations
+Please refer to my [Cancellation Policy](/cancellations/).
