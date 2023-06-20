@@ -16,6 +16,10 @@
   url: "/privacy/"
   title: "Privacy Policy for kirstinheidler.co.uk"
 
+- name: "Terms and Conditions"
+  url: "/terms-and-conditions/"
+  title: "Terms and Conditions"
+
 #- name: "RSS"
 #  url: "/feed.xml"
 #  title: "Subscribe to RSS Feed"
