@@ -73,7 +73,9 @@ The UK courts will have exclusive jurisdiction over any claim arising from, or r
 These terms of use and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.
 
 ## Complaints and Feedback
-Please refer to my [Complaints Procedure](/complaints-procedure/).
+For making a complaint please refer to my [Complaints Procedure](/complaints-procedure/).
+
+Any feedback about my services or this website is greatly appreciated and needed. Please write me an email: hello@kirstinheidler.co.uk
 
 ## Centre for Nonviolent Communication 
 
