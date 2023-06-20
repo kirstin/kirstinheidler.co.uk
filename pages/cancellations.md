@@ -15,12 +15,13 @@ breadcrumb: true
 Should you need to cancel a service you have booked with me, these are the policies for cancellation I have set out. By booking one of my services you consent to these policies.
 
 ## Sessions for coaching or mediation with individuals or couples
-If you cancel more than 24 hours in advance you will not be charged or the price for the session will not be due. Should you cancel less than 24 hours in advance the full amount for the session will be due and invoiced to you. 
+If you cancel more than 24 hours in advance you will not be charged or the price for the session will not be due.  
+Should you cancel less than 24 hours in advance the full amount for the session will be due and invoiced to you. 
 
 ## Sessions for group facilitation or conflict engagement
 If you cancel more than two weeks in advance no charge will be incurred.  
 If you cancel more than one week and less than two weeks in advance, 50% (half) of the agreed price will be due.  
-If you cancel less than one week in advance the full, agreed amount will be due.
+If you cancel less than one week in advance the full, agreed amount will be due.  
 
 ## Booked places on workshops offered by Kirstin Heidler
 If you cancel more than two weeks in advance of the beginning of the workshop (or series) you will receive the full fee back or it will not be due. This includes a potential deposit unless otherwise specified upon booking.  
