@@ -32,7 +32,8 @@ We may revise these terms of use at any time by amending this page or by provisi
 
 ## Intellectual Property Rights
 
-We are the owner or the licensee of all intellectual property rights in our site and the material published on it. We put all things published here - unless otherwise stated - under a Creative Commons Share Alike License ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+We are the owner of the licensee of all intellectual property rights in our site and the material published on it. We put all things published here - unless otherwise stated - under a Creative Commons Share Alike License ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)).  
+Also see [Copyright](/license/).
 
 
 ## Reliance on information and links
