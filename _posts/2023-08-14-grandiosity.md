@@ -5,7 +5,7 @@ subheadline: "Recovering my vulnerability"
 meta_teaser: "Getting closer to one of the defenses to cover up and suppress feeling vulnerable."
 teaser: "Getting closer to one of the defenses to cover up and suppress feeling vulnerable."
 header:
-    image: Gear_Armor_person.png
+    image: sunguk-kim-JhqBxsORuXA-unsplash.jpg
     background-color: "#262930"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
