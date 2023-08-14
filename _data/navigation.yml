@@ -7,7 +7,7 @@
   side: right
   class: toggle-topbar-click
 
-  - title: "Blog"
+- title: "Blog"
   url: "/blog/"
   side: right
 
