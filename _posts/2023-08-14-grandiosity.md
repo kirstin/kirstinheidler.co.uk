@@ -2,8 +2,8 @@
 layout: page-fullwidth
 title: "Conquering Vulnerability with Grandiosity?"
 subheadline: "Recovering my vulnerability"
-meta_teaser: "Getting closer to one of the defenses to cover up and suppress feeling vulnerable."
-teaser: "Getting closer to one of the defenses to cover up and suppress feeling vulnerable."
+meta_teaser: "When do self-confidence and self-esteem become unhealthy and and begin to go into grandiosity? Getting closer to one of the defenses to cover up and suppress feeling vulnerable."
+teaser: "When do self-confidence and self-esteem become unhealthy and and begin to go into grandiosity? Getting closer to one of the defenses to cover up and suppress feeling vulnerable."
 header:
     image: sunguk-kim-JhqBxsORuXA-unsplash.jpg
     background-color: "#262930"
@@ -21,32 +21,78 @@ categories:
 ---
 <!--more-->
 
+> The definition of vulnerability is uncertainty, risk, and emotional exposure.  
+> But vulnerability is not weakness; it's our most accurate measure of courage.  
+> When the barrier is our belief about vulnerability, the question becomes: 'Are we willing to show up and be seen when we can't control the outcome?'  
+> When the barrier to vulnerability is about safety, the question becomes: 'Are we willing to create courageous spaces so we can be fully seen?  
+<cite>_Brené Brown_</cite>
 
+When do self-confidence and self-esteem, which are agreed to be qualities that are part of health, become unhealthy and begin to go into [grandiosity][1]?
 
-I started my journey to learn about feelings, recover my full authenticity and reconnect with my vulnerability when I was 15. Years later - when I was 23 - <dfn>Nonviolent Communication</dfn>[^1] began to give me the tools to do this in a more deliberate way and it connected me with others on the same journey.
+Grandiosity is defined as feeling superior to others, as if one was better or more special than others.  
+While I don't think grandiosity is part of my personality, I can recognize that I sometimes show up in ways that may seem to others as if I was thinking I am better in some way.
+
+## Learning about vulnerability
+
+I started my journey to learn about feelings, recover my full authenticity and reconnect with my vulnerability when I was 15. Years later - when I was 23 - <dfn>Nonviolent Communication</dfn>[^1] began to give me the tools to do this in a more deliberate way and it connected me with others on the same journey. This journey has included learning about my insecurities and showing up in ways that are transparent, warm and approachable.
 
 Still, from time to time I get the feedback that I come across as if "I know it all". Or people feel as if the only way to be in conversation with me, is to agree with me. Or people are confused or even shocked by the seeming confidence I bring to things, sometimes even when it turns out that I don't know exactly.
 
-There is a painful conundrum for me in this. On the one hand I long for connection and I want others to feel the respect and care I have for them. It also pains me to hear that they are feeling as if I was putting them down, as if they don't know or aren't smart enough. On the other hand I want to trust that there is space form me and what I have can be a valuable maybe even unique contribution. It's a mixture of on the one hand authentic expression and sometimes even meaning or mattering. 
+I feel discomfort and pain about the ways in which I show up, that hide and conceal my soft-belly parts, making me unapproachable and aloof.
 
-In many ways it would be too easy to put all of this down to the "projections of the other person, who is having a issue with feeling worthless and  inferior, finding in me someone to blame for their pain of not finding their voice". While some of what is happening may be explained by what the other person is bringing to the situation, I also want to look at: what is it that I _am_ doing that might be contributing to this?
+At the same time, there is a painful conundrum for me in this. On the one hand I long for connection and I want others to feel the respect and care I have for them. It also pains me to hear that they are feeling as if I was putting them down, as if they don't know or aren't smart enough. On the other hand I want to trust that there is space form me and what I have can be a valuable maybe even unique contribution. It's a mixture of on the one hand authentic expression and sometimes even meaning or mattering. And I struggle to make sense in every moment of whether my way of showing up with something I know is simply a celebration, or as other people sometimes feel it a way of "asserting myself, conquering the space and looking down on others".
 
-As a child and teenager vulnerability was not safe. I was judged for many things and there was nobody I felt safe enough with to share anything about what was going on in me. The loneliness goes deep, and hence - I am assuming - my defenses hardened to almost imprenetrable thickness. I learned to hide my vulnerability by "pretending" to not feel, and seeming confident. My intellect and ability to talk was one of the few things I was regularly appreciated for by the adults in my life. I honed this skill and made it my strongest defence. Deep down there are parts of me who don't trust that there is space for me and that I am welcome. On other levels I do trust that I have space and that I am wanted by the world.
+It comes back to the age-old struggle every human being faces in some way:   
+<b>How do I find connection and live authenticity at the same time?</b>  
 
-Over the years I have worked a lot on the patterns of shame that I have developed. And yet I can see how it still plays out and can come out in particular in intimate relationships. Instead of being vulnerable and humble I can seem as if I portray myself as superior and others can feel intimidated and small. In many ways this strategy is working very well for protecting me from feeling the vulnerability. However, it also alienates and separates me from the people I love most. 
+In many ways it would be too easy to put all of their reaction to me down to "the projections of the other person, who is having an issue with feeling worthless and  inferior, finding in me someone to blame for their pain of not finding their voice". While some of what is happening may be explained by what the other person is bringing to the situation, I also want to look at: what is it that I _am_ doing that might be contributing to this?
+
+## My context: Where does my vulnerability come from?
+As a child and teenager vulnerability was not safe. I was judged for many things and there was nobody I felt safe enough with to share anything about what was going on in me. The loneliness goes deep, and hence my defenses hardened to almost imprenetrable thickness. I learned to hide my vulnerability by "pretending" to not feel, and seeming confident. My intellect and ability to talk was one of the few things I was regularly appreciated for by the adults in my life. I honed this skill and made it my strongest defence. 
+
+It is very tragic that longing to be held and met with gentleness, I sometimes show up with a hardness and confidence that unsettles others and contributes to them feeling inferior. An experience that might lead them to feeling dejected, low, in shame, frustrated, angry, resentful and many other feelings - all leading to disconnection. While I long for connection and tenderness.  
+It is heartbreaking and the grief about seeing this goes deep in me.
+
+Over the years I have discovered and worked a lot on the patterns of shame that I have developed. And yet I can see how my shame still plays out and can become prominent in particular in intimate relationships. Instead of being vulnerable and humble I can seem as if I portray myself as superior and others can feel intimidated and small. In many ways this strategy is working very well for protecting me from feeling the vulnerability. However, it also alienates and separates me from the people I love most. 
 
 Because of the loneliness I feel, I struggle to feel the company of others, in particular in these matters of shame. I am willing to unfold them - in many ways I _long_ to unfold them - but I feel so vulnerable and fragile, that I struggle to trust the other will hold me with gentleness and care. I am prone to hear almost anything as judgement, giving moralistic value to anything I say or do. And deep down I worry about losing the relationship, because the other evaluates me as deficient or lacking, irredeemably broken. 
 
 The grandiosity I sometimes go to only covers up the pain and shame.
 
-So can I conquer my vulnerability with gradiosity? - No, not really. It stays, just others might get fooled and hence I might even propagate some of the shame I feel. Very far from what I long for.
+## So can I conquer my vulnerability with gradiosity? 
+\- No, not really. It stays, just others might get fooled and hence I might even propagate some of the shame I feel. Very far from what I long for. I protect my vulnerability - but the only thing I gain is disconnection and resentment.
 
-What is the alternative?  
-I long and need to be held. And I need people who are willing to spend this time on me and hold me with gentleness in the fire and excruciating pain of shame. The process to get there isn't always straightforward.
+<b>What is the alternative? </b> 
+I long to and need to be held. And I need people who are willing to spend this time on me and hold me with gentleness in the fire and excruciating pain of shame. The process to get there isn't always straightforward.
 
-I am reminded also of encounters and experiences with a famous <abbr title = "Nonviolent Communication"> NVC </abbr> trainer.
+I am reminded also of encounters and experiences with a famous <abbr title = "Nonviolent Communication"> NVC </abbr> trainer. I remember being frustrated and furious with her for "turning things around to focus on her pain" when someone was trying to share something about a pain that they had encountered with this NVC trainer.
+
+I guess our vulnerability can go deep and be intense. More intense than may be easily understood by others. It can be difficult to understand the seeming diversion of topic as the way. THe way to connect more deeply. These things come up, because they want to be met. Maybe the pain that comes up in response to the unspoken suggestion that "one might have done something morally wrong", might just be too overwhelming.  
+This perspective is bringing new empathy and tenderness for the NVC trainer. 
+
+_May we all feel the gentle holding of mother earth  
+embracing us with nurturance and love  
+so that we may know, that we are not alone  
+and we are held  
+and we are loved  
+Even as pain swallows us  
+there is meaning in this  
+the untold story of how excruciating and lonely the past was  
+drenched to the bone with grief  
+that longs to be witnessed  
+too immense to contain alone  
+clawing greedily, relentless  
+and yet feeling like a baby  
+scared and in panic  
+for life that is too overwhelming  
+where did the lightness go?  
+why is it so painful?  
+it just doesn't make sense  
+all has space_
 
 
+
+[1]: https://psychcentral.com/blog/grandiosity-and-delusion-grandeur#definition
 
 [^1]: Nonviolent Communication is a framework for communication developed by Marshall B. Rosenberg that describes principles, attitudes and practical methods for communicating in a way that is more likely to lead to hearful connection between people. You can find out more [here](https://thefearlessheart.org/nvc-reference-materials/basics-of-nonviolent-communication/).
 
