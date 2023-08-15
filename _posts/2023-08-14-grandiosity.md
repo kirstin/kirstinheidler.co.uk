@@ -16,8 +16,6 @@ image:
     caption_url: "http://www.aisleone.net/"
 categories:
     - "human defenses"
-    - vulnerability
-    - needs
 ---
 <!--more-->
 
