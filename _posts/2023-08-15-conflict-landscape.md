@@ -10,10 +10,10 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 image:
-    thumb:  
-    homepage: 
-    caption: 
-    caption_url: 
+    thumb: obie-fernandez-0GFNAelMPZA-unsplash.jpg 
+    homepage: obie-fernandez-0GFNAelMPZA-unsplash.jpg
+    caption: Image by Obie Fernandez
+    caption_url: https://unsplash.com/
 categories:
     - process
     - emotions
