@@ -5,9 +5,9 @@ subheadline: "A process for accompanying yourself in a conflict situation"
 meta_teaser: "This process guides you through the steps of unfolding the landscape of a conflict. Discover what is important to you and learn from your experience."
 teaser: "This process guides you through the steps of unfolding the landscape of a conflict. Discover what is important to you and learn from your experience."
 header:
-    image: sunguk-kim-JhqBxsORuXA-unsplash.jpg
+    image: obie-fernandez-0GFNAelMPZA-unsplash.jpg
     background-color: "#262930"
-    caption: This is a caption for the header image with link
+    caption: Image by Obie Fernandez
     caption_url: https://unsplash.com/
 image:
     thumb: obie-fernandez-0GFNAelMPZA-unsplash.jpg 
