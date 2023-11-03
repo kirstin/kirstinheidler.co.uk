@@ -55,4 +55,6 @@ sole purpose of life becomes the relationship and maintaining it
 4. Recognize when i's happening
 5. Find alternative things to intentionally focus on
 6. do things that resource self, are fun and ejoyable
-7. 
+7. grieve the effect it has had (many times)
+8. grieve for how you have benn hurt/not had what you need leading to this pattern
+9. 
