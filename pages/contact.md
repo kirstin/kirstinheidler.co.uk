@@ -3,7 +3,7 @@ layout              : page
 sidebar             : right
 title               : "Contact"
 meta_title          : "Contact Kirstin Heidler online or by phone"
-teaser              : "Contact me for a free consultation of 30 minutes to find out how and if we can work together."
+teaser              : "Contact me and stay in touch"
 permalink           : "/contact/"
 breadcrumb: true
 #image:
@@ -33,7 +33,9 @@ Telegram and Signal (and phone from Germany): [+49&nbsp;163&nbsp;683&nbsp;4491](
 
 Email: <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
-Where I live, I have poor mobile reception. Therefore, please use one of the other ways (than calling my phone) to contact me to schedule a time to talk with me.
+Where I live, I have poor mobile reception. Therefore, please use one of the other ways (than calling my phone) to contact me.
+
+<button class="ml-onclick-form" onclick="ml('show', 'hSuZLh', true)">Subscribe to my Mailinglist</button>
 
 If you would like to file a complaint, please see the [complaints procedure]({{ site.baseurl }}/complaints-procedure).
 
