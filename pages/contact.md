@@ -35,7 +35,7 @@ Email: <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
 Where I live, I have poor mobile reception. Therefore, please use one of the other ways (than calling my phone) to contact me.
 
-<button class="ml-onclick-form" onclick="ml('show', 'hSuZLh', true)">Subscribe to my Mailinglist</button>
+<div class="ml-embedded" data-form="jqDRvr"></div>
 
 If you would like to file a complaint, please see the [complaints procedure]({{ site.baseurl }}/complaints-procedure).
 
