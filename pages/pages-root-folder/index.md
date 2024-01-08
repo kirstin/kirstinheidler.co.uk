@@ -10,31 +10,31 @@ header:
 sections:
 - markdown: vision.md
 - widgets:
-  - title: "Conflict Facilitation Practice Group"
+  - title: "Conflict Practice Group"
     url: '#practice-groups-and-workshops'
     image: melissa-askew-tSlvoSZK77c-unsplash.jpg
     text: 'Together with others we can face the things we find challenging and be held in presence and compassion.<br/>Every first Saturday of the month. More information and sign up <a href="https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/">here</a>.'
   - title: "Upcoming Open Workshops"
     url: '#practice-groups-and-workshops'
-    text: '<!-- CHECK --><a href="/contact">Register or arrange for a private workshop</a>'
+    text: '<!-- CHECK --><a href="/contact">Collaborate with me!</a>'
     image: jason-goodman-6awfTPLGaCE-unsplash.jpg
   #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   - title: "Sessions for Individuals"
     url: '#individuals'
     image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
-    text: 'I am happy to offer a compassionate and safe space for exploring the difficult and sometimes painful matters of life.'
+    text: 'I am present with you, wherever you are. Find understanding and peace.'
   - title: "Sessions for People in Relationships"
     url: '#relationship'
     image: ian-schneider-TamMbr4okv4-unsplash.jpg
-    text: 'I can help restore connection, understanding and trust. If both (all) of you want it, I can facilitate the dialogue between you.'
-  - title: "Sessions for Groups Working or Living Together"
+    text: 'Relationships are at once complex and simple. Find peace and understanding.'
+  - title: "Sessions for Groups"
     url: '#groups'
     image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
-    text: 'For groups who are working or living together (or intending to do so), I offer different packages depending on what you need. '
-  - title: "Offers for Businesses"
+    text: 'Regardless of what kind of group you are, dynamics can be challenging. Clarity and discernment<br/> Have things fall into place. '
+  - title: "Businesses"
     url: '#businesses'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
-    text: 'I offer workshops and support for developing leadership skills, improving social skills, sharpening your vision and purpose and building systems that serve your business.'
+    text: 'Benefit from finding peace in your organisation. I bring clarity and orentation, passing on skills and helping you navigate the most challenging situations.'
 - markdown: why-i-do-what-i-do.md
 - markdown: practice-groups-and-workshops.md
 - markdown: individuals.md
