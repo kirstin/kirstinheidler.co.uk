@@ -25,8 +25,8 @@ By providing us with your data, you warrant to us that you are over 13 years of 
 Kirstin Heidler is the data controller and is responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 Our Contact Details  
 
-Full name of legal entity: Kirstin Heidler
-Email address: hello@kirstinheidler.co.uk
+Full name of legal entity: Kirstin Heidler  
+Email address: <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>  
 
 Postal address: Wernlas, Cwmdu, Llandeilo, SA19 7EE, Wales
 
@@ -55,7 +55,7 @@ Our lawful ground of processing your personal data to send you marketing communi
 
 Under the Privacy and Electronic Communications Regulations, we may send you marketing communications if you agreed to receive marketing communications and you have not opted out of receiving such communications since.
 
-You can unsubscribe at any time by emailing hello@kirstinheidler.co.uk or by following the unsubscribe links on our emails.
+You can unsubscribe at any time by emailing <a id="mailLink">hello[ät]kirstinheidler.co.uk</a> or by following the unsubscribe links on our emails.
 
 If you unsubscribe from receiving email marketing, this opt-out does not apply to personal data provided as a result of sessions you take with me.
 
@@ -101,7 +101,7 @@ Under data protection laws you have rights in relation to your personal data tha
 
 You can see more about these rights at ICO
 
-If you wish to exercise any of the rights set out above, please email us at hello@kirstinheidler.co.uk
+If you wish to exercise any of the rights set out above, please email us at <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
