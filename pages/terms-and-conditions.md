@@ -80,7 +80,7 @@ Any feedback about my services or this website is greatly appreciated and needed
 
 ## Centre for Nonviolent Communication 
 
-As I am an NVC trainer not currently certified with the International Centre for Nonviolent Communication (CNVC) I follow the agreements laid out for sharing NVC without being certified. Their website is: www.cnvc.org. 
+As I am an NVC trainer **not** currently certified with the International Centre for Nonviolent Communication (CNVC) I follow the agreements laid out for sharing NVC without being certified. Their website is: www.cnvc.org. 
 
 ## Cancellations
 Please refer to my [Cancellation Policy](/cancellations/).
