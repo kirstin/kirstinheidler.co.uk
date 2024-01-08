@@ -30,7 +30,7 @@ Email address: hello@kirstinheidler.co.uk
 
 Postal address: Wernlas, Cwmdu, Llandeilo, SA19 7EE, Wales
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at hello@kirstinheidler.co.uk
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
 ## Data Collection
 
@@ -127,3 +127,13 @@ This website is currently not using any cookies. You can set your browser to ref
 
 This website is hosted with GitHub Pages.
 They have their [own privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#github-pages).
+
+<!-- obfuscated email -->
+<script type="text/javascript">
+// from https://stackoverflow.com/a/14497443
+//do some really cool stuff
+var at = String.fromCharCode(60 + 4);
+var text = "hello" + at +"kirstinheidler" + ".co." + 'uk';
+document.getElementById("mailLink").href = "mai" + "lto:" + text;
+document.getElementById("mailLink").innerText = text;
+</script>
