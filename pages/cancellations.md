@@ -16,6 +16,7 @@ Should you need to cancel a service you have booked with me, these are the polic
 
 ## Sessions for coaching or mediation with individuals or couples
 If you cancel more than 24 hours in advance you will not be charged or the price for the session will not be due.  
+In the case that you have paid already you have the option of resechduling or requesting a refund.  
 Should you cancel less than 24 hours in advance the full amount for the session will be due and invoiced to you. 
 
 ## Sessions for group facilitation or conflict engagement
