@@ -8,8 +8,9 @@ Practice groups are a way of practicing and integrating what we know on a cognit
 
 I offer regular open practice groups:  
 
-- **Conflict Facilitation Practice Group:** Every first Saturday of the month. More information and sign up [here](https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/).
+- **Conflict Practice Group:** Every first Saturday of the month. More information and sign up [here](https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/).
 
 Upcoming open workshops:
+- TBC
 
-[_Register or arrange for a private workshop_](#contact)  
+[_Collaborate with me_](#contact)  
