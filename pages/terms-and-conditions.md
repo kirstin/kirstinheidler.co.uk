@@ -16,7 +16,7 @@ breadcrumb: true
 
 ## About us
 
-kirstinheidler.co.uk is a site operated by Kirstin Heidler ("we" or “us”). Our address is Wernlas, Cwmdu, llandeilo, SA19 7EE, Wales and our email address is hello@kirstinheidler.co.uk
+kirstinheidler.co.uk is a site operated by Kirstin Heidler ("we" or “us”). Our address is Wernlas, Cwmdu, llandeilo, SA19 7EE, Wales and our email address is <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
 ## Our Site
 
@@ -49,7 +49,7 @@ You may link to our site provided that you do so in a way that is fair and legal
 
 You must not link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.
 
-If you wish to make any use of material on our site other than that set out above, please address your request to hello@kirstinheidler.co.uk
+If you wish to make any use of material on our site other than that set out above, please address your request to <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
 ## Viruses, hacking and other offences
 
@@ -76,7 +76,7 @@ These terms of use and any dispute or claim arising out of or in connection with
 ## Complaints and Feedback
 For making a complaint please refer to my [Complaints Procedure](/complaints-procedure/).
 
-Any feedback about my services or this website is greatly appreciated and needed. Please write me an email: hello@kirstinheidler.co.uk
+Any feedback about my services or this website is greatly appreciated and needed. Please write me an email: <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
 
 ## Centre for Nonviolent Communication 
 
@@ -84,3 +84,13 @@ As I am an NVC trainer not currently certified with the International Centre for
 
 ## Cancellations
 Please refer to my [Cancellation Policy](/cancellations/).
+
+<!-- obfuscated email -->
+<script type="text/javascript">
+// from https://stackoverflow.com/a/14497443
+//do some really cool stuff
+var at = String.fromCharCode(60 + 4);
+var text = "hello" + at +"kirstinheidler" + ".co." + 'uk';
+document.getElementById("mailLink").href = "mai" + "lto:" + text;
+document.getElementById("mailLink").innerText = text;
+</script>
