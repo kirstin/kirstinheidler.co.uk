@@ -22,7 +22,7 @@ If you want to share your complaint with me, I invite you to consider the follow
 If you are feeling very charged, please consider getting support. If we are very upset or angry we sometimes end up doing or saying things we regret later. Also, my "neural-wifi" is always on, meaning that I will probably pick up on how you are. That might send me into stress and make it more difficult for us to understand each other. Receiving empathy and support first can help you be grounded and firm in what's important to you, without feeling like it's an emergency.
 
 **2.   Contact me**  
-Contact me with your complaint. (Or ask a friend or support person to contact me.)  If it's fitting, let me know your complaint by email (kirstin.heidler@yahoo.com). Please put the word ‘Complaint’ in the subject header. 
+Contact me with your complaint. (Or ask a friend or support person to contact me.)  If it's fitting, let me know your complaint by email (<a id="mailLink">hello[ät]kirstinheidler.co.uk</a>). Please put the word ‘Complaint’ in the subject header. 
 
 ​If one of us senses it's needed, we will have a conversation for me to hear your complaints and for you to be heard with what's on your heart. Ideally we find a mutually satisfying resolution of the issue. If you are satisfied, this is the end of the process.  
 ​
@@ -30,3 +30,14 @@ _If at the end of this process, you are not satisfied with the outcome:_
 
 **3.   Contact CTW**  
 If the steps before didn't work out for you or you don't feel comfortable with contacting me directly, you can contact  the Conflict Transformation Weave. They will follow this procedure. You can find information about and ways of contacting the CTW at: [https://ctw-uk.com](https://ctw-uk.com)
+
+
+<!-- obfuscated email -->
+<script type="text/javascript">
+// from https://stackoverflow.com/a/14497443
+//do some really cool stuff
+var at = String.fromCharCode(60 + 4);
+var text = "hello" + at +"kirstinheidler" + ".co." + 'uk';
+document.getElementById("mailLink").href = "mai" + "lto:" + text;
+document.getElementById("mailLink").innerText = text;
+</script>
