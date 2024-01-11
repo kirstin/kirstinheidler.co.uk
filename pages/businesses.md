@@ -1,7 +1,7 @@
 ---
 layout              : page
-title               : "Businesses"
-meta_title          : "Nonviolent Communication for Businesses"
+title               : "Nonviolent Communication for Businesses"
+meta_title          : "Nonviolent Communication for Businesses NVC"
 teaser              : "Find out what benefits NVC training will have for your organisation or business."
 permalink           : "/businesses/"
 breadcrumb: true
