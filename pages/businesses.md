@@ -5,7 +5,7 @@ meta_title          : "Nonviolent Communication for Businesses"
 teaser              : "Find out what benefits NVC training will have for your organisation or business."
 permalink           : "/businesses/"
 breadcrumb: true
-#image               : "concentratedProfile.JPG"
+image               : concentratedProfile.JPG
 #    title           : Kirstin writing on flipchart
 #    caption         : Support for Businesses
 #    thumb: gallery-example-2-thumb.jpg
