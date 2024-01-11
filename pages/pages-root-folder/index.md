@@ -32,7 +32,7 @@ sections:
     image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
     text: 'Regardless of what kind of group you are, dynamics can be challenging. Clarity and discernment<br/> Have things fall into place. '
   - title: "Businesses"
-    url: 'businesses'
+    url: '/businesses/'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
     text: 'Benefit from finding peace in your organisation. I bring clarity and orentation, passing on skills and helping you navigate the most challenging situations.'
 - markdown: why-i-do-what-i-do.md
