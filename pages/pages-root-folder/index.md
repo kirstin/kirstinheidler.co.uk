@@ -13,7 +13,7 @@ sections:
   - title: "Conflict Practice Group"
     url: '#practice-groups-and-workshops'
     image: melissa-askew-tSlvoSZK77c-unsplash.jpg
-    text: 'Together with others we can face the things we find challenging and be held in presence and compassion.<br/>Every first Saturday of the month. More information and sign up <a href="https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/">here</a>.'
+    text: 'Together with others we can face the things we find challenging and be held in presence and compassion.<br/>Every first Saturday of the month. More information and sign up <a href="https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/" target="_blank">here</a>.'
   - title: "Upcoming Open Workshops"
     url: '#practice-groups-and-workshops'
     text: '<!-- CHECK --><a href="/contact">Collaborate with me!</a>'
