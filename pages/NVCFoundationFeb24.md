@@ -31,5 +31,5 @@ After this course you will be able to distinguish:
 - Requests from demands
 
 [Booking ›](https://app.workshop-angel.com/form.php?h=1&t=0&e=9b9f181d08c3a21f)
-{: .t30 .button .radius}
+{: .t30 .button .radius target="_blank" rel="noopener"}
  
