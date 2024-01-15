@@ -14,9 +14,11 @@ image               :
 #    caption_url: http://unsplash.com
 ---
 
-This course will run over 6 weeks. We will meet every Monday for 2 hours.
+When: This course will run over 6 weeks from the 12th of February to the 18th of March. Always from 6pm to 8pm.  
+Duration: Each session will be 2 hous long.  
+Where: Hengwrt in Llandeilo (8 Carmarthen St, Llandeilo, SA19 6AE)
 
-This is a Nonviolent Communication (NVC) Foundation course, which will teach you the basics of Nonviolent Communication after Marshall Rosenberg.
+This is a Nonviolent Communication (NVC) Foundation course, which will teach you the basics of Nonviolent Communication after Marshall B. Rosenberg.
 
 Nonviolent Communication is a set of tools and principles that anchors you in the now, and allows true communication and natural giving between human beings to happen joyfully.
 
