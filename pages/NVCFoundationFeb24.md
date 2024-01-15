@@ -1,13 +1,13 @@
 ---
 layout              : page
-title               : "Nonviolent Communication Foundation Training"
+title               : "Nonviolent Communication Foundation Training Level 1"
 meta_title          : "Nonviolent Communication Foundation Training over 6 weeks from 12th of February to 18th of March NVC"
 teaser              : "Learn the basics of NVC over 6 weeks from 12th of February to 18th of March"
 permalink           : "/nvcfdfeb24/"
 breadcrumb: true
 image               : 
     title           : concentratedProfile.JPG
-    caption         : Support for Businesses
+    caption         : Nonviolent Communication Foundation Training
 #    thumb: gallery-example-2-thumb.jpg
 #    title: gallery-example-2.jpg
 #    caption: Unsplash.com
