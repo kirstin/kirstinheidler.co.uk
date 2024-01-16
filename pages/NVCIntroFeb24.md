@@ -19,7 +19,7 @@ This is a 90 minute Introduction to Nonviolent Communication.
 When: 10th of February, 2-4pm  
 Where: in Llandeilo at the Hengwrt (8 Carmarthen St, Llandeilo, SA19 6AE)
 
-Cost: FREE
+Cost: FREE  
 Recommended Donation: 5£  
 to cover the rent for the room
 
