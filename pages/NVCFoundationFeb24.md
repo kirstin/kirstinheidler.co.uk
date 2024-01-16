@@ -16,7 +16,9 @@ image               :
 
 When: This course will run over 6 weeks from the 12th of February to the 18th of March. Always from 6pm to 8pm.  
 Duration: Each session will be 2 hous long.  
-Where: Hengwrt in Llandeilo (8 Carmarthen St, Llandeilo, SA19 6AE)
+Where: Hengwrt in Llandeilo (8 Carmarthen St, Llandeilo, SA19 6AE)  
+Cost: sliding scale £300 - £120  
+_(Please reach out if this is a barrier to you)_
 
 This is a Nonviolent Communication (NVC) Foundation course, which will teach you the basics of Nonviolent Communication after Marshall B. Rosenberg.
 
