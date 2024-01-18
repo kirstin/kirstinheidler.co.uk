@@ -3,9 +3,9 @@
   side: left
 
 - title: "About Me"
-  url: "/#about-me"
+  url: "/aboutme/"
   side: right
-  class: toggle-topbar-click
+#  class: toggle-topbar-click
 
 - title: "Blog"
   url: "/blog/"
