@@ -40,7 +40,7 @@ Where I live, I have poor mobile reception. Therefore, please use one of the oth
 If you would like to file a complaint, please see the [complaints procedure]({{ site.baseurl }}/complaints-procedure).
 
 [Subscribe to my Mailing List](https://app.workshop-angel.com/mailing.php?m=subscribe&t=0&b=7b205d1d57858cfe)
-{: .t30 .button target="_blank" rel="noopener"}
+{: target="_blank" rel="noopener"}
 
 ## Payments
 
