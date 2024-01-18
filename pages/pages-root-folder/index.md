@@ -39,7 +39,7 @@ sections:
 - markdown: practice-groups-and-workshops.md
 - markdown: relationship.md
 - markdown: upcoming-events.md
-- html: about-me.html
+# - html: about-me.html
 - markdown: testimonials.md
 #
 # Use the call for action to show a button on the frontpage
