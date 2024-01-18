@@ -20,7 +20,7 @@ sections:
     image: jason-goodman-6awfTPLGaCE-unsplash.jpg
   #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   - title: "Sessions for Individuals"
-    url: '#individuals'
+    url: '/individuals/'
     image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
     text: 'I am present with you, wherever you are. Find understanding and peace.'
   - title: "Sessions for People in Relationships"
@@ -37,7 +37,6 @@ sections:
     text: 'Benefit from finding peace in your organisation. I bring clarity and orentation, passing on skills and helping you navigate the most challenging situations.'
 - markdown: why-i-do-what-i-do.md
 - markdown: practice-groups-and-workshops.md
-- markdown: individuals.md
 - markdown: relationship.md
 - markdown: upcoming-events.md
 - html: about-me.html
