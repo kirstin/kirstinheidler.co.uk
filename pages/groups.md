@@ -18,4 +18,4 @@ Nonviolent Communication has a lot to offer to groups, because it fosters commun
  
 I am able to support you with existing conflicts, help you shape systems to hold you in the future, or work with you to increase harmony and build a shared vision. I also offer Nonviolent Communication workshops for you to learn the tools and practice so that you can grow with eachother.
 
-[_Get in touch to find out more_](#contact)  
+[_Get in touch to find out more_](/contact/)  
