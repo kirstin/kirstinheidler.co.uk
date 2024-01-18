@@ -34,7 +34,7 @@ sections:
   - title: "Businesses"
     url: '/businesses/'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
-    text: 'Benefit from finding peace in your organisation. I bring clarity and orentation, passing on skills and helping you navigate the most challenging situations.'
+    text: 'Benefit from finding peace in your organisation. I bring clarity and orientation, passing on skills and helping you navigate the most challenging situations.'
 - markdown: why-i-do-what-i-do.md
 - markdown: practice-groups-and-workshops.md
 - markdown: relationship.md
