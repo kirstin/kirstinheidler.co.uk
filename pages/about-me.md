@@ -1,5 +1,6 @@
 ---
 layout              : page
+sidebar		    : right
 title               : "About Me"
 meta_title          : "About Kirstin Heidler"
 teaser              : "What I say about myself, my education and my qualification to offer what I am offering."
@@ -13,9 +14,6 @@ breadcrumb: true
 #    caption: Unsplash.com
 #    caption_url: http://unsplash.com
 ---
-
-{% capture index_markdown %}
-# About Me
 
 I have been studying and teaching about NVC since 2014, just before my daughter was born. Now, I'm living in a yurt in rural Wales together with my partner Nicco and our two children. We moved here from Germany in 2020.
 
@@ -57,13 +55,3 @@ Start|End|What
 2019|2020| Member of the Awareness Team for the Chaos Communication Camp and Congress.
 2021|today|Volunteering for NVC Matters UK CIC, who are operating using Holacracy. Roles currently filled: Fundraising Co-ordinator, Fundraiser, Secretary in 3 circles, Vision Co-ordinator, Fight Club Supremo
 
-
-{% endcapture %}
-<div class="row t30">
-  <div class="medium-8 columns">
-   {{ index_markdown | markdownify }}
-  </div><!-- /.medium-8.columns -->
-	<div class="medium-4 columns">
-		{% include _sidebar.html %}
-	</div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
