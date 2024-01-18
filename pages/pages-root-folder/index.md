@@ -9,6 +9,10 @@ header:
   image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
 sections:
 - markdown: vision.md
+- callforaction:
+  url: https://app.workshop-angel.com/mailing.php?m=subscribe&t=0&b=7b205d1d57858cfe
+  text: Subscribe to my mailing list ›
+  style: alert
 - widgets:
   - title: "Conflict Practice Group"
     url: '#practice-groups-and-workshops'
