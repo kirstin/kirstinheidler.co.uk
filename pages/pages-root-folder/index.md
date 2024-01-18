@@ -28,9 +28,9 @@ sections:
     image: ian-schneider-TamMbr4okv4-unsplash.jpg
     text: 'Relationships are at once complex and simple. Find peace and understanding.'
   - title: "Sessions for Groups"
-    url: '#groups'
+    url: '/groups/'
     image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
-    text: 'Regardless of what kind of group you are, dynamics can be challenging. Clarity and discernment<br/> Have things fall into place. '
+    text: 'Regardless of what kind of group you are, dynamics can be challenging. Clarity and discernment<br/> Learn to engage your own issues effectively '
   - title: "Businesses"
     url: '/businesses/'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
@@ -39,7 +39,6 @@ sections:
 - markdown: practice-groups-and-workshops.md
 - markdown: individuals.md
 - markdown: relationship.md
-- markdown: groups.md
 - markdown: upcoming-events.md
 - html: about-me.html
 - markdown: testimonials.md
