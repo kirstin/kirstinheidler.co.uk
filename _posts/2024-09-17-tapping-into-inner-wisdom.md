@@ -2,8 +2,8 @@
 layout: page-fullwidth
 title: "Tapping Into Your Inner Wisdom"
 subheadline: "Skills for Living in Integrity"
-meta_teaser: "Conflict does not need to be part of a person's experience in life. Not just because time passes, but because we can change our perspective so much that it just doesn't make sense anymore."
-teaser: "Conflict does not need to be part of a person's experience in life. Not just because time passes, but because we can change our perspective so much that it just doesn't make sense anymore."
+meta_teaser: "Finding meaning and direction in a way not governed by the mind, but attuned with the body. How needs express in sensations and offer us guidance."
+teaser: "Finding meaning and direction in a way not governed by the mind, but attuned with the body. How needs express in sensations and offer us guidance."
 #header:
 #    image: Large-conflict-chris-sabor-qlaot0VrqTM-unsplash.jpg
 #    background-color: "#262930"
