@@ -27,7 +27,7 @@ Marshall Rosenberg did not just teach about the 4 steps and the key distinctions
 At the beginning of his book and at the beginning of his workshops on NVC he also spoke about "denial of responsibility". 
 We usually don't take responsibility for the thoughts we have about other people and the world - but they matter a lot. We don't take responsbility for the meaning we give to what we perceive, because we do not perceive that there is a choice we are making.
 What's beautiful about NVC is that it offers a way of transforming our thoughts and judgements in a way that presumes the world beyond this world we see is true and thereby allows us to glimpse it. 
-Herein also lies the reason why NVC is not merely a "communication tool". It can offer us glimpses of the other world, but unless we choose to give up the investment we have in the world we "see" transformation is partial and shaky.
+Herein also lies the reason why NVC is not merely a "communication tool". It can offer us glimpses of the other world, but unless we choose to give up the investment we have in the "world we see" transformation is partial and shaky.
 It's beautiful and powerful to glimpse this other world and anyone who sees and experiences it even breifly would want to be in it - it is lovely and wonderful and true. But we don't realise how invested we are in this world we see and how difficult it seems to give up the things that promise to "keep us safe" but actually do the opposite and bring us misery.
 
 I believe only now am I beginning to grasp the full extent of what this means "to deny responsibility".
