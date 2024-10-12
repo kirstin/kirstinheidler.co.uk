@@ -35,9 +35,9 @@ I cannot count the number of times I've heard people explain their feelings with
 Or label themselves as "co-dependent" or having a "lack of boundaries" as an explanation for why they are doing certain things. 
 These ways of making sense of our experience are supposed to help, but they usually keep us stuck by denying the responsibility we have for how we choose to perceive the world.
 
-We have the choice and the responsbility is ours - but then we could not blame others anymore for how we feel and that might seem like too much to bear when we are in a lot of pain. 
-And I don't mean that people don't behave in careless and cruel ways at times - they do and all of us have at some point in time. 
-We have a choice about whether this and all flaws we can find are what we want to look at... or at the beauty and care that are always there...
+We have the choice and the responsbility is ours - but then we could not blame others anymore for how we feel and that might seem like too much to bear when we are in a lot of pain.  
+And I don't mean that people don't behave in careless and cruel ways at times - they do and all of us have at some point in time.  
+We have a choice about whether this and all flaws we can find are what we want to look at... or at the beauty and care that are always there...  
 We have a choice about whether we see our wellbeing as connected and mutually interlinked... or believing that one person's wellbeing is more important or could be viewed in isolation.
 
 In truth it is not possible to give up this responsibility - but we can believe that the world we see is the only one that's possible and that our interpretations are the only way of making meaning. In this way there would be nothing we could take responsibility for.
