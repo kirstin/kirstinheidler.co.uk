@@ -1,3 +1,23 @@
+---
+layout: page-fullwidth
+title: "The World we Choose"
+subheadline: "How denial of responsibility keeps us stuck"
+meta_teaser: "How we choose to see and give meaning shapes our ability to live happily and peacefully. While it may feel like we have no choice in our perceptions, embracing this responsibility is key to transforming our experience. Through Nonviolent Communication (NVC), we can remove the blocks to love and take up this responsibility lightly—opening ourselves to deeper connection, compassion, and the love we long for. This journey is not just about changing words, but about reshaping our thoughts and choosing to see a more beautiful and loving reality."
+teaser: "How we choose to see and give meaning shapes our ability to live happily and peacefully. While it may feel like we have no choice in our perceptions, embracing this responsibility is key to transforming our experience. Through Nonviolent Communication (NVC), we can remove the blocks to love and take up this responsibility lightly—opening ourselves to deeper connection, compassion, and the love we long for. This journey is not just about changing words, but about reshaping our thoughts and choosing to see a more beautiful and loving reality."
+#header:
+#    image: Large-conflict-chris-sabor-qlaot0VrqTM-unsplash.jpg
+#    background-color: "#262930"
+#    caption: Learn about yourself and how to approach conflict
+#    caption_url: https://unsplash.com/
+#image: 
+#    thumb:  Large-conflict-chris-sabor-qlaot0VrqTM-unsplash.jpg
+#    homepage: Large-conflict-chris-sabor-qlaot0VrqTM-unsplash.jpg
+#    caption: "Image by Chris Sabor"
+#    caption_url: "https://unsplash.com/"
+#categories:
+#    - "courses"
+---
+
 We are here for such a precious short time only. And what we long for most is to be connected with other people and experience and give love.
 Yet, what we keep doing and experiencing is very different from this. 
 And we believe that this is outside of our chioce that "this is just how the world is".
