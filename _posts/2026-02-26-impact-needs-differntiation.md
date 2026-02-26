@@ -4,11 +4,11 @@ title: "Impact needs Differentiation"
 subheadline: "Impact sharing without differentiation risks becoming a subtle form of emotional outsourcing that erodes the very intimacy it seeks to create."
 meta_teaser: "Explore how differentiation transforms impact sharing in NVC, supporting intimacy, accountability, and emotional responsibility in relationships."
 teaser: "Nonviolent Communication teaches that we are not responsible for others’ feelings — and yet impact matters deeply. This essay examines the developmental capacity that bridges that paradox: differentiation. A closer look at how emotional responsibility, nervous system regulation, and relational clarity intersect in practice."
-#header:
-#    image: Large-conflict-chris-sabor-qlaot0VrqTM-unsplash.jpg
-#    background-color: "#262930"
-#    caption: Learn about yourself and how to approach conflict
-#    caption_url: https://unsplash.com/
+header:
+    image: RootsAndPath.jpg
+    background-color: "#262930"
+    caption: Rugged stone path through trees and their tangled roots.
+    caption_url: https://unsplash.com/
 #image: 
 #    thumb:  Large-conflict-chris-sabor-qlaot0VrqTM-unsplash.jpg
 #    homepage: Large-conflict-chris-sabor-qlaot0VrqTM-unsplash.jpg
