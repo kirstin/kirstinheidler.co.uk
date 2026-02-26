@@ -19,7 +19,6 @@ image:
 ---
 
 
-Impact sharing without differentiation risks becoming a subtle form of emotional outsourcing that erodes the very intimacy it seeks to create.
 Those of us who have practiced NVC for some time are familiar with two core teachings: we are not responsible for other people’s feelings — and at the same time, what we do has an impact. Our words and actions affect others, and relational life inevitably involves mutual influence.  
 
 There is a structural tension here. If my actions affect you, what exactly am I responsible for?  
