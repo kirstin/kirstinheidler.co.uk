@@ -117,7 +117,20 @@ h5 {
     margin: 1em 0 0 0;
 }
 
+/* Pull quote for blog posts
+------------------------------------------------------------------- */
 
+.pull-quote {
+  font-size: 1.6rem;
+  font-weight: 500;
+  font-style: italic;
+  text-align: center;
+  margin: 3rem 0;
+  padding: 1.5rem 2rem;
+  border-left: 4px solid #888;
+  border-right: 4px solid #888;
+  color: #333;
+}
 
 /* Images
 ------------------------------------------------------------------- */
