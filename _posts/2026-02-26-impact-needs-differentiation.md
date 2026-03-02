@@ -53,10 +53,6 @@ Importantly, differentiation is not foreign to NVC. It is woven into its structu
 
 Marshall Rosenberg often said, “What others do may be the stimulus of our feelings, but never the cause.” That distinction is the essence of differentiation. The observation/evaluation separation trains the same muscle. “You raised your voice” is not the same as “You attacked me.” Hearing every “No” as a “Yes” to something else protects us from collapsing into rejection.  
 
-<div class="pull-quote">
-“What others do may be the stimulus of our feelings, but never the cause.” That distinction is the essence of differentiation.
-</div>
-
 Even Marshall’s provocative statement that we need to “learn to enjoy the other person’s pain” points in this direction. He did not mean taking pleasure in suffering. He meant remaining open, undefended, and compassionate in the presence of another’s pain — even when we may have contributed to it. To stay steady there, without collapsing into shame or counter-attack, requires differentiation.  
 
 In spaces where a great deal of pain is shared, this matters deeply. If I equate your pain with my moral failure, I will either drown in guilt or distance myself to survive. Neither response supports intimacy. To care about your experience without losing myself is a developmental achievement, not a given.  
