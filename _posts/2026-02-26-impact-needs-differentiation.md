@@ -27,6 +27,10 @@ Classical NVC draws a careful distinction: I am responsible for my intention, my
 
 Miki Kashtan describes impact sharing as telling someone how what they did or said affected us, including all the layers of meaning, interpretation, and response that were activated in us, taking full responsibility for them.  
 
+<div class="pull-quote">
+Impact sharing does not always look the same. Sometimes it is courageous, vulnerable intimacy. Sometimes it becomes a refined way of holding onto the idea that you are responsible for how I feel.
+</div>
+
 I care deeply about the impact I have. I genuinely want to know how I affect others. And yet, when I began hearing the idea of “impact sharing,” spoken about as something to do, something in me tightened. It took me some time to understand why.  
 
 What I have come to see is that in practice, impact sharing does not always look the same. Sometimes it is courageous, vulnerable intimacy. Sometimes it becomes a refined way of holding onto the idea that you are responsible for how I feel — simply phrased in NVC language.  
