@@ -72,13 +72,18 @@ Once that logic takes hold, both people are caught. One person attempts to regul
 The difficulty is not the feeling itself. The feeling may be entirely real. The difficulty is when interpretation and emotion fuse, and responsibility for relief is placed outside.
 
 ## The Difference in Practice
+
+<div class="pull-quote">
+The impact was shared — but it arrived unprocessed. Interpretation and feeling were fused.
+</div>
+
 Someone once said to me:  
 > “When you used the word ‘apology,’ you returned to a narrative of victim and perpetrator and left me completely alone. Now I don’t feel safe talking to you. You need to look at what happens in you in those moments, because I’ve decided I don’t want to experience this anymore.”  
 
 Their experience was real. The intensity was unmistakable — in them and in me.  
 And yet, embedded in the message was an implicit pressure: adjust how you think and speak so that my internal state changes.  
 
-There was little room for curiosity about meaning. No space for questions like, “What did you intend when you said ‘apology’?” or, “I notice how strongly this word lands in me, and I’m trying to understand why.”
+There was little room for curiosity about meaning. No space for questions like, “What did you intend when you said ‘apology’?” or, “I notice how strongly this word lands in me, and I’m trying to understand why.”  
 The impact was shared — but it arrived unprocessed. Interpretation and feeling were fused. This says nothing about whether my use of the word “apology” was appropriate. It only highlights that the interpretation and the emotional response were so tightly bound together that any attempt to gently examine the interpretation risked being experienced as invalidation.  
 
 Had it sounded more like:  
@@ -116,11 +121,11 @@ At the same time, intensity can subtly become equated with relational truth. The
 
 What can quietly disappear in that moment is differentiation.
 
+“Unsafe,” strictly speaking, is not a feeling in NVC terms; it is already an interpretation. The underlying experience may be fear, anxiety, shame, or activation in the body. When those sensations are not yet metabolized internally, “I feel unsafe” can function less as a window into experience and more as a global assessment of the other person or the relational field.  
+
 <div class="pull-quote">
 Emotion requires holding [...]. It needs enough internal grounding for the person speaking to remain curious about what is happening in them [...]. And it requires enough relational grounding that others can remain present without collapsing into over-responsibility.
 </div>
-
-“Unsafe,” strictly speaking, is not a feeling in NVC terms; it is already an interpretation. The underlying experience may be fear, anxiety, shame, or activation in the body. When those sensations are not yet metabolized internally, “I feel unsafe” can function less as a window into experience and more as a global assessment of the other person or the relational field.  
 
 In low differentiation states, the distinction collapses:  
 - “I feel unsafe” becomes indistinguishable from “You are unsafe.”  
@@ -183,7 +188,6 @@ Differentiation determines whether that statement sounds like:
 or  
 
 “This is what happened — and this is who you were in that moment.”  
-
 
 <div class="pull-quote">
 The moment I speak about impact, I am making a statement about reality between us.
