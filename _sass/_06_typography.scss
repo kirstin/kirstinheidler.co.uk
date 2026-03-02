@@ -121,13 +121,15 @@ h5 {
 ------------------------------------------------------------------- */
 
 .pull-quote {
-  font-size: 1.8rem;
-  line-height: 1.4;
-  font-style: italic;
-  text-align: center;
-  margin: 4rem 0;
-  padding: 2rem;
-  color: #444;
+    font-size: 1.8rem;
+    line-height: 1.4;
+    font-style: italic;
+    text-align: center;
+    margin: 4rem 0;
+    padding: 2rem;
+    border-left: 4px solid $primay-color;
+    border-right: 4px solid $primay-color;
+    color: $alert-color;
 }
 
 /* Images
