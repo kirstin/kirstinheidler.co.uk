@@ -25,7 +25,7 @@ There is a structural tension here. If my actions affect you, what exactly am I 
 
 Classical NVC draws a careful distinction: I am responsible for my intention, my choices, and how I respond. Your feelings may be stimulated by what I do, but they arise from your needs, history, and meaning-making. Nonetheless, sharing how we are affected can deepen intimacy and support learning.  
 
-Miki Kashtan describes impact sharing as telling someone how what they did or said affected us, including all the layers of meaning, interpretation, and response that were activated in us, taking full responsibility for them.  
+Miki Kashtan describes impact sharing as telling someone how what they did or said affected us, including all the layers of meaning, interpretation, and response that were activated in us, taking full responsibility for them[[1](#resources)].  
 
 <div class="pull-quote">
 Impact sharing does not always look the same. Sometimes it is courageous, vulnerable intimacy. Sometimes it becomes a refined way of holding onto the idea that you are responsible for how I feel.
@@ -38,7 +38,7 @@ The difference comes down to one capacity: differentiation.
 
 ## What Differentiation Actually Is
 
-Differentiation is the ability to stay connected to another person without losing connection to oneself. In family systems theory, Murray Bowen described it as the capacity to remain rooted in oneself while in relationship — to experience intense emotion without collapsing into fusion (“You are the cause of my state”) or cut-off (“I withdraw to survive”).  
+Differentiation is the ability to stay connected to another person without losing connection to oneself. In family systems theory, Murray Bowen described it as the capacity to remain rooted in oneself while in relationship — to experience intense emotion without collapsing into fusion (“You are the cause of my state”) or cut-off (“I withdraw to survive”)[[2](#resources)].  
 
 <div class="pull-quote">
 Differentiation means that when something lands strongly in me, I can pause long enough to notice what is happening internally before assigning meaning externally.
@@ -51,7 +51,7 @@ Without this capacity, impact sharing can easily shift from vulnerable connectio
 ## NVC Does Teach Differentiation  
 Importantly, differentiation is not foreign to NVC. It is woven into its structure.  
 
-Marshall Rosenberg often said, “What others do may be the stimulus of our feelings, but never the cause.” That distinction is the essence of differentiation. The observation/evaluation separation trains the same muscle. “You raised your voice” is not the same as “You attacked me.” Hearing every “No” as a “Yes” to something else protects us from collapsing into rejection.  
+Marshall Rosenberg often said, “What others do may be the stimulus of our feelings, but never the cause" [[3](#resources)]. That distinction is the essence of differentiation. The observation/evaluation separation trains the same muscle. “You raised your voice” is not the same as “You attacked me.” Hearing every “No” as a “Yes” to something else protects us from collapsing into rejection.  
 
 Even Marshall’s provocative statement that we need to “learn to enjoy the other person’s pain” points in this direction. He did not mean taking pleasure in suffering. He meant remaining open, undefended, and compassionate in the presence of another’s pain — even when we may have contributed to it. To stay steady there, without collapsing into shame or counter-attack, requires differentiation.  
 
@@ -61,7 +61,7 @@ Conceptually, NVC teaches this. Practically, we often don’t consider what this
 
 
 ## When Differentiation Is Low  
-Most impact sharing begins when someone is upset. Hurt, shame, fear, helplessness — the nervous system activated into fight, flight, or collapse. In those states, our capacity for nuance shrinks. The world simplifies into binaries.  
+Most impact sharing begins when someone is upset. Hurt, shame, fear, helplessness — the nervous system activated into fight, flight, or collapse [[4](#resource)]. In those states, our capacity for nuance shrinks. The world simplifies into binaries.  
 
 - Either you agree with my interpretation, or you are against me.  
 - Either you are unsafe, or my experience is being denied.  
@@ -226,5 +226,9 @@ But without it, impact sharing easily turns into accusation or collapse. With it
 
 Differentiation is what allows us to stay steady in ourselves while remaining open to each other — especially when it matters most.
 
-
-
+<a id="resources"></a>
+## Resources
+[1] Kashtan, M. (2021). Sharing Impacts for Increasing Intimacy. _Association for Humanistics Psychology in Britain. No.6 - Winter 2021._ URL: https://thefearlessheart.org/wp-content/uploads/2025/01/nl-2021-t6-16-miki-kashtan-column-sharing-impacts.pdf   
+[2] Strauss Cohen, I. (2023). Understanding Bowen Family Systems Theory. _Psychology Today_ URL: https://www.psychologytoday.com/gb/blog/your-emotional-meter/202311/understanding-bowen-family-systems-theory  
+[3] nonviolentcommunication.com (unclear). Marshall Rosenberg Quotes. URL: https://nonviolentcommunication.com/resources/mbr-quotes/  
+[4] Polyvagal Intritute (unclear). What is Polyvagal Theory? URL: https://www.polyvagalinstitute.org/whatispolyvagaltheory  
