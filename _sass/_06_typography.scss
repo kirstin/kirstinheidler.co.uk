@@ -117,20 +117,8 @@ h5 {
     margin: 1em 0 0 0;
 }
 
-/* Pull quote for blog posts
-------------------------------------------------------------------- */
 
-.pull-quote {
-    font-size: 1.8rem;
-    line-height: 1.4;
-    font-style: italic;
-    text-align: center;
-    margin: 4rem 0;
-    padding: 2rem;
-    border-left: 4px solid $primay-color;
-    border-right: 4px solid $primay-color;
-    color: $alert-color;
-}
+
 
 /* Images
 ------------------------------------------------------------------- */
@@ -325,6 +313,21 @@ mark {
     .big-teaser         {
         font-size: rem-calc(29);
     }
+}
+
+/* Pull quote for blog posts
+------------------------------------------------------------------- */
+
+.pull-quote {
+    font-size: 1.8rem;
+    line-height: 1.4;
+    font-style: italic;
+    text-align: center;
+    margin: 4rem 0;
+    padding: 2rem;
+    border-left: 4px solid $primary-color;
+    border-right: 4px solid $primary-color;
+    color: $alert-color;
 }
 
 
