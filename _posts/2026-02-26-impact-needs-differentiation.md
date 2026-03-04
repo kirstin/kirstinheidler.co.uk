@@ -94,10 +94,14 @@ Without differentiation, the longing for accountability can quietly mutate into 
 
 
 ## Why This Can Be Challenging in NVC Spaces
-NVC rightly values emotional expression. And because empathy is central, there is often a deep trust that staying present with someone’s pain will lead to transformation.
-In communities where empathy is highly valued, it can become the automatic response to distress. The moment activation appears, attention shifts toward soothing it. Boundaries or clarification may begin to feel secondary — even suspect.
-Intensity can subtly become equated with relational truth. The more charged the expression, the more quickly collective attention organizes around it.
-When empathy mirrors interpretation instead of helping separate sensation from meaning, it stabilizes the interpretation rather than deepening self-connection. Empathy to the exclusion of containment through relational boundaries can unintentionally reinforce fusion.
+NVC rightly values emotional expression. And because empathy is central, there is often a deep trust that staying present with someone’s pain will lead to transformation.  
+
+In communities where empathy is highly valued, it can become the automatic response to distress. The moment activation appears, attention shifts toward soothing it. Boundaries or clarification may begin to feel secondary — even suspect.  
+
+Intensity can subtly become equated with relational truth. The more charged the expression, the more quickly collective attention organizes around it.  
+
+When empathy mirrors interpretation instead of helping separate sensation from meaning, it stabilizes the interpretation rather than deepening self-connection. Empathy to the exclusion of containment through relational boundaries can unintentionally reinforce fusion.  
+
 The paradox is subtle: empathy can create the safety needed for differentiation to grow. But without differentiation, empathy alone can reinforce collapse.
 
 
