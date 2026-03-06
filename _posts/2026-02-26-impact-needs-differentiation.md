@@ -18,7 +18,9 @@ image:
 #    - "courses"
 ---
 
-**Impact sharing without differentiation risks becoming a subtle form of emotional outsourcing that erodes the very intimacy it seeks to create.**  
+<div class="pull-quote">
+Impact sharing without differentiation risks becoming a subtle form of emotional outsourcing that erodes the very intimacy it seeks to create.
+</div>
 
 Those of us who have practiced NVC for some time are familiar with two core teachings: we are not responsible for other people’s feelings — and at the same time, what we do has an impact. Our words and actions affect others, and relational life inevitably involves mutual influence.  
 
@@ -30,10 +32,9 @@ Miki Kashtan describes impact sharing as telling someone how what they did or sa
 
 I care deeply about the impact I have. I genuinely want to know how I affect others. And yet, when I began hearing the idea of “impact sharing,” spoken about as something to do, something in me tightened. It took me some time to understand why.  
 
-<div class="pull-quote">
 Impact sharing does not always look the same. Sometimes it is courageous, vulnerable intimacy. Sometimes it becomes a refined way of holding onto the idea that you are responsible for how I feel.   
-The difference comes down to one capacity: differentiation.
-</div>
+The difference comes down to one capacity: **differentiation**.  
+
 
 ## What Differentiation Actually Is
 
