@@ -10,4 +10,4 @@ I can help restore connection, understanding and trust. It does not always happe
 I have personal experience with being in polyamorous relationships. I want to offer my experience, skills and insights for people people being in (or open to) consensual, intimate and caring connection with multiple people. My experience tells me that these relationships can bring out a lot and have a lot of potential for personal and collective healing of past traumas. At the same time our own traumas sometimes get in the way and block us from having the connection and intimacy we long for.
 I'd be honored to accompany you and offer empathy as well as work with you on shifting communication patterns.
 
-[_Schedule a free consultation_](#contact)
+[_Schedule a free consultation_](/contact)
