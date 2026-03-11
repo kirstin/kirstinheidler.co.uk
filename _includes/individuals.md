@@ -18,4 +18,4 @@ _I can be present with you and offer guidance in your process._
 Being in a position of leadership or taking leadership in a specific area comes with its own set of challenges. While taking that position, many eyes are on you and continuously holding the whole can become challenging. I can help you communicate more clearly, oriented towards vision and purpose. I can help you meet those you lead or are aiming to lead with enough curiosity and acceptance so that magic can happen. Being connected and approachable while at the same time being focused on purpose and having clear discernment are not mutually exclusive and I can help you embody that.
 
 
-[_Schedule a free consultation_](#contact)  
+[_Schedule a free consultation_](/contact)  
