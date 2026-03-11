@@ -20,4 +20,4 @@ I work with clients who are experiencing things like:
 
 In our sessions we explore what is happening beneath the surface of these experiences, helping you develop greater emotional awareness, self-compassion and clarity about what matters to you.
 
-My approach combines person-centred counselling with practices from Nonviolent Communication and somatic practices like focusing, meditation, nervous system regulation.
+My approach combines person-centred counselling with practices from Nonviolent Communication and trauma-informed, somatic practices like focusing, meditation and nervous system regulation.
