@@ -9,6 +9,7 @@ header:
   image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
 sections:
 - markdown: vision.md
+- markdown: profile.md
 - widgets:
   - title: "Conflict Practice Group"
     url: '#practice-groups-and-workshops'
