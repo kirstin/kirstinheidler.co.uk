@@ -8,8 +8,8 @@ layout: frontpage
 header:
   image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
 sections:
-- markdown: vision.md
 - markdown: profile.md
+- markdown: vision.md
 - widgets:
   - title: "Conflict Practice Group"
     url: '#practice-groups-and-workshops'
