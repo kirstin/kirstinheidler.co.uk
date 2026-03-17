@@ -9,12 +9,13 @@ header:
   image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
 sections:
 - markdown: profile.md
+- work-with-me.md
 - markdown: vision.md
 - widgets:
   - title: "Conflict Practice Group"
     url: '#practice-groups-and-workshops'
     image: melissa-askew-tSlvoSZK77c-unsplash.jpg
-    text: 'Together with others we can face the things we find challenging and be held in presence and compassion.<br/>Every first Saturday of the month. More information and sign up <a href="https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/" target="_blank">here</a>.'
+    text: 'Together with others we can face the things we find challenging and be held in presence and compassion.<br/>Sign up to receive information about hated. More information and sign up <a href="https://nvc-uk.com/practice-group/conflict-facilitation-practice-group/" target="_blank">here</a>.'
   - title: "Upcoming Open Workshops"
     url: '#practice-groups-and-workshops'
     text: '<!-- CHECK --><a href="/contact">Collaborate with me!</a>'
@@ -23,15 +24,15 @@ sections:
   - title: "Sessions for Individuals"
     url: '/individuals/'
     image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
-    text: 'I am present with you, wherever you are. Find understanding and peace.'
+    text: 'Explore personal struggles such as shame, conflict patterns, self-worth and emotional overwhelm.'
   - title: "Sessions for People in Relationships"
     url: '#relationship'
     image: ian-schneider-TamMbr4okv4-unsplash.jpg
-    text: 'Relationships are at once complex and simple. Find peace and understanding.'
-  - title: "Sessions for Groups"
+    text: 'Support for couples (or partners in other ways) navigating recurring conflicts or communication difficulties.'
+  - title: "Conflict Facilitation"
     url: '/groups/'
     image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
-    text: 'Regardless of what kind of group you are, dynamics can be challenging. Clarity and discernment<br/> Learn to engage your own issues effectively '
+    text: 'Guided conversations for groups, communities or organisations. '
   - title: "Businesses"
     url: '/businesses/'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
@@ -52,10 +53,10 @@ sections:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-#callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Inform me about new updates and features ›
-#  style: alert
+callforaction:
+  url: https://cal.eu/kirstinheidler
+  text: Book a Free Discovery Call ›
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
