@@ -28,11 +28,11 @@ sections:
   - title: "Sessions for People in Relationships"
     url: '#relationship'
     image: ian-schneider-TamMbr4okv4-unsplash.jpg
-    text: ''
-  - title: "Sessions for Groups"
+    text: 'Support for couples (or partners in other ways) navigating recurring conflicts or communication difficulties.'
+  - title: "Conflict Facilitation"
     url: '/groups/'
     image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
-    text: 'Regardless of what kind of group you are, dynamics can be challenging. Clarity and discernment<br/> Learn to engage your own issues effectively '
+    text: 'Guided conversations for groups, communities or organisations. '
   - title: "Businesses"
     url: '/businesses/'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
@@ -53,10 +53,10 @@ sections:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-#callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Inform me about new updates and features ›
-#  style: alert
+callforaction:
+  url: https://cal.eu/kirstinheidler
+  text: Book a Free Discovery Call ›
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
