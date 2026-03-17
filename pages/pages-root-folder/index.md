@@ -24,11 +24,11 @@ sections:
   - title: "Sessions for Individuals"
     url: '/individuals/'
     image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
-    text: ''
+    text: 'Explore personal struggles such as shame, conflict patterns, self-worth and emotional overwhelm.'
   - title: "Sessions for People in Relationships"
     url: '#relationship'
     image: ian-schneider-TamMbr4okv4-unsplash.jpg
-    text: 'Relationships are at once complex and simple. Find peace and understanding.'
+    text: ''
   - title: "Sessions for Groups"
     url: '/groups/'
     image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
