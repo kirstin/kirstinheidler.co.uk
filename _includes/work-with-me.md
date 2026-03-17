@@ -10,3 +10,6 @@ Support for couples or partners in other contexts (friendship, living, business.
 
 **Conflict facilitation**  
 Guided conversations for groups, communities or organisations.
+
+[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler)
+{: .t30 .button .radius target="_blank" rel="noopener"}
