@@ -9,7 +9,7 @@ header:
   image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
 sections:
 - markdown: profile.md
-- work-with-me.md
+- markdown: work-with-me.md
 - markdown: vision.md
 - widgets:
   - title: "Conflict Practice Group"
