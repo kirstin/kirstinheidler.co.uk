@@ -15,4 +15,4 @@ In our sessions we explore what is happening beneath the surface of these experi
 My approach combines person-centred counselling with practices from Nonviolent Communication and trauma-informed, somatic practices like focusing, meditation and nervous system regulation.
 
 
-[_Schedule a free consultation_](/contact)  
+[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
