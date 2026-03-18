@@ -1,8 +1,8 @@
 ---
 layout              : page
-title               : "Nonviolent Communication for You"
-meta_title          : "Nonviolent Communication for individuals you NVC"
-teaser              : "NVC has transformative potential. Would you allow me to guide and support you?"
+title               : "Sessions for Individuals"
+meta_title          : "Counselling based on Nonviolent Communication, person-centered and somatic"
+teaser              : ""
 permalink           : "/individuals/"
 sections:
   - markdown: individuals-1.md
