@@ -55,3 +55,9 @@ upcoming dates and information will be shared here
 I also offer tailored workshops for teams, communities and organisations.
 
 [Find out more about group facilitation] (/organisations/)
+
+## Get involved
+
+If you’d like to join a workshop or hear about upcoming offerings:
+
+[Get in touch](/contact/)
