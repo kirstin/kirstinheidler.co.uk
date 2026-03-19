@@ -4,6 +4,6 @@ If you are struggling with difficult relationships or emotional patterns that ke
 
 Counselling and relationship support in Wales online (and in person by arrangement).
 
-_I help individuals, couples and groups navigate difficult relational dynamics._
+_I specialise in the patterns that make relationships difficult — whether within ourselves, between partners, or in groups._
 
 [Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
