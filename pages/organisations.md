@@ -3,7 +3,7 @@ layout              : page
 title               : "Nonviolent Communication for Businesses"
 meta_title          : "Nonviolent Communication for Businesses NVC"
 teaser              : "Find out what benefits NVC training will have for your organisation or business."
-permalink           : "/businesses/"
+permalink           : "/organisations/"
 breadcrumb: true
 image               : 
     title           : concentratedProfile.JPG
