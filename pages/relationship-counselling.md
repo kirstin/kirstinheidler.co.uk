@@ -15,6 +15,8 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
+> Relationships are both the biggest threat to safety at times and the greatest window for healing.
+
 Relationships matter deeply — and they can also be some of the most challenging places in our lives.
 
 You might find yourselves having the same arguments again and again, feeling misunderstood, or unsure how to talk about what really matters without things escalating. Sometimes there is distance, tension, or a sense of disconnection that is hard to name.
