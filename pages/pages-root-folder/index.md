@@ -26,7 +26,7 @@ sections:
     image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
     text: 'Explore personal struggles such as shame, conflict patterns, self-worth and emotional overwhelm.'
   - title: "Sessions for People in Relationships"
-    url: '#relationship'
+    url: '/relationship-counselling/'
     image: ian-schneider-TamMbr4okv4-unsplash.jpg
     text: 'Support for couples (or partners in other ways) navigating recurring conflicts or communication difficulties.'
   - title: "Conflict Facilitation"
@@ -39,7 +39,6 @@ sections:
     text: 'Benefit from finding peace in your organisation. I bring clarity and orientation, passing on skills and helping you navigate the most challenging situations.'
 - markdown: why-i-do-what-i-do.md
 - markdown: practice-groups-and-workshops.md
-- markdown: relationship.md
 - markdown: upcoming-events.md
 # - html: about-me.html
 - markdown: testimonials.md
