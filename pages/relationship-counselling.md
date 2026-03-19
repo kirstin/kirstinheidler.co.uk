@@ -74,6 +74,8 @@ Fee: £70 (sliding scale available — please ask)
 
 I offer a free 20-minute introductory call so we can see whether working together feels like a good fit.
 
+[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
+
 ## A slightly different approach
 
 My work is particularly suited to people who want to understand their relationship more deeply — not just fix surface-level problems.
