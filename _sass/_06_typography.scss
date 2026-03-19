@@ -241,10 +241,10 @@ blockquote {
     position: relative;
     border: none;
     margin: 0 30px 30px 30px;
-    color:  $warning-color;
+    color:  $alert-color;
 }
 
-    blockquote p {font-style: italic; color: $alert-color; }
+    blockquote p {font-style: italic; color: $warning-color; }
 
     blockquote:before {
         display:block;content:"\00BB";
@@ -253,7 +253,7 @@ blockquote {
         position:absolute;
         left:-25px;
         top: auto;
-        color: $warning-color;
+        color: $alert-color;
     }
     blockquote:after {
         display:block;
@@ -263,13 +263,13 @@ blockquote {
         position:absolute;
         right:-10px;
         bottom: 20px;
-        color: $warning-color;
+        color: $alert-color;
     }
     blockquote cite:before {
         content:"\2014 \0020"
     }
     blockquote cite a,blockquote cite a:visited {
-        color: $alert-color;
+        color: $warning-color;
     }
 cite {
     padding-top: 5px;
