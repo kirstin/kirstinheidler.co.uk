@@ -241,7 +241,7 @@ blockquote {
     position: relative;
     border: none;
     margin: 0 30px 30px 30px;
-    color:  $grey-11;
+    color:  $warning-color;
 }
 
     blockquote p {font-style: italic; color: $grey-10; }
@@ -253,7 +253,7 @@ blockquote {
         position:absolute;
         left:-25px;
         top: auto;
-        color: $grey-11;
+        color: $warning-color;
     }
     blockquote:after {
         display:block;
@@ -263,7 +263,7 @@ blockquote {
         position:absolute;
         right:-10px;
         bottom: 20px;
-        color: $grey-11;
+        color: $warning-color;
     }
     blockquote cite:before {
         content:"\2014 \0020"
