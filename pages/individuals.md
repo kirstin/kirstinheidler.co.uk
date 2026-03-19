@@ -4,9 +4,7 @@ title               : "Sessions for Individuals"
 meta_title          : "Counselling based on Nonviolent Communication, person-centered and somatic"
 teaser              : "I offer counselling for people who are struggling with difficult relationships or emotional patterns that keep repeating."
 permalink           : "/individuals/"
-sections:
-  - markdown: individuals-1.md
-  - markdown: individuals-2.md
+sidebar		          : right
 breadcrumb: true
 #image               : 
 #    title           : concentratedProfile.JPG
