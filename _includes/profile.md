@@ -1,6 +1,8 @@
-## Counselling and support for difficult relationships
+## Counselling and support for difficult relationships and emotional patterns
 
-If you are struggling with difficult relationships or emotional patterns that keep repeating, I offer a space to slow down and understand what's happening beneath the surface.
+You might be feeling stuck in repeating conflicts, struggling to express what matters to you, or feeling misunderstood in important relationships.
+
+I offer a space where we can slow things down, understand what is happening beneath the surface, and find new ways of relating — with yourself and with others.
 
 Counselling and relationship support in Wales online (and in person by arrangement).
 
