@@ -9,7 +9,7 @@ header:
   image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
 sections:
 - markdown: profile.md
-  markdown: vision.md
+- markdown: vision.md
 - markdown: work-with-me.md
 - widgets:
   - title: "Relationship Counselling"
