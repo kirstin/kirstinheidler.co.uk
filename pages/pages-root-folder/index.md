@@ -7,6 +7,10 @@
 layout: frontpage
 header:
   image_fullwidth: sunguk-kim-JhqBxsORuXA-unsplash.jpg
+callforaction:
+  url: https://cal.eu/kirstinheidler
+  text: Book a Free Discovery Call ›
+  style: alert
 sections:
 - markdown: profile.md
 - markdown: vision.md
@@ -53,10 +57,6 @@ sections:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://cal.eu/kirstinheidler
-  text: Book a Free Discovery Call ›
-  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
