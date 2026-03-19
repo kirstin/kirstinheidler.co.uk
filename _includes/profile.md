@@ -6,6 +6,8 @@ Experienced in supporting individuals and groups through complex interpersonal d
 
 Coming from a background in counselling training, mediation practices and large-group facilitation, combined with strong analytical and reflective skills from a previous career in software engineering.  
 
+Counselling and relationship support in Wales online (and in person by arrangement).
+
 _I help individuals and groups navigate difficult relational dynamics._
 
 [Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
