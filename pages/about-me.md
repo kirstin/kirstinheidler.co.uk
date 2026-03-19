@@ -1,9 +1,9 @@
 ---
 layout              : page
 sidebar		    : right
-title               : "About Me"
-meta_title          : "About Kirstin Heidler"
-teaser              : "What I say about myself, my education and my qualification to offer what I am offering."
+title               : "Kirstin Heidler - About Me"
+meta_title          : "Counselling for Relationships & Conflict | Kirstin Heidler"
+teaser              : "How we meet each other in difficult moments shapes our relationships — and often our lives. My work is rooted in a long personal and professional exploration of what becomes possible when we bring honesty, empathy and attention to those moments."
 permalink           : "/aboutme/"
 breadcrumb: true
 #image               : 
@@ -15,43 +15,32 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-I have been studying and teaching about NVC since 2014, just before my daughter was born. Now, I'm living in a yurt in rural Wales together with my partner Nicco and our two children. We moved here from Germany in 2020.
 
-I have a Master of Science in IT-Systems Engineering, which means I have learned how to develop software. As I was doing that, I discovered for myself the vanity of writing software, because software does not touch on the deep emotional and social problems we struggle with. At best it utilizes human psychology to capitalize on us, or streamlines buerocratic processes.
-And because I am a radical, I have turned my back on software development and have turned to NVC and understanding human beings in a holistic way.
+I care deeply about how we meet each other when things are difficult.  
 
-My eduction in software development has trained me for designing systems, clear communication as well as quick iterations and trying things out. 
+Much of what I know about relationships comes from lived experience. I have spent many years engaging with the challenges and possibilities of close relationships, and again and again I have found that the most difficult moments can also become places of profound learning and change.  
 
-In some ways I have been lucky, because I started my journey of integration and healing when I was about 15 years old. A man wiser than me, was able to meet me and hold up a mirror for me to see. He told me that if I would continue on the path I was on (stark rationality, shut-down of feelings and deemphasis of relationships) I would not be happy. At first I was angry at him, but the truth shone through for me and I conceded he was right. I set out on my journey to reclaim my emotions and rediscover myself. When I came in contact with NVC in 2014 it felt like coming home and finally finding oxygen.
+Through this, I have developed a deep understanding of patterns of relating and communication, and of what becomes possible when we are met with empathy and care. I know firsthand how powerful it can be to be truly listened to. In my work, I bring a combination of emotional attunement and clarity — supporting people not only to feel heard, but also to make sense of their experience in new ways.
 
-Since then I have learned a lot. Most notably about shame and vulnerability. I have been particularly interested in interpersonal neurobiology (attachment theory, polyvagal theory...) as a result I have reclaimed a portion of my authenticity.
-Social justice is a topic that has always been dear to me and equality of worth is one of my core values. My approach in meeting the deep need of justice - which everyone carries - has been my engagement with Restorative Circles, the work of Dominic Barter and my engagement with [Nonviolent Global Liberation](https://nglcommunity.org), the work of Miki Kashtan. I'm passionate about finding different ways of engaging which allow us to be together more and more of the time in a loving and collaborative way.
+My path into this work didn’t begin in therapy rooms. It began much earlier, in a growing awareness that something was missing in the way I was relating to myself and others. As a teenager, I was very focused on rational thinking and had learned to disconnect from my emotions - a necessity in an evironment in which I was emotionally alone. At some point, someone reflected this back to me in a way that I couldn’t ignore. It was uncomfortable and painful — and also the beginning of a different kind of honesty.  
 
-Since 2020 I'm living in rural Wales together with my family. I have two wonderful children who are 7 and 4 years old and I have my amazing partner Nicco, with whom I have been for over 10 years now.
-We live off-grid in a yurt and enjoy a very simple lifestyle, which has taught me a lot.
+Since then, I have been on a long journey of reconnecting with emotional experience, relationships, and what it means to be fully human.  
 
-# Education and important milestones
+When I came across Nonviolent Communication in 2014, something clicked. It gave me a language and a practice for what I had been searching for — a way of understanding ourselves and each other that goes beyond blame and into what really matters.  
 
-Start|End|What
------|----|----
-2010|2013|Bachelor of Science in IT-Systems Engineering at Hasso Plattner Institute. Potsdam, Germany
-2013|2017| Master of Science in IT-Systems Engineering at Hasso Plattner Institute. Potsdam, Germany
-2014|| Birth of my daughter.
-2016|2016| Open Knowledge Leaders Program led by Rufus Pollok
-2016| 2017| Practice groups with Astrid Schütte
-2017|2019| PhD Student at Lehrstuhl für Wirschaftsinformatik Prof. Dr. Ing. Norbert Gronau. Potsdam, Germany
-2017|2017| Year-long training in NVC with Christian Hinrichsen. 21 days of deep integration of NVC in a small group. Wartaweil, Germany
-2017|| Birth of my son.
-2018| | Introduction to Focussing after Eugene Gendlin with Astrid Schütte
-2018|2019| Leading a bi-weekly NVC practice group at Universität Potsdam.
-2018|| Nonviolent Global Liberation 6-day residential retreat with Miki Kashtan, Verene Nicholas, Sabine Geiger and others, Poland.
-2018| today| Member of the online learning community "Nonviolent Global Liberation" founded by Miki Kashtan (CNVC certified trainer and international speaker)
-2018| |Workshop about Shame with Liv Larsson for 4 days. Berlin, Germany.
-2018|| Nonviolent Communication IIT in Birmingham with Robert Gonzales, Gina Lawrie, Shona Cameron, Roxy Manning, Carl Plesner and others. Brimingham, UK.
-2019|2020|Apllication for an Erasmus+ Grant for the project "Seeds of Nonviolence" to take people to Denmark to receive training in Nonviolence, NVC and village mindedness. Funding of 49023€ was awarded and the project happend led by me under the umbrella of [frekonale e.V.](https://greennetproject.org/en/verein/), partly hindered through COVID in 2020.
-2019|2020| Monthly Practice Group for Restorative Circles with Annett Zupke. Berlin, Germany
-2019|2020| Activism with Extinction Rebellion Berlin/Germany in the Regenerative Culture Working Group. I founded the de-escalation team, co-founded the conflict engagement team and co-founded the emotional first aid team. I also ran an online Restorative Cicles Practice group and was part of the central police contact group for the rebellion wave in Berlin in October 2019.
-2019| | Nonviolent Global Liberation 6-day residential retreat with Miki Kashtan, Verene Nicholas, Uma Lo and others, Poland.
-2019|2020| Member of the Awareness Team for the Chaos Communication Camp and Congress.
-2021|today|Volunteering for NVC Matters UK CIC, who are operating using Holacracy. Roles currently filled: Fundraising Co-ordinator, Fundraiser, Secretary in 3 circles, Vision Co-ordinator, Fight Club Supremo
+Over the years, this has developed into a deep interest in how we navigate shame, vulnerability, conflict and intimacy — both within ourselves and in our relationships.  
 
+Alongside my counselling training, I have worked with individuals, couples, groups and communities in conflict, supporting people to stay in dialogue even when things are tense or painful. This has shaped my trust that even very difficult situations can shift when there is enough care, honesty and support.  
+
+My approach is grounded in person-centred counselling, and is influenced by Nonviolent Communication, somatic awareness and restorative practices. I aim to offer a space where you can explore what is happening for you at your own pace, without pressure or judgement. 
+
+Outside of my work, I live in rural Wales with my two children. For several years I lived off-grid in a community setting, which has been an important part of my learning about simplicity, interdependence and the realities of living closely with others.
+
+## Background and Experience
+
+- Foundation Degree in Counselling (Coleg Sir Gâr, completion 2026)
+- MSc in IT Systems Engineering (Universität Potsdam, completion 2017)
+- Over 12 years of experience with Nonviolent Communication and facilitation
+- Training in Restorative Circles, Focusing and relational practices
+- Facilitation of conflict processes in communities and groups
+- Ongoing involvement in international NVC learning communities
