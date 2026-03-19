@@ -1,13 +1,9 @@
-## I am ...
+## Counselling and support for difficult relationships
 
-A counsellor and facilitator specialising in relational conflict, emotional awareness and Nonviolent Communication.  
-
-Experienced in supporting individuals and groups through complex interpersonal dynamics, including intentional communities, activist groups and collaborative organisations.  
-
-Coming from a background in counselling training, mediation practices and large-group facilitation, combined with strong analytical and reflective skills from a previous career in software engineering.  
+If you are struggling with difficult relationships or emotional patterns that keep repeating, I offer a space to slow down and understand what's happening beneath the surface.
 
 Counselling and relationship support in Wales online (and in person by arrangement).
 
-_I help individuals and groups navigate difficult relational dynamics._
+_I help individuals, couples and groups navigate difficult relational dynamics._
 
 [Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
