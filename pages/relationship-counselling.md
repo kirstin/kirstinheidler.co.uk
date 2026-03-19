@@ -34,6 +34,8 @@ You might be experiencing
 
 You don’t need to be in crisis to seek support. Often it is enough to notice that something isn’t working in the way you would like.
 
+[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
+
 ## How I work
 
 In our sessions, we create a space where both people can be heard. I usually begin by meeting each of you individually, followed by joint sessions where I support a structured and facilitated conversation between you.
