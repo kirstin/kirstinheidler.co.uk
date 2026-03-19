@@ -30,5 +30,22 @@ In our sessions we explore what is happening beneath the surface of these experi
 
 My approach combines person-centred counselling with practices from Nonviolent Communication and trauma-informed, somatic practices like focusing, meditation and nervous system regulation.
 
+## My approach
+
+My work integrates:
+
+- person-centred counselling
+- Nonviolent Communication
+- Focusing and somatic awareness
+- trauma-informed grounding 
+
+## Practical details
+
+Sessions: 60 minutes
+Location: online or in person (if applicable)
+Fee: £50 -  sliding scale available (please ask)
+
+**Free** 20-minute introductory call available.
+
 
 [Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
