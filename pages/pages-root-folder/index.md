@@ -25,7 +25,7 @@ sections:
     image: melissa-askew-tSlvoSZK77c-unsplash.jpg
     text: 'Support with difficult conversations'
   - title: "Shame & self-worth"
-    url: '/individuals'
+    url: '/individuals/'
     text: 'Understanding inner patterns'
     image: jason-goodman-6awfTPLGaCE-unsplash.jpg
   #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
@@ -35,7 +35,7 @@ sections:
     image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
     text: 'Learning and practising together '
   - title: "For communities & organisations"
-    url: '/businesses/'
+    url: '/organisations/'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
     text: 'Facilitation and conflict support'
 - markdown: why-i-do-what-i-do.md
