@@ -9,6 +9,13 @@
 - struggling to express what you really feel or need
 - wanting to communicate more honestly without damaging relationships
 
+Counselling and relationship support in Wales online (and in person by arrangement).
+
+[Registered Member](https://www.bacp.co.uk/therapists/418636/kirstin-heidler/llandovery-sa20) of the BACP.
+
+_I specialise in the patterns that make relationships difficult — whether within ourselves, between partners, or in groups._
+
+
 > Our world is rapidly changing and we need to find ways of engaging uncertainty and fear.   
 > As we face finitude and crisis, I want us to be able to retain our ability to cooperate.  
 > I want us to be able to hold love for one another, not succumbing to fear, othering, hatred and violence.
