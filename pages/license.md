@@ -50,5 +50,5 @@ If you print it and cannot have the links working:
 You can copy this into Markdown documents:
 
 ```
-This work © 2022 by [Kirstin Heidler](https://kirstinheidler.co.uk) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+This work © 2026 by [Kirstin Heidler](https://kirstinheidler.co.uk) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 ```
