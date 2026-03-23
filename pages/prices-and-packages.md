@@ -15,7 +15,7 @@ breadcrumb: true
 
 I offer individual counselling, relationship counselling and conflict support. Sessions are a space to slow down, understand what is happening, and find new ways of relating — with yourself and with others.  
 
-**I offer a 30 minute free consultation to figure out how I can support you best.** [_Get in touch_](/contact/)
+[Book a Free 20 min Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
 
 
 ## Individual Counselling
@@ -45,5 +45,4 @@ Please feel free to ask if cost is a barrier.
 
 I offer a free 20-minute introductory call so we can see whether working together feels like a good fit.
 
-[Book a call]
-[_Schedule a free consultation_](/contact/)
+[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
