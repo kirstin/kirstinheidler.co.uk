@@ -31,12 +31,12 @@ sections:
   - title: "Shame & self-worth"
     url: '/individuals/'
     text: 'Understanding inner patterns'
-    image: jason-goodman-6awfTPLGaCE-unsplash.jpg
+    image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
   #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   
   - title: "Workshops & groups"
     url: '/groups/'
-    image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
+    image: jason-goodman-6awfTPLGaCE-unsplash.jpg
     text: 'Learning and practising together '
   - title: "For communities & organisations"
     url: '/organisations/'
