@@ -1,9 +1,9 @@
 ---
 layout              : page
 sidebar             : right
-title               : "Services and Prices"
-meta_title          : "Services and Prices"
-teaser              : "Get an overview about how much money I am asking for."
+title               : "Services & Fees"
+meta_title          : "Services and Fees"
+teaser              : ""
 permalink           : "/services/"
 breadcrumb: true
 #image:
@@ -13,24 +13,37 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-I offer my services so that everyone may find more peace and alignment. Please support me and my family to live a comfortable life, so I can continue to do what I love doing.
+I offer individual counselling, relationship counselling and conflict support. Sessions are a space to slow down, understand what is happening, and find new ways of relating — with yourself and with others.  
 
-**I offer a 30 minute free consultation to figure out how I can support you best.** [_Get in touch_](/contact/)
+[Book a Free 20 min Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
 
+<br>
 
-# Packages and Prices
+## Individual Counselling
 
-What  | Description   | Price scale
------------|-----------------------|----------
-One-to-one session | 60 minutes. Coaching and empathic listening.  |  £70 - £45
-Two-to-one session | 90 minutes. Facilitated conversation for intimate, friendship, neighbor or family relationships |  £100 - £70
-NVC Foundation Training | 12h total duration | £300 - £120 per person
+60 minutes — £50  
 
+A space to explore your thoughts, feelings and patterns at your own pace. This can include work around relationships, self-worth, anxiety, or recurring emotional difficulties.
 
-### A Tailored Workshop
-Do you have something specific in mind that you'd like to work on with a group of people?  
-And do you think my skillset with NVC, Interpersonal Neurobiology, Restorative Circles and Systems Building would be a good match to work on the topic(s)?  
-I am happy and able to accommodate you.  
-**Guide price: £300-600 per workshop day of 7 hours.**
+## Relationship Counselling
 
-[_Schedule a free consultation_](/contact/)
+90 minutes — £70–£100 (you choose where to land)  
+
+For couples or pairs who want support navigating communication, conflict or disconnection. Sessions focus on helping both people feel heard and understand what is happening beneath the surface.
+
+## Conflict Facilitation (Groups & Communities)
+
+Fees vary depending on the situation.
+
+I offer tailored support for groups, teams or communities experiencing tension or conflict. Please get in touch to discuss your needs.
+
+## Concessions
+
+I offer a limited number of reduced-fee spaces.
+Please feel free to ask if cost is a barrier.
+
+## First step
+
+I offer a free 20-minute introductory call so we can see whether working together feels like a good fit.
+
+[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
