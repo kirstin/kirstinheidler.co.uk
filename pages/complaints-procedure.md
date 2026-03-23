@@ -13,24 +13,14 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-While it is never my intention to harm, I know that sometimes inadvertently something I do or say may be painful or dissatisfying.  
-If you are dissatisfied in any way with any service you receive from me, including workshops, events and one to one sessions, I'm interested in hearing your feedback. I want to learn and also honour your experience.
+I aim to offer a safe, respectful and professional service. If you have any concerns about our work together, I encourage you to raise them with me directly in the first instance, so that we can try to address them openly.
 
-If you want to share your complaint with me, I invite you to consider the following steps as guidance for how to proceed:  
+If you feel unable to do this, or if your concern is not resolved, you have the right to make a complaint to the [British Association for Counselling and Psychotherapy (BACP)](https://www.bacp.co.uk/), of which I am a registered member.
 
-**1.   Get some support**  
-If you are feeling very charged, please consider getting support. If we are very upset or angry we sometimes end up doing or saying things we regret later. Also, my "neural-wifi" is always on, meaning that I will probably pick up on how you are. That might send me into stress and make it more difficult for us to understand each other. Receiving empathy and support first can help you be grounded and firm in what's important to you, without feeling like it's an emergency.
+The BACP has a formal complaints process for concerns about professional conduct.
 
-**2.   Contact me**  
-Contact me with your complaint. (Or ask a friend or support person to contact me.)  If it's fitting, let me know your complaint by email (<a id="mailLink">hello[ät]kirstinheidler.co.uk</a>). Please put the word ‘Complaint’ in the subject header. 
-
-​If one of us senses it's needed, we will have a conversation for me to hear your complaints and for you to be heard with what's on your heart. Ideally we find a mutually satisfying resolution of the issue. If you are satisfied, this is the end of the process.  
-​
-_If at the end of this process, you are not satisfied with the outcome:_
-
-**3.   Contact CTW**  
-If the steps before didn't work out for you or you don't feel comfortable with contacting me directly, you can contact  the Conflict Transformation Weave. They will follow this procedure. You can find information about and ways of contacting the CTW at: [https://ctw-uk.com](https://ctw-uk.com)
-
+You can find more information here:
+[https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/how-to-complain-about-a-bacp-member/](https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/how-to-complain-about-a-bacp-member/)
 
 <!-- obfuscated email -->
 <script type="text/javascript">
