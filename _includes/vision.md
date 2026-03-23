@@ -1,5 +1,6 @@
 ## I work with people who experience...
 
+<br>
 - having the same difficult conversations again and again
 - feeling misunderstood or not heard
 - dynamics escalating quickly, leaving you exhausted or helpless
