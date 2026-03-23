@@ -13,4 +13,4 @@ I offer regular open practice groups:
 Upcoming open workshops:
 - TBC
 
-[_Collaborate with me_](/groups)  
+[_Find out more about groups and workshops_](/groups)  
