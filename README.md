@@ -15,7 +15,7 @@ Others also contain:
 
 - [_sidebar.html](_data/_sitebar.html)
   for the image of Kirstin on the side
-- [_navigation.yml](_data/_navigation.yml)
+- [navigation.yml](_data/navigation.yml) 
 - [search.md](pages/search.yml)
 - [socialmedia.yml](_data/socialmedia.yml)
 - [language.yml](_data/language.yml)
