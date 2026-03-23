@@ -15,6 +15,7 @@ Counselling and relationship support in Wales online (and in person by arrangeme
 
 _I specialise in the patterns that make relationships difficult — whether within ourselves, between partners, or in groups._
 
+<br>
 
 > Our world is rapidly changing and we need to find ways of engaging uncertainty and fear.   
 > As we face finitude and crisis, I want us to be able to retain our ability to cooperate.  
