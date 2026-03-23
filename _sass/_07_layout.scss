@@ -348,6 +348,12 @@ body.video cite { color: #fff; }
 #subfooter-right {
   height: 5em;
   margin-bottom: 1em;
+  li {
+    padding: 0 0 5px 0;
+  }
+  img {
+    display: block;
+  }
 }
 
 #subfooter-right, #subfooter-middle {
