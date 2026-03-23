@@ -17,6 +17,7 @@ I offer individual counselling, relationship counselling and conflict support. S
 
 [Book a Free 20 min Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
 
+<br>
 
 ## Individual Counselling
 
