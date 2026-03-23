@@ -21,13 +21,13 @@ I offer individual counselling, relationship counselling and conflict support. S
 
 ## Individual Counselling
 
-60 minutes — £70  
+60 minutes — £50  
 
 A space to explore your thoughts, feelings and patterns at your own pace. This can include work around relationships, self-worth, anxiety, or recurring emotional difficulties.
 
 ## Relationship Counselling
 
-90 minutes — £90–£100 (you choose where to land)  
+90 minutes — £70–£100 (you choose where to land)  
 
 For couples or pairs who want support navigating communication, conflict or disconnection. Sessions focus on helping both people feel heard and understand what is happening beneath the surface.
 
