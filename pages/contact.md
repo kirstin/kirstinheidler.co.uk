@@ -30,7 +30,7 @@ SA20 0DL
 Phone and WhatsApp: [+44-778-281-0507](tel:+447782810507)  
 Telegram and Signal (and phone from Germany): [+49&nbsp;163&nbsp;683&nbsp;4491](tel:+491636834491)
 
-Email: <a id="mailLink">hello[ät]kirstinheidler.co.uk</a>
+Email: <a id="mailLink">hello[at]kirstinheidler.co.uk</a>
 
 [Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
 
