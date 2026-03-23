@@ -4,7 +4,7 @@ title               : "Relationship Counselling"
 meta_title          : "Relationship Counselling in Wales | Kirstin Heidler"
 teaser              : "Relationships can be a source of fulfillment and deep connection — and also of confusion, hurt and recurring conflict. I offer a space where we can slow things down and begin to understand what is happening beneath the surface."
 permalink           : "/relationship-counselling/"
-sidebar		          : right
+# sidebar		          : right
 breadcrumb: true
 #image               : 
 #    title           : concentratedProfile.JPG

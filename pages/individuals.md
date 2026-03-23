@@ -4,7 +4,7 @@ title               : "Counselling for Individuals"
 meta_title          : "Counselling in Wales based on Nonviolent Communication, person-centered and somatic"
 teaser              : "I offer counselling for people who are struggling with difficult relationships or emotional patterns that keep repeating."
 permalink           : "/individuals/"
-sidebar		          : right
+# sidebar		          : right
 breadcrumb: true
 #image               : 
 #    title           : concentratedProfile.JPG
