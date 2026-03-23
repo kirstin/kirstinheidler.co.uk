@@ -1,9 +1,9 @@
 
-- name: CTW
-  url: https://ctw-uk.com
+- name: BACP
+  url: https://bacp.co.uk
   class: ""
-  img: CTWLOGO-icon.png
-  title: Conflict Transformation Weave
+  img: BACP-Logo.png
+  title: British Association for Counselling and Psychotherapy
 
 - name: NVC UK
   url: https://nvc-uk.com
