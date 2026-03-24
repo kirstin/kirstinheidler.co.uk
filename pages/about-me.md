@@ -39,8 +39,20 @@ Outside of my work, I live in rural Wales with my two children. For several year
 ## Background and Experience
 
 - Foundation Degree in Counselling (Coleg Sir Gâr, completion 2026)
+- Registered Member of the BACP
 - MSc in IT Systems Engineering (Universität Potsdam, completion 2017)
 - Over 12 years of experience with Nonviolent Communication and facilitation
 - Training in Restorative Circles, Focusing and relational practices
 - Facilitation of conflict processes in communities and groups
 - Ongoing involvement in international NVC learning communities
+
+
+**I have completed counselling placements with**:
+
+- NewPathways, supporting survivors of sexual violence
+- The Bereavement Service at Glangwili Hospital
+
+Through this work, I have supported clients with experiences of trauma, loss, shame and complex emotional challenges. Where helpful I draw on body awareness and grounding practices to support emotional regulation.
+
+I engage in ongoing professional development and reflective practice, and work under regular supervision in line with ethical guidelines.
+
