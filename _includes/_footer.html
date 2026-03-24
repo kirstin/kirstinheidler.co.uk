@@ -59,12 +59,12 @@
 
       <div id="subfooter">
         <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+          <section id="subfooter-left" class="small-17 medium-6 columns credits">
             {{ site.credits }}
             {% include cc-by-sa.html %}
           </section>
 
-          <section id="subfooter-middle" class="small-12 medium-3 columns">
+          <section id="subfooter-middle" class="small-17 medium-3 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}" {% if social_item.img %} style='background-image: url("{{site.urlimg}}{{ social_item.img }}");'{% endif %}></a></li>
@@ -72,7 +72,7 @@
             </ul>
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-8 columns">
+          <section id="subfooter-right" class="small-17 medium-8 columns">
             <ul class="inline-list official-logos">
                 <li><img class="subfooter-logo" src="{{site.urlimg}}Logo/4210_Kirstin_Heidler_NVC_MASTER_Logo_May22.svg"></li>
                 <li><img class="subfooter-logo" src="{{site.urlimg}}BACP-Logo.png"></li>
