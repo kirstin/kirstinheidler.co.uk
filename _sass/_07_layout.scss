@@ -348,21 +348,29 @@ body.video cite { color: #fff; }
 #subfooter-right {
   height: 5em;
   margin-bottom: 1em;
-  li {
-    padding: 0 0 5px 0;
-  }
-  img {
-    display: block;
-    
-  }
 }
 
 #subfooter-right, #subfooter-middle {
   text-align: center;
 }
 
+.official-logos {
+    margin-bottom: 10px !important;
+    display: inline-block;
+
+    li {
+      padding: 0 0 5px 0;
+    }
+    img {
+      display: block;
+      width: 4em;
+      height: auto;
+    }
+}
+
+
 .subfooter-logo {
-  width: 50%;
+  height: 100%;
 }
 
 /* CSS-Classes to add margin at top or bottom
