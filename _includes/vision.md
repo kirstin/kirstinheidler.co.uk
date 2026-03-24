@@ -11,7 +11,7 @@
 
 Counselling and relationship support in Wales online (and in person by arrangement).
 
-![BACP Registered Member]({{ site.urlimg }}BACP-Logo.png){height="6em" width+"auto"}
+![BACP Registered Member]({{ site.urlimg }}BACP-Logo.png){: height="6em" width+"auto"}
 [Registered Member](https://www.bacp.co.uk/therapists/418636/kirstin-heidler/llandovery-sa20) of the BACP.
 
 _I specialise in the patterns that make relationships difficult — whether within ourselves, between partners, or in groups._
