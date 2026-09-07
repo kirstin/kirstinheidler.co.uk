@@ -1,3 +1,23 @@
+---
+layout: page-fullwidth
+title: "What we do not Mourn, We try to Fix "
+subheadline: "An Essay of the need for Grief and Mourning"
+meta_teaser: ""
+teaser: ""
+header:
+    image: HeaderRootsAndPath.jpg
+    background-color: "#262930"
+    caption: Rugged stone path through trees and their tangled roots. Image by Daria Lyalyulina
+    caption_url: https://unsplash.com/
+image: 
+    thumb:  RootsAndPath.jpg
+    homepage: RootsAndPath.jpg
+    caption: "Image by Daria Lyalyulina"
+    caption_url: "https://unsplash.com/"
+#categories:
+#    - "courses"
+---
+
 # What we do not Mourn, We try to Fix 
 
 There is something very human about wanting to make things better.  
