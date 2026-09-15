@@ -25,4 +25,4 @@ I offer a space where we can slow things down, understand what is happening bene
 
 [Arrange a free initial conversation ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
 
-![Kirstin holding a mug and smiling while sitting in front of a laptop]({{ site.urlimg }}Kirstin/CupSmilingWide.jpg){: width="100%"} | **Online counselling across Wales and the UK** ~ I work online with people across Wales and the UK, with in-person sessions available by arrangement.
+![Kirstin holding a mug and smiling while sitting in front of a laptop]({{ site.urlimg }}Kirstin/CupSmilingWide.jpg){: width="100%"} | **Online counselling across Wales and the UK** ~ Most of my counselling takes place online. I also offer in-person sessions by arrangement.
