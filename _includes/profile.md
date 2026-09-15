@@ -25,4 +25,4 @@ I offer a space where we can slow things down, understand what is happening bene
 
 _Online counselling across Wales · In-person by arrangement_
 
-![Kirstin holding a mug and smiling while sitting in front of a laptop]({{ site.urlimg }}Kirstin/CupSmilingWide.jpg){: width="50%"} Online counselling across Wales and the UK | I work online with people across Wales and the UK, with in-person sessions available by arrangement.
+![Kirstin holding a mug and smiling while sitting in front of a laptop]({{ site.urlimg }}Kirstin/CupSmilingWide.jpg){: width="50%"} **Online counselling across Wales and the UK** ~ I work online with people across Wales and the UK, with in-person sessions available by arrangement.
