@@ -23,16 +23,16 @@
   url: "/search/"
   side: right
 
-- title: Services & Fees
+- title: Fees
   url: "/services"
   side: left
 
-- title: Upcoming Events
-  url: "/#upcoming-events"
-  side: left
-  class: toggle-topbar-click
+#- title: Upcoming Events
+#  url: "/#upcoming-events"
+#  side: left
+#  class: toggle-topbar-click
 
-- title: Testimonials
-  url: "/#testimonials"
-  side: left
-  class: toggle-topbar-click
+#- title: Testimonials
+#  url: "/#testimonials"
+#  side: left
+#  class: toggle-topbar-click
