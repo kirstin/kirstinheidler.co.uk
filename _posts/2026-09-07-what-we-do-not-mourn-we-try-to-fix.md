@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 title: "What we do not Mourn, We try to Fix "
-subheadline: "An Essay of the need for Grief and Mourning"
-meta_teaser: ""
-teaser: ""
+subheadline: "An Essay on the need for grief and mourning"
+meta_teaser: "What if our impulse to fix what hurts is sometimes an attempt to escape our own pain? An essay on grief, mourning, powerlessness, and finding freedom to act from wisdom and love."
+teaser: "When something hurts, we often want to make something different. We want the other person to understand, the relationship to change, the injustice to end. But sometimes our attempts to fix what is outside of us are also attempts to escape what is happening inside us. What might become possible if, instead, we allowed ourselves to mourn what is?"
 header:
     image: HeaderRootsAndPath.jpg
     background-color: "#262930"
