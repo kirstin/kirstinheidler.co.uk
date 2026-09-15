@@ -25,4 +25,4 @@ I offer a space where we can slow things down, understand what is happening bene
 
 _Online counselling across Wales · In-person by arrangement_
 
-![Image of Kirstin]({{ site.urlimg }}Kirstin/Image2_2.JPG){: width="50%"} 
+![Image of Kirstin]({{ site.urlimg }}Kirstin/CupSmilingWide.jpg){: width="50%"} 
