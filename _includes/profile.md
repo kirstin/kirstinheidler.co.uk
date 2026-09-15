@@ -5,6 +5,8 @@
 
 You might be finding yourself stuck in the same conflicts again and again, struggling to say what you really mean, or feeling misunderstood in relationships that matter to you.
 
+![Kirstin holding a mug and smiling while sitting in front of a laptop]({{ site.urlimg }}Kirstin/24.jpg){: width="70%"}
+
 ### I work with people who...
 - feel ashamed, "too much", or not good enough
 - find themselves reacting more strongly than they want to
