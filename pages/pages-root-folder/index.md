@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Kirstin/OnHill.jpg
+  image_fullwidth: Kirstin/OnHillCropped.jpg
 callforaction:
   url: https://cal.eu/kirstinheidler
   text: Book a Free Discovery Call ›
