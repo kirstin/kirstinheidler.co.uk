@@ -13,4 +13,4 @@ I’m interested in what happens underneath the surface — the feelings, needs 
 
 My work is influenced by Nonviolent Communication, which places connection and understanding at the centre. Not as an ideal to strive for, but as something that can be experienced, even in difficult situations, when there is enough support and attention.  
 
-I don't expect relationships to be easy or conflict-free. But I do believe that with the right space, we can move through difficulty in ways that bring greater clarity, honesty and choice — and sometimes, greater connection too.
+I don’t expect life or relationships to be easy or conflict-free. But I do believe that with the right space, we can move through difficulty in ways that bring greater clarity, honesty and choice — and sometimes, greater connection too.
