@@ -15,8 +15,8 @@ sections:
 - markdown: profile.md
 - markdown: why-i-do-what-i-do.md
 - markdown: work-with-me.md
-#- markdown: vision.md
-#- widgets:
+# - markdown: vision.md
+# - widgets:
 #  - title: "Relationship Counselling"
 #    url: '/relationship-counselling/'
 #    image: ian-schneider-TamMbr4okv4-unsplash.jpg
