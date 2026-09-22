@@ -14,8 +14,8 @@ callforaction:
 sections:
 - markdown: profile.md
 - markdown: why-i-do-what-i-do.md
-- markdown: vision.md
 - markdown: work-with-me.md
+- markdown: vision.md
 - widgets:
   - title: "Relationship Counselling"
     url: '/relationship-counselling/'
