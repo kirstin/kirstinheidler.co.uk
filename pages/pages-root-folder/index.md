@@ -13,6 +13,7 @@ callforaction:
   style: alert
 sections:
 - markdown: profile.md
+  markdown: why-i-do-what-i-do.md
 - markdown: vision.md
 - markdown: work-with-me.md
 - widgets:
@@ -42,7 +43,6 @@ sections:
     url: '/organisations/'
     image: jason-goodman-Oalh2MojUuk-unsplash.jpg
     text: 'Facilitation and conflict support'
-- markdown: why-i-do-what-i-do.md
 - markdown: practice-groups-and-workshops.md
 - markdown: upcoming-events.md
 # - html: about-me.html
