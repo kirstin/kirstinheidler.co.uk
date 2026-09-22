@@ -9,7 +9,7 @@ Again and again, I’ve seen how quickly connection can break down — how easil
 
 This is what draws me to this work.  
 
-I’m interested in what happens underneath the surface — the feelings, needs and patterns that shape how we relate to ourselves and each other. Especially in moments of conflict, vulnerability or disconnection.  
+I’m interested in what happens underneath the surface — the feelings, needs and patterns that shape how we relate to ourselves, to each other, and in groups. Especially in moments of conflict, vulnerability or disconnection.  
 
 My work is influenced by Nonviolent Communication, which places connection and understanding at the centre. Not as an ideal to strive for, but as something that can be experienced, even in difficult situations, when there is enough support and attention.  
 
