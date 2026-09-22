@@ -8,13 +8,12 @@ You might be finding yourself caught in patterns that are difficult to understan
 ![Kirstin sitting in front of a laptop and smiling at the camera]({{ site.urlimg }}Kirstin/24.jpeg){: .who-i-work-with-image}
 
 ### I work with people who...
-- feel ashamed, "too much", or not good enough
-- find themselves reacting more strongly than they want to
-- know intellectually what they "should" do but find it almost impossible to do in the moment
+- want to feel more at ease with themselves
+- want to understand why they keep reacting in ways they don't choose
 - struggle to know what they actually want or need
 - feel responsible for other people's feelings
 - find themselves caught in patterns they don't understand or know how to change
-- struggle to express what they need or say what they really mean
+- want to be able to express themselves more honestly
 - find themselves overwhelmed by conflict or strong emotions
 - long for greater closeness but don't know how to get there
 - find themselves withdrawing, attacking, shutting down, or otherwise losing contact when things become difficult
