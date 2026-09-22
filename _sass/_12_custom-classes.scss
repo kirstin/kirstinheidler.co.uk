@@ -33,10 +33,3 @@
     }
 }
 
-/* override frontpage width
----------------------------------------------------------------------*/
-@media #{$large-only} {
-    body.frontpage .row {
-        max-width: 1200px;
-    }
-}
