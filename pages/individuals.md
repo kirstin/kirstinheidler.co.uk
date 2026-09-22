@@ -46,4 +46,4 @@ Fee: £50 -  sliding scale available (please ask)
 **Free** 20-minute introductory call available.
 
 
-[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
+[Book a Free 20-minute initial conversation ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
