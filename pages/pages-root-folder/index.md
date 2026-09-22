@@ -35,14 +35,14 @@ sections:
 #    image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
   #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   
-  - title: "Workshops & groups"
-    url: '/groups/'
-    image: jason-goodman-6awfTPLGaCE-unsplash.jpg
-    text: 'Learning and practising together '
-  - title: "For communities & organisations"
-    url: '/organisations/'
-    image: jason-goodman-Oalh2MojUuk-unsplash.jpg
-    text: 'Facilitation and conflict support'
+#  - title: "Workshops & groups"
+#    url: '/groups/'
+#    image: jason-goodman-6awfTPLGaCE-unsplash.jpg
+#    text: 'Learning and practising together '
+#  - title: "For communities & organisations"
+#    url: '/organisations/'
+#    image: jason-goodman-Oalh2MojUuk-unsplash.jpg
+#    text: 'Facilitation and conflict support'
 - markdown: practice-groups-and-workshops.md
 - markdown: upcoming-events.md
 # - html: about-me.html
