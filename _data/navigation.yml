@@ -11,6 +11,10 @@
   url: "/blog/"
   side: right
 
+- title: "Counselling"
+  url: "/counselling/"
+  side: left
+
 - title: "Contact"
   url: "/contact/"
   side: right
