@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* Custom classes
+------------------------------------------------------------------- */
+
+/* relating to _includes/profile.md
+--------------------------------------------------------------------*/
+.who-i-work-with-image {
+    float: right;
+    width: 42%;
+    max-width: 500px;
+    margin: 0 0 1.5em 2em;
+}
+
+.who-i-work-with-image-2 {
+    float: left;
+    width: 42%;
+    max-width: 500px;
+    margin: 0 0 1.5em 2em;
+}
+
+@media #{$small-only} {
+    .who-i-work-with-image {
+        float: none;
+        width: 100%;
+        max-width: none;
+        margin: 0 0 1.5em 0;
+    }
+  .who-i-work-with-image-2 {
+        float: none;
+        width: 100%;
+        max-width: none;
+        margin: 0 0 1.5em 0;
+    }
+}
