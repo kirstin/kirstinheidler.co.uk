@@ -15,24 +15,24 @@ sections:
 - markdown: profile.md
 - markdown: why-i-do-what-i-do.md
 - markdown: work-with-me.md
-- markdown: vision.md
-- widgets:
-  - title: "Relationship Counselling"
-    url: '/relationship-counselling/'
-    image: ian-schneider-TamMbr4okv4-unsplash.jpg
-    text: 'For couples and pairs navigating tensions'
-  - title: "Individual Counselling"
-    url: '/individuals/'
-    image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
-    text: 'For emotional patterns, shame, self-worth, and relationships'
-  - title: "Communication & conflict"
-    url: '/individuals/'
-    image: melissa-askew-tSlvoSZK77c-unsplash.jpg
-    text: 'Support with difficult conversations'
-  - title: "Shame & self-worth"
-    url: '/individuals/'
-    text: 'Understanding inner patterns'
-    image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
+#- markdown: vision.md
+#- widgets:
+#  - title: "Relationship Counselling"
+#    url: '/relationship-counselling/'
+#    image: ian-schneider-TamMbr4okv4-unsplash.jpg
+#    text: 'For couples and pairs navigating tensions'
+#  - title: "Individual Counselling"
+#    url: '/individuals/'
+#    image: aaron-blanco-tejedor-aocUkMcxeqI-unsplash.jpg
+#    text: 'For emotional patterns, shame, self-worth, and relationships'
+#  - title: "Communication & conflict"
+#    url: '/individuals/'
+#    image: melissa-askew-tSlvoSZK77c-unsplash.jpg
+#    text: 'Support with difficult conversations'
+#  - title: "Shame & self-worth"
+#    url: '/individuals/'
+#    text: 'Understanding inner patterns'
+#    image: randy-tarampi-U2eUlPEKIgU-unsplash.jpg
   #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   
   - title: "Workshops & groups"
