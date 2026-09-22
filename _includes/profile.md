@@ -1,7 +1,7 @@
 ## Counselling and support for difficult relationships and emotional patterns
 
 <br>
-
+I help people become more able to stay in contact with themselves and others when something difficult is happening.
 
 You might be finding yourself caught in patterns that are difficult to understand or change — in yourself, in your relationships, or both.
 
