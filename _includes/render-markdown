@@ -3,7 +3,7 @@ see https://github.com/jekyll/jekyll-archives/issues/28#issuecomment-101282909
 see https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548
 {% endcomment %}
 <div class="row">
-  <div class="medium-8 large-offest-1 large-10 columns">
+  <div class="medium-8 large-12 columns">
     {{ include.content | markdownify }}
-  </div><!-- /.medium-8.large-10.columns -->
+  </div><!-- /.medium-8.large-12.columns -->
 </div><!-- /.row -->
