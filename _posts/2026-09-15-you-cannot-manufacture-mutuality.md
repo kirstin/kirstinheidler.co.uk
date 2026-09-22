@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: post
 title: "We Cannot Manufacture Mutuality "
 subheadline: "On self-care, loneliness, and the longing to be met by another person"
 meta_teaser: "What if sometimes we don't need another lesson in self-care, but someone to turn towards us? A reflection on loneliness, connection and the limits of self-care."
