@@ -1,5 +1,7 @@
 # Work With Me
 
+Across all of my work, I'm interested in what happens when we lose contact — with ourselves, with another person, or with a group — and in what helps us find our way back to greater understanding, honesty and connection.
+
 I offer three kinds of support:  
 
 **Individual counselling**  
