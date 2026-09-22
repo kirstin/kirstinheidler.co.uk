@@ -4,31 +4,31 @@
 
 /* relating to _includes/profile.md
 --------------------------------------------------------------------*/
-.who-i-work-with-image {
+.float-right {
     float: right;
     width: 42%;
     max-width: 500px;
-    margin: 0 0 1.5em 2em;
+    margin: 0 0 1em 1.5em;
 }
 
-.who-i-work-with-image-2 {
+.float-left {
     float: left;
     width: 42%;
     max-width: 500px;
-    margin: 0 2em 1.5em 0;
+    margin: 0 1.5em 1em 0;
 }
 
 @media #{$small-only} {
-    .who-i-work-with-image {
+    .float-right {
         float: none;
         width: 100%;
         max-width: none;
-        margin: 0 0 1.5em 0;
+        margin: 0 0 1em 0;
     }
-  .who-i-work-with-image-2 {
+  .float-left {
         float: none;
         width: 100%;
         max-width: none;
-        margin: 0 0 1.5em 0;
+        margin: 0 0 1em 0;
     }
 }
