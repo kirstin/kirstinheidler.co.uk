@@ -15,6 +15,7 @@ sections:
 - markdown: profile.md
 - markdown: why-i-do-what-i-do.md
 - markdown: work-with-me.md
+- markdown: testimonials.md
 # - markdown: vision.md
 # - widgets:
 #  - title: "Relationship Counselling"
@@ -43,10 +44,9 @@ sections:
 #    url: '/organisations/'
 #    image: jason-goodman-Oalh2MojUuk-unsplash.jpg
 #    text: 'Facilitation and conflict support'
-- markdown: practice-groups-and-workshops.md
-- markdown: upcoming-events.md
+# - markdown: practice-groups-and-workshops.md
+# - markdown: upcoming-events.md
 # - html: about-me.html
-- markdown: testimonials.md
 #
 # Use the call for action to show a button on the frontpage
 #
