@@ -13,7 +13,7 @@ callforaction:
   style: alert
 sections:
 - markdown: profile.md
-  markdown: why-i-do-what-i-do.md
+- markdown: why-i-do-what-i-do.md
 - markdown: vision.md
 - markdown: work-with-me.md
 - widgets:
