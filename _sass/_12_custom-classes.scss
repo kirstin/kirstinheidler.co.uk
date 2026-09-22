@@ -32,3 +32,11 @@
         margin: 0 0 1em 0;
     }
 }
+
+/* override frontpage width
+---------------------------------------------------------------------*/
+@media #{$large-only} {
+    body.frontpage .row {
+        max-width: 1200px;
+    }
+}
