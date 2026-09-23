@@ -7,7 +7,7 @@ I offer three kinds of support:
 
 **Individual counselling**  
 For emotional patterns, shame, self-worth, conflict, relationships and feeling stuck.   
-[Learn More >](/individuals/)
+[Learn More >](/counselling/)
 
 **Relationship and conflict support**  
 For people who want help with a difficult conversation, recurring conflict, or a relationship that has become hard to navigate. Not just couples, any relationship that matters.  
