@@ -17,5 +17,5 @@ For people who want help with a difficult conversation, recurring conflict, or a
 For people wanting to learn, practise, or work through difficulties collectively — in groups, communities and organisations.  
 [Learn More >](/groups/)
 
-[Arrange a free initial conversation ›](https://cal.eu/kirstinheidler)
+[Arrange an initial conversation ›](https://cal.eu/kirstinheidler)
 {: .t30 .button .radius target="_blank" rel="noopener"}
