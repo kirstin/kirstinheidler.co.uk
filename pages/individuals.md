@@ -40,7 +40,7 @@ I'm particularly interested in what happens when we lose contact with ourselves 
 ## Practical details
 
 **Sessions:** 60 minutes  
-**Location:** online or in person (if applicable)  
+**Location:** online or in person (I offer home-visits if you live near Llandovery, Wales)  
 **Fee:** £50 -  limited concessionary places available (please ask)  
 
 I offer a **free** 20-minute introductory call.  
