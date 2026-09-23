@@ -15,8 +15,8 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-![Kirstin sitting in ront of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
-I work with clients who are stroggling with things like:
+![Kirstin looking to her right]({{ site.urlimg }}Kirstin/Image5_2.JPG){: .float-left}
+I work with clients who are struggling with things like:
 
 - shame, self-doubt or feeling "too much"
 - emotional reactions that are difficult to understand
