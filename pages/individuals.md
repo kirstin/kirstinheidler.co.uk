@@ -15,35 +15,36 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
+![Kirstin sitting in ront of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
+I work with clients who are stroggling with things like:
 
-I work with clients who are experiencing things like:
-
+- shame, self-doubt or feeling "too much"
+- emotional reactions that are difficult to understand
+- confusion about what you want or need
+- intimacy, closeness or desire
 - conflict in close relationships
-- difficulty expressing needs or boundaries
-- feelings of shame, self-doubt or “not being good enough”/"being too much"
-- confusion about intimacy or closeness
-- wanting to communicate more honestly without damaging relationships
+- expressing needs or boundaries
+- communicating honestly without losing connection
 
 In our sessions we explore what is happening beneath the surface of these experiences, helping you develop greater emotional awareness, self-compassion and clarity about what matters to you.
 
-My approach combines person-centred counselling with practices from Nonviolent Communication and trauma-informed, somatic practices like focusing, meditation and nervous system regulation.
+**You don't need to have everything figured out before coming to counselling.**  
+You might know exactly what you want help with, or simply know that something isn't working and you want space to understand it. We can start there.
 
-## My approach
+## How I work
+![Kirstin sitting in ront of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
+My foundation is person-centred counselling. I also draw on Nonviolent Communication, Focusing, somatic awareness, Internal Family Systems and trauma-informed approaches where these are useful to the work we are doing together.
 
-My work integrates:
-
-- person-centred counselling
-- Nonviolent Communication
-- Focusing and somatic awareness
-- trauma-informed grounding 
+I'm particularly interested in what happens when we lose contact with ourselves — when we don't know what we want, find ourselves reacting in ways we don't understand, or become caught between caring for ourselves and caring for others. Counselling can offer a space to slow these patterns down and meet them with curiosity rather than judgement.
 
 ## Practical details
 
-Sessions: 60 minutes
-Location: online or in person (if applicable)
-Fee: £50 -  sliding scale available (please ask)
+**Sessions:** 60 minutes  
+**Location:** online or in person (if applicable)  
+**Fee:** £50 -  limited concessionary places available (please ask)  
 
-**Free** 20-minute introductory call available.
+I offer a **free** 20-minute introductory call.  
+We can use this call to briefly discuss what brings you to counselling, answer any questions you have, and see whether working together feels like a good fit.
 
 
-[Book a Free 20-minute initial conversation ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
+[Arrange a free 20-minute initial conversation ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
