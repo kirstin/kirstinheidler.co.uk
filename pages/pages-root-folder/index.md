@@ -9,7 +9,7 @@ header:
   image_fullwidth: Kirstin/OnHillCropped.jpg
 callforaction:
   url: https://cal.eu/kirstinheidler
-  text: Arrange a free initial conversation ›
+  text: Arrange an initial conversation ›
   style: alert
 sections:
 - markdown: profile.md
