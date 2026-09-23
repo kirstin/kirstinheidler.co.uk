@@ -14,8 +14,8 @@ breadcrumb: true
 #    caption: Unsplash.com
 #    caption_url: http://unsplash.com
 ---
+![Kirstin sitting in ront of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
 
-![Kirstin looking to her right]({{ site.urlimg }}Kirstin/Image5_2.JPG){: .float-left}
 I work with clients who are struggling with things like:
 
 - shame, self-doubt or feeling "too much"
@@ -32,7 +32,7 @@ In our sessions we explore what is happening beneath the surface of these experi
 You might know exactly what you want help with, or simply know that something isn't working and you want space to understand it. We can start there.
 
 ## How I work
-![Kirstin sitting in ront of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
+![Kirstin looking to her right]({{ site.urlimg }}Kirstin/Image5_2.JPG){: .float-left}
 My foundation is person-centred counselling. I also draw on Nonviolent Communication, Focusing, somatic awareness, Internal Family Systems and trauma-informed approaches where these are useful to the work we are doing together.
 
 I'm particularly interested in what happens when we lose contact with ourselves — when we don't know what we want, find ourselves reacting in ways we don't understand, or become caught between caring for ourselves and caring for others. Counselling can offer a space to slow these patterns down and meet them with curiosity rather than judgement.
