@@ -29,6 +29,7 @@ You might feel disconnected from what you want or need, find yourself reacting i
 - finding it hard to express your needs or boundaries
 - wanting to communicate more honestly while staying connected to yourself and others
 
+## What we can explore together
 In counselling, we can slow things down and explore what is happening beneath the surface of these experiences. We might look at the feelings, needs, beliefs and patterns that make it difficult to stay in contact with yourself or with other people. Over time, this can help you develop greater emotional awareness, self-compassion and clarity about what matters to you.
 
 **You don't need to have everything figured out before coming to counselling.**  
