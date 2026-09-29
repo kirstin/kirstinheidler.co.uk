@@ -19,7 +19,7 @@ breadcrumb: true
 
 My work is rooted in a long personal and professional exploration of what becomes possible when we bring honesty, empathy and attention to those moments.
 
-I care deeply about how we meet each other when things are difficult. I'm interested in what happens when we lose contact — with ourselves, with another person, or with what matters to us — and in what can help us find our way back.
+I'm interested in what happens when we lose contact — with ourselves, with another person, or with what matters to us — and in what can help us find our way back.
 
 ## My path into this work
 
