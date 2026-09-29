@@ -2,7 +2,7 @@
 layout              : page
 title               : "Counselling for Individuals"
 meta_title          : "Counselling in Wales based on Nonviolent Communication, person-centered and somatic"
-teaser              : "Counselling for people who are finding it difficult to stay in contact with themselves or others when things become difficult."
+teaser              : "Counselling for people who are wanting to find more ease with themselves - even when things feel difficult."
 permalink           : "/counselling/"
 # sidebar		          : right
 breadcrumb: true
