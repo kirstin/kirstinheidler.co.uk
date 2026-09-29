@@ -13,7 +13,7 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-I offer individual counselling, relationship counselling and conflict facilitation. Details and fees are below.
+I offer individual counselling, relationship and conflict support, and workshops, training and facilitation. Details and fees are below.
 
 If you're not sure which kind of support would fit your situation, you're welcome to get in touch. We can talk briefly about what you're looking for and work out what might be appropriate.
 
