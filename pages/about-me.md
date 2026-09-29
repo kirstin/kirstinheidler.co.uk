@@ -1,9 +1,9 @@
 ---
 layout              : page
-sidebar		    : right
+# sidebar		    : right
 title               : "Kirstin Heidler - About Me"
 meta_title          : "Counselling for Relationships & Conflict | Kirstin Heidler"
-teaser              : "How we meet each other in difficult moments shapes our relationships — and often our lives. My work is rooted in a long personal and professional exploration of what becomes possible when we bring honesty, empathy and attention to those moments."
+teaser              : "How we meet each other in difficult moments shapes our relationships — and often our lives."
 permalink           : "/aboutme/"
 breadcrumb: true
 #image               : 
@@ -15,44 +15,60 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
+![Picture of Kirstin from 2016]({{ site.urlimg }}NVC_Site.jpg){: .float-right-narrow}
 
-I care deeply about how we meet each other when things are difficult.  
+My work is rooted in a long personal and professional exploration of what becomes possible when we bring honesty, empathy and attention to those moments.
 
-Much of what I know about relationships comes from lived experience. I have spent many years engaging with the challenges and possibilities of close relationships, and again and again I have found that the most difficult moments can also become places of profound learning and change.  
+I care deeply about how we meet each other when things are difficult. I'm interested in what happens when we lose contact — with ourselves, with another person, or with what matters to us — and in what can help us find our way back.
 
-Through this, I have developed a deep understanding of patterns of relating and communication, and of what becomes possible when we are met with empathy and care. I know firsthand how powerful it can be to be truly listened to. In my work, I bring a combination of emotional attunement and clarity — supporting people not only to feel heard, but also to make sense of their experience in new ways.
+![Kirstin standing in an archway to a field]({{ site.urlimg }}Kirstin/IMG-20250927-WA0010.jpg){: .float-left}
+## My path into this work
 
-My path into this work didn’t begin in therapy rooms. It began much earlier, in a growing awareness that something was missing in the way I was relating to myself and others. As a teenager, I was very focused on rational thinking and had learned to disconnect from my emotions - a necessity in an evironment in which I was emotionally alone. At some point, someone reflected this back to me in a way that I couldn’t ignore. It was uncomfortable and painful — and also the beginning of a different kind of honesty.  
+Much of what I know about relationships comes from lived experience. I have spent many years engaging with the challenges and possibilities of close relationships, and again and again I have found that difficult moments can also become places of profound learning and change.
 
-Since then, I have been on a long journey of reconnecting with emotional experience, relationships, and what it means to be fully human.  
+My path into counselling didn't begin in therapy rooms. It began much earlier, with a growing awareness that something was missing in the way I was relating to myself and others.
 
-When I came across Nonviolent Communication in 2014, something clicked. It gave me a language and a practice for what I had been searching for — a way of understanding ourselves and each other that goes beyond blame and into what really matters.  
+As a teenager, I was very focused on rational thinking and had learned to disconnect from my emotions — a necessity in an environment in which I was emotionally alone. At some point, someone reflected this back to me in a way that I couldn't ignore. It was uncomfortable and painful — and also the beginning of a different kind of honesty.
 
-Over the years, this has developed into a deep interest in how we navigate shame, vulnerability, conflict and intimacy — both within ourselves and in our relationships.  
+Since then, I have been on a long journey of reconnecting with emotional experience, relationships, and what it means to be fully human.
 
-Alongside my counselling training, I have worked with individuals, couples, groups and communities in conflict, supporting people to stay in dialogue even when things are tense or painful. This has shaped my trust that even very difficult situations can shift when there is enough care, honesty and support.  
+When I came across Nonviolent Communication in 2014, something clicked. It gave me a language and a practice for what I had been searching for: a way of understanding ourselves and each other that goes beyond blame and into what really matters.
 
-My approach is grounded in person-centred counselling, and is influenced by Nonviolent Communication, somatic awareness and restorative practices. I aim to offer a space where you can explore what is happening for you at your own pace, without pressure or judgement. 
+Over the years, this has developed into a deep interest in how we navigate shame, vulnerability, conflict and intimacy — both within ourselves and in our relationships.
 
-Outside of my work, I live in rural Wales with my two children. For several years I lived off-grid in a community setting, which has been an important part of my learning about simplicity, interdependence and the realities of living closely with others.
+## How I work
 
-## Background and Experience
+My foundation is person-centred counselling. I also draw on Nonviolent Communication, Focusing, somatic awareness and restorative practices, where these are useful to the work we are doing together.
 
-- Foundation Degree in Counselling (Coleg Sir Gâr, completion 2026)
+I'm particularly interested in what happens when we lose contact with ourselves — when we don't know what we want, find ourselves reacting in ways we don't understand, or become caught between caring for ourselves and caring for others.
+
+I aim to offer a space where you can slow things down and explore what is happening for you at your own pace, without pressure or judgement. Sometimes that means making sense of something that has been difficult to understand. Sometimes it means finding words for something you have never quite been able to say. Sometimes it means discovering that what you thought you wanted is not actually what you want.
+
+I don't expect relationships to be easy or conflict-free. But I believe that with enough care, honesty and support, difficult experiences can sometimes become places where we find greater clarity and choice.
+
+## My experience
+
+Alongside my counselling training, I have worked with individuals, couples, groups and communities in conflict. My work in Nonviolent Communication has included facilitation, training, mediation and supporting people to stay in dialogue when things are tense or painful.
+
+I have also completed counselling placements with:
+
+- **New Pathways**, supporting survivors of sexual violence
+- **The Bereavement Service at Glangwili Hospital**
+
+Through my counselling placements, I have supported clients with experiences of trauma, loss, shame and complex emotional challenges. Where helpful, I draw on body awareness and grounding practices alongside talking and reflection.
+
+## Background and training
+- Foundation Degree in Counselling, Coleg Sir Gâr — completion 2026
 - Registered Member of the BACP
-- MSc in IT Systems Engineering (Universität Potsdam, completion 2017)
-- Over 12 years of experience with Nonviolent Communication and facilitation
+- MSc in IT Systems Engineering, Universität Potsdam — completion 2017
+- Over 12 years' experience with Nonviolent Communication and facilitation
 - Training in Restorative Circles, Focusing and relational practices
 - Facilitation of conflict processes in communities and groups
 - Ongoing involvement in international NVC learning communities
+- Ongoing professional development and reflective practice, with regular supervision
 
+## A little more about me
+Outside my work, I live in rural Wales with my two children.
 
-**I have completed counselling placements with**:
-
-- NewPathways, supporting survivors of sexual violence
-- The Bereavement Service at Glangwili Hospital
-
-Through this work, I have supported clients with experiences of trauma, loss, shame and complex emotional challenges. Where helpful I draw on body awareness and grounding practices to support emotional regulation.
-
-I engage in ongoing professional development and reflective practice, and work under regular supervision in line with ethical guidelines.
-
+![Kirstin standing in an archway to a field]({{ site.urlimg }}Environment/YurtSetup.jpg){: .float-left}
+For several years I lived off-grid in a community setting. Living closely with other people, sharing resources and navigating the inevitable tensions of community life have been an important part of my own learning about relationships, interdependence and conflict.
