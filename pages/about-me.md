@@ -21,13 +21,13 @@ My work is rooted in a long personal and professional exploration of what become
 
 I care deeply about how we meet each other when things are difficult. I'm interested in what happens when we lose contact — with ourselves, with another person, or with what matters to us — and in what can help us find our way back.
 
-![Kirstin standing in an archway to a field]({{ site.urlimg }}Kirstin/IMG-20250927-WA0010.jpg){: .float-left}
 ## My path into this work
 
 Much of what I know about relationships comes from lived experience. I have spent many years engaging with the challenges and possibilities of close relationships, and again and again I have found that difficult moments can also become places of profound learning and change.
 
 My path into counselling didn't begin in therapy rooms. It began much earlier, with a growing awareness that something was missing in the way I was relating to myself and others.
 
+![Kirstin standing in an archway to a field]({{ site.urlimg }}Kirstin/IMG-20250927-WA0010.jpg){: .float-left}
 As a teenager, I was very focused on rational thinking and had learned to disconnect from my emotions — a necessity in an environment in which I was emotionally alone. At some point, someone reflected this back to me in a way that I couldn't ignore. It was uncomfortable and painful — and also the beginning of a different kind of honesty.
 
 Since then, I have been on a long journey of reconnecting with emotional experience, relationships, and what it means to be fully human.
