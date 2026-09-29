@@ -1,5 +1,5 @@
 # Work With Me
-![Kirstin in profile with a woman behind]({{ site.urlimg }}concentratedProfile.JPG){: .float-left} 
+![Kirstin with cup in front of a lake]({{ site.urlimg }}Kirstin/IMG-20260621-WA0002.jpg){: .float-left}
 
 I offer three kinds of support, depending on what you're looking for:  
 
