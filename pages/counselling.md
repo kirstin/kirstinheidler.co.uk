@@ -14,7 +14,7 @@ breadcrumb: true
 #    caption: Unsplash.com
 #    caption_url: http://unsplash.com
 ---
-![Kirstin sitting in ront of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
+![Kirstin sitting in front of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
 
 You might feel caught in patterns you don't understand, struggle to know what you want or need, or find yourself reacting in ways you don't really choose. Sometimes these difficulties show up mainly within yourself; sometimes they might play out in relationships.
 
