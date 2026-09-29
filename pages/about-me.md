@@ -70,5 +70,5 @@ Through my counselling placements, I have supported clients with experiences of 
 ## A little more about me
 Outside my work, I live in rural Wales with my two children.
 
-![Kirstin standing in an archway to a field]({{ site.urlimg }}Environment/YurtSetup.jpg){: .float-left}
+![Yurt with door open and a blonde child in front]({{ site.urlimg }}Environment/YurtSetup.jpg){: .float-left}
 For several years I lived off-grid in a community setting. Living closely with other people, sharing resources and navigating the inevitable tensions of community life have been an important part of my own learning about relationships, interdependence and conflict.
