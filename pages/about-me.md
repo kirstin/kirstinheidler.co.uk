@@ -1,7 +1,7 @@
 ---
 layout              : page
 # sidebar		    : right
-title               : "Kirstin Heidler - About Me"
+title               : "About Me"
 meta_title          : "About Kirstin Heidler | Counsellor, NVC Practitioner & Facilitator"
 teaser              : "How we meet each other in difficult moments shapes our relationships — and often our lives."
 permalink           : "/aboutme/"
@@ -19,7 +19,7 @@ breadcrumb: true
 
 My work is rooted in a long personal and professional exploration of what becomes possible when we bring honesty, empathy and attention to those moments.
 
-I care deeply about how we meet each other when things are difficult. I'm interested in what happens when we lose contact — with ourselves, with another person, or with what matters to us — and in what can help us find our way back.
+I'm interested in what happens when we lose contact — with ourselves, with another person, or with what matters to us — and in what can help us find our way back.
 
 ## My path into this work
 
@@ -27,7 +27,7 @@ Much of what I know about relationships comes from lived experience. I have spen
 
 My path into counselling didn't begin in therapy rooms. It began much earlier, with a growing awareness that something was missing in the way I was relating to myself and others.
 
-![Kirstin standing in an archway to a field]({{ site.urlimg }}Kirstin/IMG-20250927-WA0010.jpg){: .float-left}
+![Kirstin standing in an archway to a field]({{ site.urlimg }}Kirstin/IMG-20250927-WA0010.jpg){: .float-left-narrow}
 As a teenager, I was very focused on rational thinking and had learned to disconnect from my emotions — a necessity in an environment in which I was emotionally alone. At some point, someone reflected this back to me in a way that I couldn't ignore. It was uncomfortable and painful — and also the beginning of a different kind of honesty.
 
 Since then, I have been on a long journey of reconnecting with emotional experience, relationships, and what it means to be fully human.
@@ -42,13 +42,13 @@ My foundation is person-centred counselling. I also draw on Nonviolent Communica
 
 I'm particularly interested in what happens when we lose contact with ourselves — when we don't know what we want, find ourselves reacting in ways we don't understand, or become caught between caring for ourselves and caring for others.
 
-I aim to offer a space where you can slow things down and explore what is happening for you at your own pace, without pressure or judgement. Sometimes that means making sense of something that has been difficult to understand. Sometimes it means finding words for something you have never quite been able to say. Sometimes it means discovering that what you thought you wanted is not actually what you want.
+I aim to offer a space where you can slow things down and explore what is happening for you at your own pace, without pressure or judgement. Sometimes that means making sense of something that has been difficult to understand. Sometimes it means finding words for something you have never quite been able to say. Sometimes it means becoming clearer about what you actually want.
 
 I don't expect relationships to be easy or conflict-free. But I believe that with enough care, honesty and support, difficult experiences can sometimes become places where we find greater clarity and choice.
 
 ## My experience
 
-Alongside my counselling training, I have worked with individuals, couples, groups and communities in conflict. My work in Nonviolent Communication has included facilitation, training, mediation and supporting people to stay in dialogue when things are tense or painful.
+Alongside my counselling training, I have many years of experience working with individuals, couples, groups and communities in conflict. My work in Nonviolent Communication has included facilitation, training, mediation and supporting people to stay in dialogue when things are tense or painful.
 
 I have also completed counselling placements with:
 
@@ -68,7 +68,8 @@ Through my counselling placements, I have supported clients with experiences of 
 - Ongoing professional development and reflective practice, with regular supervision
 
 ## A little more about me
-Outside my work, I live in rural Wales with my two children.
+Outside my work, I live in rural Wales with my two children. I enjoy being outdoors and in community, and I practise meditation and my own spiritual practice.
+
+For several years I lived off-grid in a community setting. Living closely with other people, sharing resources and navigating the inevitable tensions of community life have been an important part of my own learning about relationships, interdependence and conflict.
 
 ![Yurt with door open and a blonde child in front]({{ site.urlimg }}Environment/20201001_154432.jpg){: .float-left}
-For several years I lived off-grid in a community setting. Living closely with other people, sharing resources and navigating the inevitable tensions of community life have been an important part of my own learning about relationships, interdependence and conflict.
