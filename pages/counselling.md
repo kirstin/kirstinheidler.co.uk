@@ -2,7 +2,7 @@
 layout              : page
 title               : "Counselling for Individuals"
 meta_title          : "Counselling in Wales based on Nonviolent Communication, person-centered and somatic"
-teaser              : "I offer counselling for people who are finding it difficult to stay in contact with themselves and others when things become difficult."
+teaser              : "Counselling for people who are finding it difficult to stay in contact with themselves or others when things become difficult."
 permalink           : "/counselling/"
 # sidebar		          : right
 breadcrumb: true
@@ -16,21 +16,20 @@ breadcrumb: true
 ---
 ![Kirstin sitting in ront of flowers in the back]({{ site.urlimg }}Kirstin/KirstinBeforeFlowers.jpg){: .float-right}
 
-You might feel disconnected from what you want or need, find yourself reacting in ways you don't understand, or get caught in patterns that keep repeating — on your own, in your relationships, or both.
+You might feel caught in patterns you don't understand, struggle to know what you want or need, or find yourself reacting in ways you don't really choose. Sometimes these difficulties show up mainly within yourself; sometimes they might play out in relationships.
 
-**You might be struggling with...**
+**You might be experiencing...**
 
-- feeling ashamed, not good enough, or “too much”
-- finding it difficult to understand or manage your emotional reactions
-- losing touch with what you actually want, need or feel
-- feeling responsible for other people's feelings
-- difficulties with intimacy, closeness or desire
-- conflict or recurring patterns in close relationships
-- finding it hard to express your needs or boundaries
-- wanting to communicate more honestly while staying connected to yourself and others
+- shame, self-doubt or feeling "too much"
+- emotional reactions that are difficult to understand
+- uncertainty about what you want, need or feel
+- difficulty expressing needs or boundaries
+- questions or difficulties around intimacy, closeness or desire
+- recurring conflict or painful patterns in relationships
+- wanting to communicate more honestly without losing yourself or the relationship
 
 ## What we can explore together
-In counselling, we can slow things down and explore what is happening beneath the surface of these experiences. We might look at the feelings, needs, beliefs and patterns that make it difficult to stay in contact with yourself or with other people. Over time, this can help you develop greater emotional awareness, self-compassion and clarity about what matters to you.
+Counselling offers a space to slow things down and become curious about what is happening. We can explore the feelings, needs, beliefs and patterns underneath your experience, and develop greater awareness of what matters to you.
 
 **You don't need to have everything figured out before coming to counselling.**  
 You might know exactly what you want help with, or simply know that something isn't working and you want space to understand it. We can start there.
@@ -38,12 +37,6 @@ You might know exactly what you want help with, or simply know that something is
 ![Kirstin looking to her right]({{ site.urlimg }}Kirstin/Image5_2.JPG){: .float-left}
 ## How I work
 My foundation is person-centred counselling. I also draw on Nonviolent Communication, Focusing, somatic awareness, Internal Family Systems and trauma-informed approaches where these are useful to the work we are doing together.
-
-I'm particularly interested in what happens when we lose contact with ourselves — when we don't know what we want, find ourselves reacting in ways we don't understand, or become caught between caring for ourselves and caring for others. 
-
-Counselling can offer a space to slow these patterns down and meet what is happening with curiosity rather than judgement. We can become more able to notice what is happening within us, make sense of it, and find more choice in how we respond.
-
-The aim isn't to become a different person or to get everything right. It is to become more able to stay in contact with yourself — including when things are difficult — and to have more choice in how you meet the people and situations that matter to you.
 
 ## Practical details
 
