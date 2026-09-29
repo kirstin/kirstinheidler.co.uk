@@ -1,7 +1,7 @@
+![Headshot of Kirstin]({{ site.urlimg }}Kirstin/Image4_2 (2).JPG){: .float-right-narrow}
 # Hi, I'm Kirstin
 
 <br>
-![Headshot of Kirstin]({{ site.urlimg }}Kirstin/Image4_2 (2).JPG){: .float-right-narrow}
 
 I care deeply about how we meet each other when things are difficult.
 
