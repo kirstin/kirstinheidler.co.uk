@@ -48,7 +48,7 @@ I don't expect relationships to be easy or conflict-free. But I believe that wit
 
 ## My experience
 
-Alongside my counselling training, I have worked with individuals, couples, groups and communities in conflict. My work in Nonviolent Communication has included facilitation, training, mediation and supporting people to stay in dialogue when things are tense or painful.
+Alongside my counselling training, I have many years of experience working with individuals, couples, groups and communities in conflict. My work in Nonviolent Communication has included facilitation, training, mediation and supporting people to stay in dialogue when things are tense or painful.
 
 I have also completed counselling placements with:
 
@@ -68,7 +68,8 @@ Through my counselling placements, I have supported clients with experiences of 
 - Ongoing professional development and reflective practice, with regular supervision
 
 ## A little more about me
-Outside my work, I live in rural Wales with my two children.
+Outside my work, I live in rural Wales with my two children. I enjoy being outdoors and in community, and I practise meditation and my own spiritual practice.
+
+For several years I lived off-grid in a community setting. Living closely with other people, sharing resources and navigating the inevitable tensions of community life have been an important part of my own learning about relationships, interdependence and conflict.
 
 ![Yurt with door open and a blonde child in front]({{ site.urlimg }}Environment/20201001_154432.jpg){: .float-left}
-For several years I lived off-grid in a community setting. Living closely with other people, sharing resources and navigating the inevitable tensions of community life have been an important part of my own learning about relationships, interdependence and conflict.
