@@ -9,14 +9,11 @@ You might be finding yourself caught in patterns that are difficult to understan
 
 ### I work with people who...
 - want to feel more at ease with themselves
-- find themselves reacting in ways they don't really choose or understand
+- find themselves reacting in ways they don't understand or choose
 - struggle to know what they actually want or need
-- feel responsible for other people's feelings
-- find themselves caught in patterns they don't understand or know how to change
-- want to be able to express themselves more honestly
-- long for greater closeness, but find connection difficult to sustain
-- keep having the same difficult conversations again and again
-- are trying to understand what happened in a difficult relationship, or how they want to relate differently in future
+- feel ashamed, “too much”, or not good enough
+- find themselves caught in painful patterns, alone or in relationships
+- want to express themselves more honestly without losing connection
 
 I offer a space where we can slow things down, understand what is happening beneath the surface, and find new ways of relating — with yourself and with others.
 
