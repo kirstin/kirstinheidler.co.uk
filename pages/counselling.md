@@ -47,7 +47,7 @@ The aim isn't to become a different person or to get everything right. It is to 
 ## Practical details
 
 **Sessions:** 60 minutes  
-**Location:** Online, or in person if applicable. I also offer home visits if you live near Llandovery, Wales.
+**Location:** Online, or in person if applicable. I also offer home visits if you live near Llandovery, Wales.  
 **Fee:** £50 -  limited concessionary places available (please ask)  
 
 I offer a **free** 20-minute introductory call.  
