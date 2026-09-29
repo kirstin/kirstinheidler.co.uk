@@ -42,7 +42,7 @@ My foundation is person-centred counselling. I also draw on Nonviolent Communica
 
 I'm particularly interested in what happens when we lose contact with ourselves — when we don't know what we want, find ourselves reacting in ways we don't understand, or become caught between caring for ourselves and caring for others.
 
-I aim to offer a space where you can slow things down and explore what is happening for you at your own pace, without pressure or judgement. Sometimes that means making sense of something that has been difficult to understand. Sometimes it means finding words for something you have never quite been able to say. Sometimes it means discovering that what you thought you wanted is not actually what you want.
+I aim to offer a space where you can slow things down and explore what is happening for you at your own pace, without pressure or judgement. Sometimes that means making sense of something that has been difficult to understand. Sometimes it means finding words for something you have never quite been able to say. Sometimes it means becoming clearer about what you actually want.
 
 I don't expect relationships to be easy or conflict-free. But I believe that with enough care, honesty and support, difficult experiences can sometimes become places where we find greater clarity and choice.
 
