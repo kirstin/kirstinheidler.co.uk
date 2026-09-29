@@ -11,6 +11,13 @@
     margin: 0 0 1em 1.5em;
 }
 
+.float-right-narrow {
+    float: right;
+    width: 33%;
+    max-width: 500px;
+    margin: 0 0 1em 1.5em;
+}
+
 .float-left {
     float: left;
     width: 42%;
@@ -20,6 +27,12 @@
 
 @media #{$small-only} {
     .float-right {
+        float: none;
+        width: 100%;
+        max-width: none;
+        margin: 0 0 1em 0;
+    }
+    .float-right-narrow {
         float: none;
         width: 100%;
         max-width: none;
