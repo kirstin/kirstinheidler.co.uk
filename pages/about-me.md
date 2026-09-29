@@ -2,7 +2,7 @@
 layout              : page
 # sidebar		    : right
 title               : "Kirstin Heidler - About Me"
-meta_title          : "Counselling for Relationships & Conflict | Kirstin Heidler"
+meta_title          : "About Kirstin Heidler | Counsellor, NVC Practitioner & Facilitator"
 teaser              : "How we meet each other in difficult moments shapes our relationships — and often our lives."
 permalink           : "/aboutme/"
 breadcrumb: true
