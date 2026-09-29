@@ -1,7 +1,7 @@
 # Hi, I'm Kirstin
 
 <br>
-![Headshot of Kirstin]({{ site.urlimg }}Kirstin/Image4_2 (2).JPG){: .float-right max-height="500px" height="auto"}
+![Headshot of Kirstin]({{ site.urlimg }}Kirstin/Image4_2 (2).JPG){: .float-right height="500px"}
 
 I care deeply about how we meet each other when things are difficult.
 
