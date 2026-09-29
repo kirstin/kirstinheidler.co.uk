@@ -27,7 +27,7 @@ Much of what I know about relationships comes from lived experience. I have spen
 
 My path into counselling didn't begin in therapy rooms. It began much earlier, with a growing awareness that something was missing in the way I was relating to myself and others.
 
-![Kirstin standing in an archway to a field]({{ site.urlimg }}Kirstin/IMG-20250927-WA0010.jpg){: .float-left-narrow}
+![Kirstin standing in an archway to a field]({{ site.urlimg }}Kirstin/IMG-20250927-WA0010.jpg){: .float-left}
 As a teenager, I was very focused on rational thinking and had learned to disconnect from my emotions — a necessity in an environment in which I was emotionally alone. At some point, someone reflected this back to me in a way that I couldn't ignore. It was uncomfortable and painful — and also the beginning of a different kind of honesty.
 
 Since then, I have been on a long journey of reconnecting with emotional experience, relationships, and what it means to be fully human.
@@ -36,6 +36,7 @@ When I came across Nonviolent Communication in 2014, something clicked. It gave 
 
 Over the years, this has developed into a deep interest in how we navigate shame, vulnerability, conflict and intimacy — both within ourselves and in our relationships.
 
+<br> <br>
 ## How I work
 
 My foundation is person-centred counselling. I also draw on Nonviolent Communication, Focusing, somatic awareness and restorative practices, where these are useful to the work we are doing together.
