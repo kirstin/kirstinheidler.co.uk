@@ -368,7 +368,11 @@ body.video cite { color: #fff; }
     }
 }
 
-
+@media #{$small-only} {
+  .official-logos img {
+    width: 10em;
+  }
+}
 .subfooter-logo {
   height: 100%;
 }
