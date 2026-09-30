@@ -77,7 +77,7 @@ I don't see learning as simply taking in information. For me, it involves having
 
 ## Interested in working together?
 
-If you're interested in joining a group, organising a workshop, or finding facilitation for your group or organisation, you're welcome to get in touch.
+If you're interested in joining a group, organising a workshop, or exploring facilitation for your group or organisation, you're welcome to get in touch.
 
 
 [Get in touch >](/contact/)
