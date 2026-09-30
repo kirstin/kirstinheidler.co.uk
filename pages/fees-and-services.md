@@ -35,7 +35,7 @@ _You choose where to land within this range._
 
 For two people or small groups who want support with communication, recurring conflict, disconnection or a difficult conversation.
 
-This might be partners, friends, family members, colleagues, or others in an important relationship. The aim is to create enough space for the people involved to be heard and to understand what is happening between them.
+This might be partners, friends, family members, colleagues, or others in an important relationship. The aim is to create enough space for the people involved to understand what is happening between them and find more choice in how they respond.
 
 We can work towards a supported conversation or mediation, or I can work with one or more of you individually to help you find more choice and agency in how you participate in the dynamic.
 
@@ -50,7 +50,7 @@ I offer workshops and experiential training around communication, conflict, rela
 I can also design workshops or training around a particular situation or learning need.
 
 Fees vary depending on the group, format and preparation required.  
-Get in touch to discuss what you're looking for.
+**Get in touch to discuss what you're looking for.**
 
 ## Concessions
 
