@@ -79,6 +79,7 @@ I support you in:
 - recognising patterns that keep repeating
 - finding ways of relating that feel more honest and connected
 
+![Kirstin sitting at a table with a paper notebook and pen in hand]({{ site.urlimg }}Kirstin/17.jpeg){: .float-left}
 ## What can become possible
 
 When there is enough support and attention, it is possible that even long-standing patterns begin to shift.  
