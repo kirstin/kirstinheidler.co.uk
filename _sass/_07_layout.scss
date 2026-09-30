@@ -97,7 +97,7 @@ body.video cite { color: #fff; }
         display: none;
     }
     #masthead {
-        height: 225px;
+        height: 230px;
     }
     #masthead-with-pattern {
         padding: 15px 0;
@@ -346,7 +346,8 @@ body.video cite { color: #fff; }
 }
 
 #subfooter-right {
-  height: 5em;
+  height: auto;
+  min-height: 5em;
   margin-bottom: 1em;
 }
 
