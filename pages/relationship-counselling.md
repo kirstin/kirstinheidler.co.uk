@@ -1,9 +1,9 @@
 ---
 layout              : page
-title               : "Relationship Counselling"
-meta_title          : "Relationship Counselling in Wales | Kirstin Heidler"
-teaser              : "Relationships can be a source of fulfillment and deep connection — and also of confusion, hurt and recurring conflict. I offer a space where we can slow things down and begin to understand what is happening beneath the surface."
-permalink           : "/relationship-counselling/"
+title               : "Relationship & Conflict Support"
+meta_title          : "Relationship & Conflict Support in Wales | Kirstin Heidler"
+teaser              : ""
+permalink           : "/relationship-support/"
 # sidebar		          : right
 breadcrumb: true
 #image               : 
@@ -15,36 +15,53 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
+When something important between people has become difficult, it can be hard to know how to move forward. You may be having the same arguments repeatedly, struggling to talk about something, or feeling stuck in a pattern where nobody quite feels heard.
+
+I offer support for people who want to understand what is happening between them and find more choice in how they respond.
+
+The support I offer can be helpful when there is conflict, disconnection, a difficult conversation that needs to happen, or simply a sense that something between you isn't working as you would like.
+
 > Relationships are both the biggest threat to safety at times and the greatest window for healing.
 
-Relationships matter deeply — and they can also be some of the most challenging places in our lives.
+**You might be experiencing**
+- the same arguments or conflicts happening again and again
+- difficulty talking about something important without things escalating
+- feeling unheard, misunderstood or unable to get through to each other
+- tension, distance or disconnection that you don't quite know how to address
+- difficulty expressing what matters to you without blaming or withdrawing
+- uncertainty about how to navigate a change in the relationship
+- wanting to have a conversation that feels too difficult to manage alone
 
-You might find yourselves having the same arguments again and again, feeling misunderstood, or unsure how to talk about what really matters without things escalating. Sometimes there is distance, tension, or a sense of disconnection that is hard to name.
-
-**Relationships don’t have to be romantic. You might come as partners, friends, family members, colleagues or neighbours.**
-
-Relationship counselling offers a space to slow down and explore what is happening between you.
-
-You might be experiencing
-
-- recurring arguments that don’t seem to resolve
-- difficulty expressing needs or boundaries
-- feeling unheard or misunderstood
-- tension around closeness, intimacy or distance
-- jealousy, insecurity or lack of trust
-- a sense of disconnection or emotional distance
-
-You don’t need to be in crisis to seek support. Often it is enough to notice that something isn’t working in the way you would like.
-
-[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
+This work isn't limited to romantic relationships. You might come as partners, friends, family members, colleagues, co-parents, or other people who matter to one another privately or professionally.
 
 ## How I work
 
-In our sessions, we create a space where both people can be heard. I usually begin by meeting each of you individually, followed by joint sessions where I support a structured and facilitated conversation between you.
+My role is to create enough structure and safety for people to slow down and pay attention to what is happening between them.
 
-Rather than trying to determine who is right, we begin to explore what is happening underneath the surface — the feelings, needs and patterns that shape how you relate to each other.  
-My role is not to take sides, but to support both of you in being heard and in understanding each other more deeply.
+Depending on the situation, we might work together with everyone involved, or I might work individually with one or more people. Sometimes the aim is to prepare for a particular conversation; sometimes we work towards a supported conversation or mediation. Sometimes the work is about helping someone understand their own position and find more choice in how they participate in a difficult dynamic.
 
+I don't take sides or try to determine who is right. Instead, I help make space for different perspectives and support people to understand more clearly what is happening — including the feelings, needs, assumptions and patterns underneath the conflict.
+
+My approach is grounded in Nonviolent Communication and informed by mediation, restorative practices and relational conflict work.
+
+## We can work in different ways
+There isn't one right format for relationship and conflict work. We can shape the support around what is happening and what you want to achieve.
+
+**Supported conversation**
+
+You want to have a conversation about something difficult, but would like someone there to help you slow things down, hear each other and stay with what matters.
+
+**Mediation**
+
+You are in a significant conflict and want structured support to understand the different perspectives and work towards a way forward.
+
+**Individual support within a relationship**  
+
+You may be struggling with your own position in a difficult relationship or recurring dynamic. We can work individually on understanding what is happening, what matters to you, and what choices you have.
+
+**Small-group support**
+
+More than two people may be involved — for example family members, co-parents or a small group dealing with a shared difficulty. We can work out together what kind of support would be useful.
 
 I support you in:
 
@@ -56,37 +73,31 @@ I support you in:
 
 My approach is grounded in Nonviolent Communication and informed by mediation, restorative practices and relational conflict work.
 
-## What becomes possible
+## What can become possible
 
-When there is enough support and attention, even long-standing patterns can begin to shift.
+When there is enough support and attention, even long-standing patterns can begin to shift.  
+The aim isn't necessarily to resolve everything or to make everyone agree. Sometimes what matters most is being able to understand the situation more clearly and have more choice about what you do next.
 
-Couples often find that they are able to:
+**The work may help you:**
+- have a difficult conversation without getting lost in the usual pattern
+- understand what is happening beneath recurring conflict
+- express what matters to you more clearly
+- hear another person's perspective without having to agree with it
+- recognise where you have choice and where you don't
+- find a way forward that genuinely works for all involved
+- make clearer decisions about what you want to do next
 
-- understand each other more deeply
-- communicate with greater honesty and care
-- move through conflict without escalation
-- reconnect emotionally
-- make clearer decisions about their relationship
 
 ## Practical details
 
-Sessions: 
-- 60 minutes (individual)
-- 90 minutes (joint)
-Format: online (in-person possible by arrangement)
-Fee: £70 (sliding scale available — please ask)
+**Sessions:** 90 minutes  (60min individual)
 
-I offer a free 20-minute introductory call so we can see whether working together feels like a good fit.
+**Fee:** £75–£100 — you choose where to land within this range  
 
-[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
+**Format:** Online or in person by arrangement  
 
-## A slightly different approach
+The appropriate format depends on the situation. We can discuss this when you get in touch.
 
-My work is particularly suited to people who want to understand their relationship more deeply — not just fix surface-level problems.
+Before arranging a session, I offer a free 20-minute introductory conversation. This gives us a chance to talk briefly about what is happening, who might be involved, and what kind of support might be useful.
 
-This includes people who are interested in:
-
-- emotional awareness
-- honest communication
-- exploring patterns of shame or reactivity
-- alternative ways of relating
+[Book an initial conversation ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
