@@ -23,7 +23,7 @@ I offer support for people who want to understand what is happening between them
 
 The support I offer can be helpful when there is conflict, disconnection, a difficult conversation that needs to happen, or simply a sense that something between you isn't working as you would like.
 
-<br><br>
+<br><br><br>
 
 **You might be experiencing**
 - the same arguments or conflicts happening again and again
