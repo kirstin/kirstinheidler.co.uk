@@ -28,7 +28,7 @@
   side: right
 
 - title: Fees
-  url: "/services"
+  url: "/services/"
   side: left
 
 #- title: Upcoming Events
