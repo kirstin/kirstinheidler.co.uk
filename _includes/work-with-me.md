@@ -9,7 +9,7 @@ For emotional patterns, shame, self-worth, conflict, relationships and feeling s
 
 **Relationship and conflict support**  
 For people who want help with a difficult conversation, recurring conflict, or a relationship that has become hard to navigate. Not just couples, any relationship that matters.  
-[Learn More >](/relationship-counselling/)
+[Learn More >](/relationship-support/)
 
 **Groups, workshops and facilitation**  
 For people wanting to learn, practise, or work through difficulties collectively — in groups, communities and organisations.  
