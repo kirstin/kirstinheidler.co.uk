@@ -15,13 +15,16 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
+![Kirstin leading a group in grounding]({{ site.urlimg }}Kirstin/29.jpeg){: .float-left}
 When something important between people has become difficult, it can be hard to know how to move forward. You may be having the same arguments repeatedly, struggling to talk about something, or feeling stuck in a pattern where nobody quite feels heard.
 
 I offer support for people who want to understand what is happening between them and find more choice in how they respond.
 
 The support I offer can be helpful when there is conflict, disconnection, a difficult conversation that needs to happen, or simply a sense that something between you isn't working as you would like.
 
-> Relationships are both the biggest threat to safety at times and the greatest window for healing.
+<div class="pull-quote">
+Relationships can be both the biggest threat to safety and the greatest window for healing.
+</div>
 
 **You might be experiencing**
 - the same arguments or conflicts happening again and again
@@ -34,6 +37,7 @@ The support I offer can be helpful when there is conflict, disconnection, a diff
 
 This work isn't limited to romantic relationships. You might come as partners, friends, family members, colleagues, co-parents, or other people who matter to one another privately or professionally.
 
+![Kirstin standing next to a flipchart in front of a group]({{ site.urlimg }}Kirstin/pesenting.JPG){: .float-right}
 ## How I work
 
 My role is to create enough structure and safety for people to slow down and pay attention to what is happening between them.
@@ -71,11 +75,9 @@ I support you in:
 - recognising patterns that keep repeating
 - finding ways of relating that feel more honest and connected
 
-My approach is grounded in Nonviolent Communication and informed by mediation, restorative practices and relational conflict work.
-
 ## What can become possible
 
-When there is enough support and attention, even long-standing patterns can begin to shift.  
+When there is enough support and attention, it is possible that even long-standing patterns begin to shift.  
 The aim isn't necessarily to resolve everything or to make everyone agree. Sometimes what matters most is being able to understand the situation more clearly and have more choice about what you do next.
 
 **The work may help you:**
