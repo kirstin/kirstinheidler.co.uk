@@ -97,7 +97,7 @@ The aim isn't necessarily to resolve everything or to make everyone agree. Somet
 <br><br>
 ## Practical details
 
-**Sessions:** 90 minutes  (60min individual)
+**Sessions:** 90 minutes  (60 minutes for individual support)
 
 **Fee:** £75–£100 — you choose where to land within this range  
 
