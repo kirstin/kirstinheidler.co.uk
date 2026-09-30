@@ -82,7 +82,7 @@ I support you in:
 ![Kirstin sitting at a table with a paper notebook and pen in hand]({{ site.urlimg }}Kirstin/17.jpeg){: .float-left}
 ## What can become possible
 
-When there is enough support and attention, it is possible that even long-standing patterns begin to shift.  
+With enough space and attention, patterns that have felt stuck can sometimes begin to shift.  
 The aim isn't necessarily to resolve everything or to make everyone agree. Sometimes what matters most is being able to understand the situation more clearly and have more choice about what you do next.
 
 **The work may help you:**
