@@ -32,7 +32,7 @@ Telegram and Signal (and phone from Germany): [+49&nbsp;163&nbsp;683&nbsp;4491](
 
 Email: <a id="mailLink">hello[at]kirstinheidler.co.uk</a>
 
-[Book a Free Discovery Call ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
+[Book an initial conversation ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
 
 If you would like to file a complaint, please see the [complaints procedure]({{ site.baseurl }}/complaints-procedure).
 
