@@ -15,7 +15,7 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-![Kirstin leading a group in grounding]({{ site.urlimg }}Kirstin/29.jpeg){: .float-left}
+![Kirstin leading a group in grounding]({{ site.urlimg }}Kirstin/29.jpeg){: .float-left}  
 When something important between people has become difficult, it can be hard to know how to move forward. You may be having the same arguments repeatedly, struggling to talk about something, or feeling stuck in a pattern where nobody quite feels heard.
 
 I offer support for people who want to understand what is happening between them and find more choice in how they respond.
