@@ -40,7 +40,7 @@ If you would like to file a complaint, please see the [complaints procedure]({{ 
 
 ## Payments
 
-Have a look at this to pay me via bank transfer:
+Have a look at this to pay me via bank transfer (click to reveal):
 
 <p><details>
   <summary>UK payment information</summary>
@@ -53,9 +53,9 @@ Have a look at this to pay me via bank transfer:
 
 ## Contents and Material
 
-I share contents of my work freely.
-You can pay or donate for the work it took and
-obtain them under a [free license]({{ site.baseurl }}/license/).
+I share contents of my work freely.  
+If you choose to use something in your work, it would meet a needs for recognition, appreciation and financial ease if you chose to donate some money for the work it took to create them.  
+You can obtain my work under a [free license]({{ site.baseurl }}/license/).
 
 
 <!-- obfuscated email -->
