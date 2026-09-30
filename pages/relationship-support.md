@@ -15,7 +15,7 @@ breadcrumb: true
 #    caption_url: http://unsplash.com
 ---
 
-![Kirstin leading a group in grounding]({{ site.urlimg }}Kirstin/29.jpeg){: .float-left}  
+![Kirstin leading a group in grounding]({{ site.urlimg }}Kirstin/29.jpeg){: .float-right}  
 <br>
 When something important between people has become difficult, it can be hard to know how to move forward. You may be having the same arguments repeatedly, struggling to talk about something, or feeling stuck in a pattern where nobody quite feels heard.
 
@@ -23,7 +23,7 @@ I offer support for people who want to understand what is happening between them
 
 The support I offer can be helpful when there is conflict, disconnection, a difficult conversation that needs to happen, or simply a sense that something between you isn't working as you would like.
 
-<br><br><br>
+<br>
 
 **You might be experiencing**
 - the same arguments or conflicts happening again and again
