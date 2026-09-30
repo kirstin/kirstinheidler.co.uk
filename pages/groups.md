@@ -1,7 +1,7 @@
 ---
 layout              : page
 title               : "Groups, Workshops & Facilitation"
-meta_title          : "Workshops & Nonviolent Communication Training | Kirstin Heidler"
+meta_title          : "Groups, Workshops & Facilitation | Kirstin Heidler"
 teaser              : "I offer groups, workshops and facilitation for people who want to learn, practise and explore communication, conflict and relationships together."
 permalink           : "/groups/"
 breadcrumb: true
