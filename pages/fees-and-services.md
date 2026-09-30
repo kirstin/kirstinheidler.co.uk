@@ -15,7 +15,7 @@ breadcrumb: true
 
 I offer individual counselling, relationship and conflict support, and workshops, training and facilitation. Details and fees are below.
 
-If you're not sure which kind of support would fit your situation, you're welcome to get in touch. We can talk briefly about what you're looking for and work out what might be appropriate.
+If you're not sure which kind of support would fit your situation, you're welcome to get in touch. We can talk briefly about what you're looking for and work out what might be a good fit.
 
 [Book a Free 20 min initial conversation ›](https://cal.eu/kirstinheidler){: .t30 .button .radius target="_blank" rel="noopener"}
 
