@@ -94,7 +94,7 @@ The aim isn't necessarily to resolve everything or to make everyone agree. Somet
 - find a way forward that genuinely works for all involved
 - make clearer decisions about what you want to do next
 
-
+<br><br>
 ## Practical details
 
 **Sessions:** 90 minutes  (60min individual)
