@@ -23,9 +23,6 @@ I offer support for people who want to understand what is happening between them
 The support I offer can be helpful when there is conflict, disconnection, a difficult conversation that needs to happen, or simply a sense that something between you isn't working as you would like.
 
 <br>
-<div class="pull-quote">
-Relationships can be both the biggest threat to safety and the greatest window for healing.
-</div>
 
 **You might be experiencing**
 - the same arguments or conflicts happening again and again
@@ -37,6 +34,11 @@ Relationships can be both the biggest threat to safety and the greatest window f
 - wanting to have a conversation that feels too difficult to manage alone
 
 This work isn't limited to romantic relationships. You might come as partners, friends, family members, colleagues, co-parents, or other people who matter to one another privately or professionally.
+
+<br>
+<div class="pull-quote">
+Relationships can be both the biggest threat to safety and the greatest window for healing.
+</div>
 
 ![Kirstin standing next to a flipchart in front of a group]({{ site.urlimg }}Kirstin/presenting.JPG){: .float-right}
 ## How I work
